@@ -2,7 +2,7 @@ baseURL = "www.makwaijun.com/"
 languageCode = "en-UK"
 title = "Mak Wai Jun"
 theme = "WJMinimo"
-relativeURLs = true
+relativeURLs = false
 
 [menu]
 
