@@ -1,0 +1,43 @@
+
+  /*index*/
+  @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,200);
+
+.indexdesc {
+    font-family: Raleway;
+    color: darkslategray;
+    text-align: center;
+    margin-bottom: 50px;
+      }
+
+.indextitle { 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Raleway;
+    color: darkslategray;   
+    text-align: center;
+}
+
+#mainNav.is-fixed {
+  /* when the user scrolls down, we hide the header right above the viewport */
+  position: fixed;
+;
+}
+#mainNav.is-visible {
+  /* if the user changes the scrolling direction, we show the header */
+  transform: translate3d(0, 100%, 0);
+}
+
+/*footer*/
+
+.social {
+  padding: 0;
+  list-style: none;
+}
+
+.social > li {
+  display: inline-block;
+  padding-right: 1em; 
+  color: darkslategray;
+}
+
+

@@ -1,0 +1,21 @@
+<footer class="footer">
+  <hr>
+  <ul class="social">
+      <li><a href="https://www.youtube.com/channel/UC3jm-58BYTHq71-R8wp-Tsg"><i class="fab fa-youtube-square fa-2x" style="color:darkslategray"></i></a></li>
+      <li><a href="https://steamcommunity.com/profiles/76561197988431305"><i class="fab fa-steam-square fa-2x" style="color:darkslategray"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/wai-jun-mak-1b401868/"><i class="fab fa-linkedin fa-2x" style="color:darkslategray"></i></a></li>
+      <li><a href="https://github.com/makwaijun"><i class="fab fa-github-square fa-2x" style="color:darkslategray"></i></a></li>
+      <li><a href="https://www.goodreads.com/user/show/17959759-wj"><i class="fab fa-goodreads fa-2x" style="color:darkslategray"></i></a></li>
+</ul>
+  
+  <small class="text-muted">
+        {{ if .Site.Copyright }}
+            {{ .Site.Copyright | safeHTML }}
+        {{ else }}
+            {{ "&copy; 2020, Wai Jun Mak" | safeHTML }}
+        {{ end }}
+        <br>
+
+        <p>Built with <a href="https://gohugo.io/" target="_blank">Hugo</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>, deployed on <a href="https://www.netlify.com/" target="_blank">Netlify</a></p>
+    </small>
+</footer>
