@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "www.makwaijun.com/"
+languageCode = "en-UK"
 title = "Mak Wai Jun"
 theme = "WJMinimo"
 relativeURLs = true
