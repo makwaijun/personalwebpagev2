@@ -19,4 +19,4 @@ Original Pieces
 
 
 ## Gear
-Most videos were recorded with a [Blue Yeti](https://www.bluedesigns.com/products/yeti/) Microphone and [Audacity](https://www.audacityteam.org/). These were first introduced to me almost a decade ago - and they still remain highly relevant to this day!
+Most videos were recorded with a [Blue Yeti](https://www.bluedesigns.com/products/yeti/) Microphone and [Audacity](https://www.audacityteam.org/). I first used these more than a decade ago - and they still work well even today.

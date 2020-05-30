@@ -13,7 +13,7 @@ This [guide](https://willschenk.com/articles/2018/building-a-hugo-site/) in part
 
 Still fairly minimalist, but I have much better control and understanding of where the various elements are situated.
 
-Key takesaways from this session were:
+Key take-aways from this session were:
 1. A slightly deeper understanding of the hugo framework.
 2. Hosting static page on pure html/css - and layering it over the Hugo frame.
 

@@ -5,7 +5,7 @@ draft: false
 tags: [ "thoughts" , "website" ]
 ---
 
-# Post 1: ..the blog is live!
+## ..the blog is live!
 
 If what I do is common - I tend to read the latest few posts and first post when visiting a new blog. So I better make this one count!
 
