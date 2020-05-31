@@ -1,20 +1,24 @@
 ---
-title: "Thoughts on the Hong Kong"
+title: "Thoughts on the Hong Kong Crisis"
 date: 2020-05-30T21:23:18+08:00
 draft: false
-tags: ["current affairs" ]
+tags: ["current affairs", "forecast" ]
 ---
 ## Keeping Momentum
 Its been a while.
 
-It had been on the back of my mind for a while to perhaps maintain a steady cadence to blogging. Recent news triggered a short reaction. Specifically on....
+I should maintain a steady cadence to blogging.
 
-## On Hong Kong
+But perhaps I should also let the process take its natural course.
 
-Hong Kong renders as odd feeling in me. 
+Recent news triggered a short reaction. Specifically on....
+
+## Hong Kong
+
+Hong Kong renders an odd feeling in me. 
 
 I am, and fully identify as being Singaporean (perhaps an idea worth exploring in future posts) in citizenship, but I am half-Hong Konger in blood. 
-I have only been there twice in my life. And my cantonese is terrible. 
+I have only been there twice in my life. And my cantonese is terrible. What kind of connection do I feel?
 
 I cannot help but feel that the golden age of Hong Kong is over. And I must feel sorry for my peers and friends there. Expectations will need to be changed. 
 
@@ -42,7 +46,7 @@ The begrudged but optionless? The ones who have shifted their allegiances to Chi
 
 These are hypothetical. I may be out of touch with what is happening on the ground. 
 
-##HK 2050
+## HK 2050
 
 I wonder what the Hong Kong of 2050 will look like. 
 
@@ -50,4 +54,4 @@ A hollowed out gray city with an aging population. Skyscrapers that once held th
 Smatterings of Chinese rule persist. Indeed Hong Kong needs China more than ever before.
 
 
-This is perhaps just an opinion. A view from the perspective of 2020. Will hopefully reopen this timecapsule later. 
+This is just an opinion. A view from the perspective of 2020. Will hopefully reopen this timecapsule later. 
