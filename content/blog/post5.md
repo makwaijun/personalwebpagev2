@@ -34,27 +34,20 @@ Not in any particular order, but structured by certain thematic areas.
 
 ### Series 3: Sustainability
 1. My personal journey with sustainability
-2. The instinct of the privileged and Skin in the Game
-3. Breaking down the true enemy of the planet (and why they will continue to exist)
+2. The instinct of the privileged and ensuring Skin-in-the-Game
+3. My opinion on true "enemy" of sustainability (and why they will continue to exist)
 
 ### Series 4: Thoughts on Economic Development in Singapore
-1. The eternal tensions. The two speed economy in global markets.
-2. The mercantile mindset in an age of innovation: an exploration into Singapore's history of profiting off others, as opposed to generating value)
+- [ ] Singapore's merchant mindset in an age of innovation (drafting)
+- [ ] The inevitable fork in the highway. Dealing with a Two speed economy in global markets.
 
 ### Other personal/ thoughts
 
 - [ ] A list of the best Hokkien Mee in Singapore!
-
 - [ ] "Never Say Always" - The intolerance of intolerance: an contemplation on the philosophy of living in the gray. But what if you cannot tolerate those who live in the black and white?
-
 - [x] Lifestacks map - a tool for polymaths (scoping, updated 5 Jun 2020)
-
 - [ ] Lifestacks map - launch
-
 - [ ] How systems thinking changed my life
-
 - [ ] Antiscale - book review of Scale, and thoughts on the opposite
-
 - [ ] Spin offs and spillovers: the unintended consequences of our actions
-
 - [ ] Personal finance plan

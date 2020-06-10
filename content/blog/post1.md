@@ -11,15 +11,21 @@ If what I do is common - I tend to read the latest few posts and first post when
 
 It took the better part of one and a half-ish days over the long weekend to get this up and running. 
 
-I had been mulling *for a long time* on having my own personal website.
+I had been mulling *for a long time* to built my own website.
 
-With the world relentlessly digitising, I cannot help but feel that our very essence of being - identity, knowledge, etc are bits just waiting to be harvested. People upload themselves to the omnipotent cloud through a great many channels and its clear to me why - our digital twins has been weaved in with our hearts and minds across in all aspects of life;  Our careers, relationships, hobbies to name a few. 
+The world is relentlessly digitising.
 
-Surely, one should aspire to have better control over this phenomenon? And so I endeavor to build my own website. To build a viewing window into my own mind, on my own terms. A digital footprint with WJ's stamp of approval.
+It is almost impossible to thrive in the modern world without having our very essence of being - identity, knowledge, and more - digitised in some way . People upload themselves to the omnipotent cloud through a great many channels, giving birth to a digital twin. For better or worse, this twin represents us across all aspects of life;  Our careers, relationships, hobbies to name a few. 
 
-Fairly early into the process, I preconceived this project to be a highly personalised one - a digital trail that ought be customisable and built by my own hands. As a result, I steered away from prebuilt options like Wordpress or Wix - though as a beginner, it was impossible to run away from prebuilt templates, as seen here.
+I believe that there is much more to an individual than curated pictures, comments and memes. This digital twin however, is a hollow shell. Lacking the heart and warmth of ourselves. 
 
-In the longer run, I intend to use this site to keep track of developments in my thinking and, at the same time, as a creative outlet and a repository of passions.  I envision and hope that his would remain active for many years to come, and could be an interesting time capsule to revisit ideas new and old.
+So how does one fill this shell? 
+
+In an attempt to do so, I endeavoured to build my own website. To build a viewing window into my own mind and on my terms. A digital footprint with WJ's stamp of approval.
+
+Fairly early into the process, I preconceived this project to be a highly personalised one - a digital trail that ought be customisable and built by my own hands. As a result, I steered away from prebuilt options like Wordpress or Wix - though as a beginner, it was impossible to run away from prebuilt templates, ~~as seen here ~~ (update: adapted to make my own Hugo template).
+
+In the longer run, I intend to use this site to keep track of developments in my thinking, a creative outlet and a repository of passions.  I envision and hope that his would remain active for many years to come. It would be an interesting time capsule to revisit ideas new and old.
 
 ## How was this built?
 
@@ -69,7 +75,7 @@ Having ideated on some of these elements for a while, perhaps I can finally list
 - [ ] Add section on things i subscribe to/ like to read
 - [ ] SEO - so that this site appears when my name is say googled
 - [x] Customising the layout template in Hugo (probably quite technical - updated 10 May)
-- [ ] Integrating other static pages
+- [x] Integrating other static pages (updated: Resume and About page are static)
 
 
 ##### Future references:

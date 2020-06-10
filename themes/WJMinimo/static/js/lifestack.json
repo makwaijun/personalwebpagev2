@@ -1,0 +1,557 @@
+{
+
+"nodes": [
+    {
+      "id": "Piano",
+      "group": 1,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "saxophone",
+      "group": 1,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "Maths",
+      "group": 2,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "Chemistry",
+      "group": 2,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "Physics",
+      "group": 2,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "Chinese",
+      "group": 2,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "English",
+      "group": 2,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "History",
+      "group": 2,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "Music (IGCSE)",
+      "group": 2,
+      "type": "Domain",
+      "year": 2008
+    },
+    {
+      "id": "Floorball",
+      "group": 3,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "Running",
+      "group": 3,
+      "type": "Domain",
+      "year": 2011
+    },
+    {
+      "id": "Half Marathon",
+      "group": 3,
+      "type": "Milestone",
+      "year": 2012
+    },
+    {
+      "id": "Gym",
+      "group": 3,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "Full Marathon",
+      "group": 3,
+      "type": "Milestone",
+      "year": 2017
+    },
+    {
+      "id": "Logistics",
+      "group": 4,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "Project Management",
+      "group": 4,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "Commissioned Officer",
+      "group": 4,
+      "type": "Milestone",
+      "year": 2012
+    },
+    {
+      "id": "Military Training",
+      "group": 4,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "Piano",
+      "group": 1,
+      "type": "Domain",
+      "year": 1997
+    },
+    {
+      "id": "Saxophone",
+      "group": 1,
+      "type": "Domain",
+      "year": 2006
+    },
+    {
+      "id": "Improvisation",
+      "group": 1,
+      "type": "Domain",
+      "year": 2010
+    },
+    {
+      "id": "Original compositions",
+      "group": 1,
+      "type": "Milestone",
+      "year": 2011
+    },
+    {
+      "id": "Jazz Saxophone Grade 8",
+      "group": 1,
+      "type": "Milestone",
+      "year": 2009
+    },
+    {
+      "id": "Leadership",
+      "group": 5,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "Driving",
+      "group": 5,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "youtube channel",
+      "group": 1,
+      "type": "Milestone",
+      "year": 2012
+    },
+    {
+      "id": "Audio recording",
+      "group": 1,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "Video editting",
+      "group": 1,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "P&G",
+      "group": 6,
+      "type": "Domain",
+      "year": 2015
+    },
+    {
+      "id": "FMCG",
+      "group": 6,
+      "type": "Domain",
+      "year": 2015
+    },
+    {
+      "id": "Demand Planning",
+      "group": 6,
+      "type": "Domain",
+      "year": 2015
+    },
+    {
+      "id": "Excel VBA",
+      "group": 7,
+      "type": "Domain",
+      "year": 2015
+    },
+    {
+      "id": "Total War Games",
+      "group": 8,
+      "type": "Domain",
+      "year": 2011
+    },
+    {
+      "id": "University life",
+      "group": 9,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "Chemical Engineering",
+      "group": 9,
+      "type": "Domain",
+      "year": 2012
+    },
+    {
+      "id": "Green Business society",
+      "group": 9,
+      "type": "Domain",
+      "year": 2013
+    },
+    {
+      "id": "Green Business society",
+      "group": 9,
+      "type": "Milestone",
+      "year": 2014
+    },
+    {
+      "id": "AIESEC Trip",
+      "group": 10,
+      "type": "Domain",
+      "year": 2014
+    },
+    {
+      "id": "Portugues",
+      "group": 5,
+      "type": "Domain",
+      "year": 2014
+    },
+    {
+      "id": "Simpler outlook on life",
+      "group": 5,
+      "type": "Domain",
+      "year": 2015
+    },
+    {
+      "id": "Sustainability",
+      "group": 9,
+      "type": "Domain",
+      "year": 2016
+    },
+    {
+      "id": "Complexity Theory",
+      "group": 9,
+      "type": "Domain",
+      "year": 2016
+    },
+    {
+      "id": "Politics",
+      "group": 9,
+      "type": "Domain",
+      "year": 2016
+    },
+    {
+      "id": "Thesis on",
+      "group": 9,
+      "type": "Milestone",
+      "year": 2016
+    },
+    {
+      "id": "Scribble project at Siemens",
+      "group": 6,
+      "type": "Milestone",
+      "year": 2017
+    },
+    {
+      "id": "Writing Well",
+      "group": 6,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "Geopolitics",
+      "group": 6,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "Economic Development",
+      "group": 6,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "Economic Complexity",
+      "group": 6,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "R",
+      "group": 7,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "Trade Economy",
+      "group": 6,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "Organisational Strategy",
+      "group": 6,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "Forecasting",
+      "group": 6,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "Scenario Planning",
+      "group": 6,
+      "type": "",
+      "year": 2020
+    },
+    {
+      "id": "IAC",
+      "group": 6,
+      "type": "",
+      "year": 2019
+    },
+    {
+      "id": "Mental Health",
+      "group": 13,
+      "type": "",
+      "year": 2016
+    },
+    {
+      "id": "Philosophy",
+      "group": 13,
+      "type": "",
+      "year": 2016
+    },
+    {
+      "id": "Risotto",
+      "group": 14,
+      "type": "",
+      "year": 2013
+    },
+    {
+      "id": "HTML",
+      "group": 7,
+      "type": "",
+      "year": 2020
+    },
+    {
+      "id": "CSS",
+      "group": 7,
+      "type": "",
+      "year": 2020
+    },
+    {
+      "id": "PHP",
+      "group": 7,
+      "type": "",
+      "year": 2020
+    },
+    {
+      "id": "Hugo",
+      "group": 7,
+      "type": "",
+      "year": 2020
+    },
+    {
+      "id": "Bootstrap",
+      "group": 7,
+      "type": "",
+      "year": 2020
+    },
+    {
+      "id": "Javascript",
+      "group": 7,
+      "type": "",
+      "year": 2020
+    }
+  ]
+,
+"links": [
+    {
+      "source": "Piano",
+      "target": "Original compositions",
+      "value": 1
+    },
+    {
+      "source": "saxophone",
+      "target": "Improvisation",
+      "value": 1
+    },
+    {
+      "source": "Maths",
+      "target": "Chemical Engineering",
+      "value": 1
+    },
+    {
+      "source": "Chemistry",
+      "target": "Chemical Engineering",
+      "value": 1
+    },
+    {
+      "source": "Physics",
+      "target": "Chemical Engineering",
+      "value": 1
+    },
+    {
+      "source": "History",
+      "target": "Military History",
+      "value": 1
+    },
+    {
+      "source": "Music (IGCSE)",
+      "target": "Saxophone",
+      "value": 1
+    },
+    {
+      "source": "Music (IGCSE)",
+      "target": "Audio recording",
+      "value": 1
+    },
+    {
+      "source": "Running",
+      "target": "Half Marathon",
+      "value": 1
+    },
+    {
+      "source": "Half Marathon",
+      "target": "Full Marathon",
+      "value": 1
+    },
+    {
+      "source": "Military Training",
+      "target": "Gym",
+      "value": 1
+    },
+    {
+      "source": "Improvisation",
+      "target": "Original compositions",
+      "value": 1
+    },
+    {
+      "source": "Commissioned Officer",
+      "target": "Leadership",
+      "value": 1
+    },
+    {
+      "source": "Audio recording",
+      "target": "youtube channel",
+      "value": 1
+    },
+    {
+      "source": "Video Editting",
+      "target": "youtube channel",
+      "value": 1
+    },
+    {
+      "source": "P&G",
+      "target": "FMCG",
+      "value": 1
+    },
+    {
+      "source": "P&G",
+      "target": "Demand Planning",
+      "value": 1
+    },
+    {
+      "source": "P&G",
+      "target": "Excel VBA",
+      "value": 1
+    },
+    {
+      "source": "Total War Games",
+      "target": "Military History",
+      "value": 1
+    },
+    {
+      "source": "University life",
+      "target": "Risotto",
+      "value": 1
+    },
+    {
+      "source": "Sustainability",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Sustainability",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Green Business Forum",
+      "target": "Event management",
+      "value": 1
+    },
+    {
+      "source": "AIESEC Trip",
+      "target": "Portugues",
+      "value": 1
+    },
+    {
+      "source": "AIESEC Trip",
+      "target": "Simpler outlook on life",
+      "value": 1
+    },
+    {
+      "source": "Simpler outlook on life",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Sustainability",
+      "target": "Complexity Theory",
+      "value": 1
+    },
+    {
+      "source": "Complexity Theory",
+      "target": "Politics",
+      "value": 1
+    },
+    {
+      "source": "Sustainability",
+      "target": "Thesis on",
+      "value": 1
+    },
+    {
+      "source": "Video editting",
+      "target": "Scribble project at Siemens",
+      "value": 1
+    },
+    {
+      "source": "Politics",
+      "target": "Geopolitics",
+      "value": 1
+    },
+    {
+      "source": "Complexity Theory",
+      "target": "Economic Complexity",
+      "value": 1
+    },
+    {
+      "source": "Economic Complexity",
+      "target": "R",
+      "value": 1
+    }
+  ]
+}
