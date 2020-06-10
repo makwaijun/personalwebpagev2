@@ -4,7 +4,7 @@
 
 .indexdesc {
     font-family: Raleway;
-    color: darkgrey;
+    color: darkslategray;
     text-align: center;
     margin-bottom: 50px;
       }
@@ -13,7 +13,7 @@
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: Raleway;
-    color: darkgrey;   
+    color: darkslategray;   
     text-align: center;
 }
 
@@ -27,27 +27,8 @@
   transform: translate3d(0, 100%, 0);
 }
 
-/*about page*/
-.myimg{
-  border-radius: 60%;
-  padding: 20px;
-}
-
-.aboutme{
-    margin-top: 50px;
-    margin-bottom: 50px;
-    font-family: Raleway;
-    color: darkgrey;   
-    text-align: center;
-
-}
-
-aboutme.mark {
-  background-color: black;
-  color: white;
-}
-
 /*footer*/
+
 .social {
   padding: 0;
   list-style: none;
@@ -58,4 +39,5 @@ aboutme.mark {
   padding-right: 1em; 
   color: darkslategray;
 }
+
 

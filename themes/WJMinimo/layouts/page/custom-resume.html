@@ -1,1 +1,78 @@
-Work in Progess - this is a test layout for a static resume page.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      {{- partial "head.html" . -}}
+</head>
+{{- partial "header.html" . -}}
+<script src="https://d3js.org/d3.v4.js"></script>
+<body>
+
+<div class="container text-center">
+<p> An alternate take on a Resume<p>
+<h1>Lifestack</h1>
+
+</div>
+
+<!--SVG trial -->
+<h4>Vanilla SVG trial</h4>
+<svg width="400", height="60">
+<circle cx="90" cy="25" r="25" fill="green"></circle>
+
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+text {
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+</style>
+
+<!--D3 trial -->
+<h4>D3 SVG trial</h4>
+<div class="container">
+  <div class="row">
+    <div id="chart-area"></div>
+    <div id="lesmis"></div>
+  </div>
+</div>
+
+<script  src="/js/network.js"></script>
+<script  src="/js/network6.js"></script>
+
+<!-- Footer -->
+<footer class="container-fluid text-center">
+ {{- partial "footer.html" . -}}
+</footer>
+</body>
+</html>
+
+
+<!--spares-->
+
+<!-- 
+<div id="theSVG"></div>
+<script  src="/js/network2.js"></script>
+<div id="my_dataviz"></div>
+<script  src="/js/network3.js"></script>
+
+
+<script  src="/js/network5.js"></script>
+
+<div id="my_dataviz2"></div>
+
+
+<div id="my_datavizzz"></div>
+
+<div id="my_dataviznetwork"></div>
+<script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script>
+-->

@@ -2,20 +2,6 @@
   /*index*/
   @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,200);
 
-.indexdesc {
-    font-family: Raleway;
-    color: darkgrey;
-    text-align: center;
-    margin-bottom: 50px;
-      }
-
-.indextitle { 
-    margin-top: 50px;
-    margin-bottom: 50px;
-    font-family: Raleway;
-    color: darkgrey;   
-    text-align: center;
-}
 
 #mainNav.is-fixed {
   /* when the user scrolls down, we hide the header right above the viewport */
@@ -29,7 +15,7 @@
 
 /*about page*/
 .myimg{
-  border-radius: 60%;
+  border-radius: 10%;
   padding: 20px;
 }
 
@@ -37,14 +23,19 @@
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: Raleway;
-    color: darkgrey;   
+    color: black;   
     text-align: center;
 
 }
 
-aboutme.mark {
+.whitetext {
   background-color: black;
   color: white;
+}
+
+.graytext {
+ 
+  color: gray;
 }
 
 /*footer*/

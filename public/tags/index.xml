@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mak Wai Jun</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Mak Wai Jun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <lastBuildDate>Thu, 04 Jun 2020 22:34:13 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>website</title>
+      <link>/tags/website/</link>
+      <pubDate>Thu, 04 Jun 2020 22:34:13 +0800</pubDate>
+      
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>/tags/thoughts/</link>
+      <pubDate>Sun, 31 May 2020 21:20:10 +0800</pubDate>
+      
+      <guid>/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>current affairs</title>
+      <link>/tags/current-affairs/</link>
+      <pubDate>Sat, 30 May 2020 21:23:18 +0800</pubDate>
+      
+      <guid>/tags/current-affairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forecast</title>
+      <link>/tags/forecast/</link>
+      <pubDate>Sat, 30 May 2020 21:23:18 +0800</pubDate>
+      
+      <guid>/tags/forecast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

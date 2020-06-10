@@ -1,11 +1,5 @@
 +++
-title = "about"
-description = "about Wai Jun"
-date = "2020-05-03"
-menu = "main"
-weight = 50
+title = "About"
 type ="page"
-layout = "custom-about"	
+layout = "custom-about"
 +++
-
-Hello there!

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html><head>
+  <title>The lifestack project</title>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://kit.fontawesome.com/e6c1c508f7.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="../../css/theme.css"/>
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  
+  
+  </head><body> <nav class="navbar navbar-light navbar-expand-lg" >
+  
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+<div class="d-md-flex d-block w-100">
+  <div class="collapse navbar-collapse mx-auto w-auto justify-content-center" id="navbarSupportedContent">
+    <ul class="navbar-nav ">
+       <li class="nav-item">
+        <a class="nav-link" href="../../">Home</a>
+      
+      
+        
+          <li class="navbar-item ">
+            <a class="nav-link" href="../../about/" title="">About</a>
+          </li>
+        
+      
+        
+          <li class="navbar-item ">
+            <a class="nav-link" href="../../blog/" title="">Blog</a>
+          </li>
+        
+      
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="../../tags/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Tags
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              
+                
+                  <a class="dropdown-item" href="../../tags/current-affairs/">current-affairs</a>
+                
+              
+                
+                  <a class="dropdown-item" href="../../tags/forecast/">forecast</a>
+                
+              
+                
+                  <a class="dropdown-item" href="../../tags/thoughts/">thoughts</a>
+                
+              
+                
+                  <a class="dropdown-item" href="../../tags/website/">website</a>
+                
+              
+            </div>
+          </li>
+        
+      
+        
+          <li class="navbar-item ">
+            <a class="nav-link" href="../../projects/" title="">Projects</a>
+          </li>
+        
+      
+        
+          <li class="navbar-item ">
+            <a class="nav-link" href="../../resume/" title="">Resume</a>
+          </li>
+        
+      
+    </ul>
+  </div>
+  </div>
+</nav> 
+
+<div id="content">
+<div class="container">
+  <h1 class="mt-5">The lifestack project</h1>
+
+  
+
+  <p class="text-muted mt-3">
+    <a class="text-muted" href="../../blog/post7/">Published June 4, 2020 |</a>
+
+    
+      <a class="text-muted" href="../../tags/website">#website</a>
+    
+  </p>
+
+  <article class="article mt-5">
+    <h1 id="scope-web-project-1-my-lifestack">[Scope] Web Project 1: My &ldquo;Lifestack&rdquo;</h1>
+<p>One of the projects I intended to host on this website was a visual representation of my intellectual (?) progress. This is in line with my first post, which spoke of the need to better understand my learning journey that has brought me here today.</p>
+<p>It is meta-project that addresses its very conception.</p>
+<h2 id="originating-the-idea">Originating the Idea</h2>
+<p>I studied sustainability, which got me interested into system dynamics and complexity science.</p>
+<p>At work, I had the opportunity to dive deeper into complexity science, as applied to economics (i.e. <a href="https://atlas.cid.harvard.edu/">Economic Complexity</a> by Hausmann and Hidalgo).</p>
+<p>It was through this that i explored the tools to make such visualisations. R, using the igraph library. Looked into the networkD3 package for R more recently as well.</p>
+<p>If there is something i&rsquo;ve learnt - complexity</p>
+<p>Along the  I have been fascinated with networks and the interconnections between intangible things. Even though I get the sense that it may not <em>always</em> assist decision making. Given the non linear nature, it is better suited to describe correlations rather than causation.</p>
+<p>But in anycase, what better way to represent and plot my life&rsquo;s knowledge on a map?</p>
+<p>A painting that can highlight the skills, projects and interests that has led me to where I am today.</p>
+<p>A project that comments on itself. A representation of inter/multi-disciplinaries. A tool for polymaths.</p>
+<h2 id="approach">Approach</h2>
+<p>Originally, I thought this would take a long time to do. Learning backend. Javascript. Json(?) Both of which are entirely foreign to me at the moment. I had envisioned this to be a web development project.</p>
+<p>But today I managed to find a potential resource to kick it off!</p>
+<p>This <a href="https://www.youtube.com/watch?v=tc8DU14qX6I">guy</a> reminded me that APIs can directly be embedded into HTML. Hopefully I won&rsquo;t need to extensively learn any backend. While he used Chart.JS, i am strongly reminded that D3 is also a popular Javascript package as well. It contains network visualisations in its library. And thus the plan is formed:</p>
+<h3 id="steps-to-take">Steps to take</h3>
+<ol>
+<li>Build a static page on Hugo</li>
+<li>Write my data into csv form</li>
+<li>Call the D3.JS api, placing the csv file in a content folder</li>
+<li>Visualise! (unsure if this should be force-directed or not)</li>
+</ol>
+<h3 id="data-parameters">Data parameters:</h3>
+<ol>
+<li>Cluster (for colour)</li>
+<li>Type: project vs skill/interest (for shape)</li>
+<li>Adjacent nodes</li>
+<li>Year</li>
+</ol>
+<p>Of course, this will take a considerable amount of tinkering with D3. Oh well - I learn best with a clear goal in mind and existing examples to work off from.</p>
+<h2 id="taking-inspiration">Taking Inspiration</h2>
+<p>It is past midnight on a workday, but I am permitting myself to feel a little inspired. Reading through the blogs of two incredible data visualisers: <a href="%22https://www.visualcinnamon.com/2017/03/my-journey-into-dataviz%22">Shirley wu</a> and <a href="https://www.visualcinnamon.com/2017/03/my-journey-into-dataviz">Nadieh Bremer</a>. On a sweeter note: i observed that Nadieh&rsquo;s site is developed on Hugo and deployed on Netlify. This sounds awfully familiar :) .</p>
+<h2 id="features-to-consider">Features to consider</h2>
+<ol>
+<li>Link the map it onto topics I like to blog about. Something like a meta-map, where my thoughts on a topic can be linked to a node.</li>
+</ol>
+<hr>
+<p>Looks like this is the project for the weekend.</p>
+
+  </article>
+</div>
+
+
+
+  <div class="Nextread bg-light py-5">
+    <div class="container">
+      <h4 class="text-center">Read next</h4>
+      <div class="row">
+        <div class="col-md-6 text-center">
+          
+            Previous Post:
+            <a href="../../blog/post6/">The Intolerance of Intolerance</a>
+          
+        </div>
+        <div class="col-md-6 text-center">
+          
+        </div>
+      </div>
+    </div>
+  
+
+<hr>
+
+
+
+        </div>
+        
+    </body>
+
+<footer class="container-fluid text-center"><footer class="footer">
+  <hr>
+  <ul class="social">
+      <li><a href="https://www.youtube.com/channel/UC3jm-58BYTHq71-R8wp-Tsg"><i class="fab fa-youtube-square fa-2x" style="color:darkslategray"></i></a></li>
+      <li><a href="https://steamcommunity.com/profiles/76561197988431305"><i class="fab fa-steam-square fa-2x" style="color:darkslategray"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/wai-jun-mak-1b401868/"><i class="fab fa-linkedin fa-2x" style="color:darkslategray"></i></a></li>
+      <li><a href="https://github.com/makwaijun"><i class="fab fa-github-square fa-2x" style="color:darkslategray"></i></a></li>
+      <li><a href="https://www.goodreads.com/user/show/17959759-wj"><i class="fab fa-goodreads fa-2x" style="color:darkslategray"></i></a></li>
+</ul>
+  
+  <small class="text-muted">
+        
+            &copy; 2020, Wai Jun Mak
+        
+        <br>
+
+        <p>Built with <a href="https://gohugo.io/" target="_blank">Hugo</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>, deployed on <a href="https://www.netlify.com/" target="_blank">Netlify</a></p>
+    </small>
+</footer></footer>
+</html>
