@@ -10,11 +10,12 @@
 #fdfdfd
 */
 .indexdesc {
-    font-family: Raleway;
+  text-decoration: none;  
+  font-family: Raleway;
     color: #013567;
     text-align: center;
     margin-bottom: 50px;
-    text-decoration: none;
+   
       }
 
 .indextitle { 
@@ -50,6 +51,6 @@
 .social > li {
   display: inline-block;
   padding-right: 1em; 
-  color: darkslategray;
+  color: #013567;
 }
 
