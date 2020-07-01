@@ -31,6 +31,7 @@ Not in any particular order, but structured by certain thematic areas.
 ### Series 2: Nonsense, a new steady state, and the utopic (?) end game
 1.  How recent crises have pointed towards a steady state of the future.
 2.	The producing elites vs the consuming masses. The emergence of a global class divide.
+3.  The Freemium future; monetisation
 
 ### Series 3: Sustainability
 1. My personal journey with sustainability
