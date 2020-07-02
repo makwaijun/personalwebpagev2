@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on the Hong Kong Crisis"
+title: "On the Hong Kong Crisis"
 date: 2020-05-30T21:23:18+08:00
 draft: false
 tags: ["current affairs", "forecast" ]
