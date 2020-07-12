@@ -52,3 +52,5 @@ Not in any particular order, but structured by certain thematic areas.
 - [ ] Antiscale - book review of Scale, and thoughts on the opposite
 - [ ] Spin offs and spillovers: the unintended consequences of our actions
 - [ ] Personal finance plan
+- [ ] The success of a democracy is judged not by the quality of its government, but by the quality of its opposition.
+
