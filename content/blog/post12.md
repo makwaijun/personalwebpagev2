@@ -4,6 +4,17 @@ date: 2020-07-02T00:24:08+08:00
 draft: false
 ---
 
+
+
+### TDLR:
+
+From random shower thoughts - I propose two principles to live by:
+
+1. Increase your engagement with the world. <u>You'll feel better</u>
+2. Aspire to make the world less sweaty (with caveats). <u>The world will feel better.</u>
+
+------
+
 A rough pen down of thoughts today - not intending this post to be too polished.
 
 A former (fantastic) manager once told me that he would annually scan through and review a book by the late Clayton Christensen on How Will You Measure Your Life? Such an exercise allows one to take stock of where you are today and reflect on where you would like to go next.

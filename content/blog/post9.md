@@ -1,16 +1,16 @@
 ---
-title: "A heritage of Merchants in an age of Innovation"
+title: "On a Mercantile Heritage in an Age of Innovation"
 date: 2020-06-10T21:00:14+08:00
 draft: true
 
 ---
 
-#### Tldr;
+#### TLDR;
 
 - Singapore's unique geographic position lends itself to a rich heritage of merchants and traders.
 - The Merchant mindset:
   -  Prefers to take, not make.
-  - Is primed to be obsessed with hype.
+  - Likes hype - for where there is new shiny treasure, profit is to be bad.
 - As the economy grows more intangible (article for another time), this also skews us towards rent-seeking behaviour. 
 - This puts Singapore at an inherent disadvantage to *create* value. 
 

@@ -5,6 +5,14 @@ draft: false
 tags: ["thoughts"]
 ---
 
+### TLDR;
+
+* Goods and services now accessible by everyday consumers are of extremely good quality.
+* The impact of innovation faces marginal returns in both supply (ability of the manufacturer to innovate) and demand (ability of the consumer to adopt new innovations)
+* Still, consumers like to splurge a little on quality products. #feelsgood.
+
+------
+
 The circuit breaker has been a time of both contemplation and new hobbies.
 
 As one of the few permissible outdoor activities, I have begun a habit to run more in the nearby park and dusted off the old family bike (Ladies bike; my sister's) to feel the wind in my hair, the rush of nature... whilst being legally compliant of course.
@@ -37,7 +45,7 @@ But for the everyday guy - there is a huge amount of variety and astounding leve
 
 It is perhaps in situations like these that price is dictated by passion. The threshold and willingness-to-pay set by the amount of "thrill"  and "glee" a first-timer feels. A child-like desire to play with a new toy.
 
-Practically, customers won't go overboard to get a professional-grade product, but are certainly not scrimping. If anything, a reasonably high price justifies the customer's passion. That 
+Practically, customers won't go overboard to get a professional-grade product, but neither would they scrimp. If anything, a reasonably high price justifies the customer's passion. That 
 
 > > Yes - I *am* serious about this new hobby of mine.  The premium price I have paid motivates me to get my money's worth.
 
