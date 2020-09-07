@@ -5,6 +5,12 @@ draft: false
 tags: ["thoughts" ]
 ---
 
+### TLDR;
+
+- I live by a belief system of living in the gray. Nothing can ever be linearly explained. There are complex reasons and interrelations behind everything. It has made me more tolerant of different views, as I seek to understand both sides of an argument.
+- This belief system crumbles when I come across an extremist view. I can't tolerate this.
+- This leads to a paradox: Can a belief system promoting tolerance coexist with one is unable to tolerate intolerance?
+
 ### The Background 
 
 One of my core beliefs that came out of my lessons in Systems Thinking (reminder to tag/link here) was that the world can never be depicted in *black* or *white*. 
@@ -13,7 +19,7 @@ At its heart, most things/issues/phenomena can never be explained linearly or di
 
 This view was formed in 2016 - a time that oversaw what to me was something of a pivotal change in modern society. Watching the rise of extremism across most advanced economies was antithetical to this new belief system I have held since then.
 
-As many of these issues persist, this has only reinforced the need for me to understand things more deeply instead of taking a shallow or reductive view before I form my own perspective. Even so, this perspective is necessarily more complex than it needs to be. It has made it difficult for me to form a strong opinion on many issues and topics. I am by and large enslaved to caveats. Activism is a foreign concept in this belief system. It came at the cost of passion.
+As many of these issues persist, this has only reinforced the need for me to understand things more deeply instead of taking a shallow or reductive view before I form my own perspective. Even so, this perspective is necessarily more complex than it needs to be. It has made it difficult for me to form a strong opinion on many issues and topics. I am by and large enslaved to caveats. Activism is a foreign concept in this belief system. It comes at the cost of passion. (does this make me more boring? Interesting?)
 
 As a result, I am rarely the loudest voice nor most confident in the room. Though, I would be happy to present both sides of the argument and to critique why a one sided view is too simple. For those close to me, my default mode is to play devil's advocate. But for those new to me, I am just as willing to accept their arguments and agree from the perspective they are coming from. 
 
@@ -34,4 +40,10 @@ Is this not what intolerance is?
 Can a belief system of tolerance coexist with the intolerance of the "interolerables"?  
 
 I wonder if there is a word /  study on this phenomena - when a belief system holds....right up until it turns into a critique of its own existence.
+
+---
+
+Related article on tolerance, though slightly different context: [I Can Tolerate Anything Except The Outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
+
+Makes me wonder - what is my outgroup?
 

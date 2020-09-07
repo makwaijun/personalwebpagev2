@@ -1,7 +1,7 @@
 ---
 title: "Topics to write in 2020"
 date: 2020-06-01T21:25:10+08:00
-draft: false
+draft: true
 tags: ["website" ]
 ---
 
@@ -38,7 +38,7 @@ Not in any particular order, but structured by certain thematic areas.
 2. The instinct of the privileged and ensuring Skin-in-the-Game
 3. My opinion on true "enemy" of sustainability (and why they will continue to exist)
 
-### Series 4: Thoughts on Economic Development in Singapore
+### Series 4: Thoughts on Economic Development
 - [ ] Singapore's merchant mindset in an age of innovation (drafting)
 - [ ] The inevitable fork in the highway. Dealing with a Two speed economy in global markets.
 
