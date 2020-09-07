@@ -72,5 +72,22 @@ The economic cycle largely holds. However,
 
 
 
+**how will countires survive? rethinking economic development**
+
+THe grand theory of survivng and thirving in a non-zero sum world.
+
+Capital spending has decoupled from job creation and distribution. This is one part of the systems loop htat has broken down.
 
 
+
+#### The three unifying theories underpinning development in small economies
+
+Premised on the mercantilist mindset:
+
+
+
+
+
+#### The Economic Pump
+
+Static value 

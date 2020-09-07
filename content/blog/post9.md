@@ -16,7 +16,17 @@ draft: true
 
 #### History of Singapore's Economy
 
-The mercantile mindset in an age of innovation: an exploration into Singapore's history of profiting off others, as opposed to generating value)
+It is often taught (so I hear from others) 
+
+But far more of our history and far back in history 
+
+### Geoculture 
+
+Just as 
+
+
+
+The mercantile mindset in an age of innovation: an exploration into Singapore's history of profiting off others, as opposed to generating value).
 
 
 
