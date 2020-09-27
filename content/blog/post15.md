@@ -27,19 +27,19 @@ I, with a relatively privileged and sanitised upbringing am reminded of the time
 
 Now, in the last three-odd years where I have returned to the world as a grounded adult, I am stricken by a pall cast over the joys of life, certainly not helped by the pandemic this year. Neither, does our *new new new* modern culture derive a sustainable way of being. The glamourised pursuit of new experiences surely cannot be the way forward. 
 
-What then, is the colour that enriches life? The palette of existence? 
+What then, is the colour that enriches life? The palette of our existence? 
 
 Some selected memories...
 
-> a fast march in the brunei jungle, carrying gear more than one third your weight,wading through muddy waters up to waist level, fixated on an order (extrinsic) to reach a boat dock by 1700h..lest we spend another night in the outdoors (heavily intrinsic). There was no time to feel pain, tiredness or hunger. only the ceaseless stomp of boots snapping through nature. and the silent grimaces of your section mates.
+> a fast march in the brunei jungle, carrying gear more than one third your weight,wading through muddy waters up to waist level, fixated on an order (extrinsic) to reach a boat dock by 1700h..lest we spend another night in the outdoors (heavily intrinsic). There was no time to feel pain, tiredness or hunger. only the crunch  of boots snapping through nature. and the silent grimaces of your section mates.
 >
-> the crisp cold water you have back at the camp. the first bite of soggy cold fried chicken is the best thing ever.
+> the crisp cold water back at the camp. the first bite of soggy cold fried chicken is the best thing ever.
 
-> a young energetic kid, eager to try new things. you are out on a surf-lifesaving course. learning to swim in the sea, and what to look our for. the current drags you astray. you are plunged underwater. Is this the undertow you were taught about only moments ago? for once in your life you have never felt so powerless. you swim up but somehow the water never ends. your lungs start to strain and panic sets in . it feels like an eternity. then the break and the light. 
+> a young energetic kid, eager to try new things. a surf-lifesaving course. learning to swim in the sea, and its dangers. the current drags you astray. you are plunged underwater. Is this the undertow taught only moments ago? for once in your life you have never felt so powerless. you swim up but somehow the water never ends. your lungs start to strain and panic sets in . it feels like an eternity. but some how it breaks through. there is light. there is air.
 >
-> as you walk back your hands are blue and you ask a passing adult whether this is normal. dont worry about it, they laugh, and your hear them quip that the kid is a fighter. you plod on to the next part of the course.
+> as you walk back your hands are blue and you ask a passing adult whether this is normal. dont worry about it, they laugh, and they quip that the kid is a fighter. you plod on.
 
-I surmise that these moments were made up of a mix of simple pleasures and intense survival instincts. These all tap into our deepest, most fundamental human needs; the animal mind is so intensely fixated on that singular moment. Truly the only time that mattered is the present. Because your life depends on it or your body really needed something.
+I surmise that these coloured moments were made up of a mix of simple pleasures and intense survival instincts. They all tap into our deepest, most fundamental human needs; when the animal mind is so intensely fixated on that singular moment of the present. It makes sense - your life or body really needs to do something about the situation.
 
 So my take on it - life has always and will continue to be all about survival and pandering to these basic instincts, as unsatisfactory and obvious this answer may seem. It has however, helped me frame an answer in my head, and reduced the intensity of my unhealthy bouts of existential angst.
 
@@ -61,16 +61,14 @@ My cycling strategy inadvertently became a mantra for living:
 
 When the roads are straight - Cycle fast, cycle hard, and take advantage of every inch of it, even as your legs complain.
 
-When the roads are bumpy - Its ok to slow down a little, watch the pot holes. Lest you fall and get stuck in it. 
+When the roads are bumpy - Its ok to slow down a little and watch the pot holes. 
 
 ---
 
 And so I reflect on the quiet but coloured moments when life is best lived. 
 
-> The green of a milo can, chugged down after a workout; the yellow relief after holding in pee for an hour too long.
-
 These are the straight moments in life when your mind is clear and I wonder how that mental state can be purposed to push ourselves to  do greater things.
 
 On the other hand, there is the overcast of gray. When the mundanity of life catches up and you wallow in a mire of guilt and shattered fantasies. These are the bumps on the road that are perhaps inevitable and inescapable, but one shouldn't be too harsh on yourself. Don't ruminate and don't get stuck in the pothole.
 
-All that said -I am still yet to find and practice this mantra in living.
+I am still yet to find and practice this mantra in living.

@@ -58,3 +58,14 @@ Given this possibility, it must then be the fault of all others who are simply r
 
 
 
+![Demand bad](/img/SustainableFashion.jpg)
+
+
+When people speak of sustainability and how we might do so - the answer is 
+In line with the three Rs - Reduce, Reuse and Recycle - it is a wonder that a huge amount of investment is going into the latter two.
+
+But not the first. A curiosity? Perhaps not, as consumption 
+
+
+
+

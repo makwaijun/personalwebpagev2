@@ -1,13 +1,12 @@
 ---
-title: "My Take on the Global Economy"
-date: 2020-07-15T21:08+08:00
+title: "My Unified View of the World"
+date: 2020-09-13T21:08+08:00
 draft: true
-
 ---
 
 I will first lay out a thesis I have had about how the global economy has been shaped and grown over the course of history.
 
-How does one view the economy.
+Unifying theories (Read consilience) are useful, albeit 
 
 An enigma well studied over the course of time. It has never been "correct" for human beings are never rational. 
 
@@ -23,7 +22,7 @@ Does this warrant a full discipline and academic study? I'm not sure. For abstra
 
 ## My World View on the Global Economy
 
-#### Part 1: Transacting Economic Value, by Meeting Human Needs
+#### Chapter 0: A retroactive unifying theory of development
 
 1. Understanding mazlowe hierachy, and the structures around it
    a. Bottom (food, energy, infra,health care)
@@ -31,11 +30,7 @@ Does this warrant a full discipline and academic study? I'm not sure. For abstra
 
 These are differentiated by 
 
-
-
 A Supposition on the Eras of Economic Development
-
-
 
 1. The eras of economic growth: Hype bubbles and the great decoupling of human needs with the economy.
 2. The recent tipping point and the end of real value
@@ -44,13 +39,25 @@ A Supposition on the Eras of Economic Development
 
 
 
-#### Part 4: The current steady state
+### Chapter 1: The State of the World Today
+
+#### Business Hiring and the Social Compact
+
+Incompatability of the indian caste system in Singapore. and the HR practices around thse
+
+https://www.brightworkresearch.com/enterprisesoftwarepolicy/2019/01/31/how-indian-it-workers-discriminate-against-non-indian-workers/
+
+Rather than 
+
+1) Business built on a culture that is opposite to
+
+#### The Rise of the Nonsense Economy
+
+The eventual rise of the nonsense economy, rent-seeking and the death of the craft
 
 Core goods and even services are all commodities to meet the lower level of Mazlowe's hierachy.
 
-Despite its grave importance, these activites 
-
-
+Despite its grave importance, these activities 
 
 The proliferation of met-basic needs has led to a freemium economy. Where immediate value is not demanded by a producer. (Surely, this must have been unthinkable from a historical perspective)
 
@@ -58,36 +65,42 @@ What differentiates products is now:
 
 1) Marketing and advertising to capture customers that are faced with multiples of similarly priced and quality products.
 
-
-
 What this means:
 
 1. True game-changing innovations will remain rare. This observation is often masked by hype.
-
 2. Profitability will continue to be squeezed. These are not dividend companies.
 
-#### Part 5: What about Recessions? 
+Hype bubbles and the great decoupling of human needs with the economy.
 
-The economic cycle largely holds. However, 
+#### Why "making" is critical to the economy and the soul
+
+### Chapter 2: T
+
+#### The Economic Pump is Changing
+
+Static value vs free debt and cash. (read deficit myth)
+
+#### The Incentives and Optimal 
+
+The Freemium future; monetisation
+
+#### The Have and Have nots
+
+The global divide: The grand theory of surviving and thriving in a non-zero sum world. Capital spending has decoupled from job creation and distribution. This is one part of the systems loop that has broken down. Geographically, there will be a divide. Countries after years of exploitation (guised under development) may permanently not be able to catch up.
+
+### Chapter 3: The outlook for the future
+
+#### Continual dynamics
+
+#### Steady state - Humanity Progresses(?) into a protected end state
+
+- The economic cycle largely holds. However, 
+- How recent crises have pointed towards a steady state of the future.
+- The producing elites vs the consuming masses. The emergence of a global class divide.
+
+#### The Rat Race of Humanity - Which will win first?
 
 
 
-**how will countires survive? rethinking economic development**
+###  
 
-THe grand theory of survivng and thirving in a non-zero sum world.
-
-Capital spending has decoupled from job creation and distribution. This is one part of the systems loop htat has broken down.
-
-
-
-#### The three unifying theories underpinning development in small economies
-
-Premised on the mercantilist mindset:
-
-
-
-
-
-#### The Economic Pump
-
-Static value 
