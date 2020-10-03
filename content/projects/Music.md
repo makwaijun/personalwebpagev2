@@ -6,7 +6,7 @@ draft: false
 
 After being coerced into music lessons for the better part of my childhood years - I was glad to have found something of a musical spark post-highschool. Unfettered from laborious exams and the pretentious contemporary pieces, I was keen on playing music that I wanted to.
 
-Fairly basic and amateur-ish, but nonetheless a passion I enjoy and would love to have more time invested into.
+Fairly basic and amateur-ish, but nonetheless a passion I enjoy and would like to invest more time into.
 
 Checkout my most viewed video!
 ---

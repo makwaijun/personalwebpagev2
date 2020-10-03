@@ -4,16 +4,13 @@ date: 2020-05-30T21:23:18+08:00
 draft: false
 tags: ["current affairs", "forecast" ]
 ---
-## Keeping Momentum
-Its been a while.
+#### TLDR;
 
-I should maintain a steady cadence to blogging.
+- Hong Kong is on a long-term structural decline;
+- It is not in China's interest to save it;
+- I find this sad.
 
-But perhaps I should also let the process take its natural course.
-
-Recent news triggered a short reaction. Specifically on....
-
-## Hong Kong
+#### My connection with Hong Kong
 
 The place renders an odd feeling in me. 
 
@@ -22,7 +19,7 @@ I have only been there twice in my life. And my cantonese is terrible.
 
 Yet, with whatever fiber of connection i have, I cannot help but feel that the golden age of Hong Kong is over. And I must feel sorry for my peers and friends there. Expectations will need to be changed. 
 
-## The Stage is Already Set
+#### The wheels are already in motion
 
 The US China trade war has been going on for a while. 
 
@@ -44,7 +41,7 @@ The begrudged but optionless? The hopeful, who have shifted their allegiances to
 
 These are hypothetical. I may be out of touch with what is happening on the ground. 
 
-## HK 2050
+#### HK in 2050
 
 I wonder what the Hong Kong of 2050 will look like. 
 
@@ -52,7 +49,7 @@ A hollowed out gray city with an aging population. Skyscrapers like empty jewelr
 
 Smatterings of Chinese rule persist. Propaganda and appeasement perhaps. Bearded men on the street, wistfully reminiscing of the early 2000s.
 
-## Final thoughts
+#### Final Thoughts
 
 Indeed Hong Kong needs China more than ever before. If the world gives up on Hong Kong, Hong Kong might still keep fighting. But it is not sustainable. China will not invest more to appease Hong Kong. 
 

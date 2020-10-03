@@ -5,7 +5,13 @@ draft: false
 tags: [ "thoughts" , "website" ]
 ---
 
-## The blog is born
+#### TLDR;
+
+- A digital identity is critical in this day and age, but it is often too easy to lose control of it.
+- Instead, we should take control of our own digital narrative by designing and customising a personal website.
+- I explain how I did so.
+
+#### Conception
 
 If what I do is common - I tend to read the latest few posts and first post when visiting a new blog. So I hope dear reader, to make this count.
 
@@ -27,17 +33,16 @@ Fairly early into the process, I preconceived this project to be a highly person
 
 In the longer run, I intend to use this site to keep track of developments in my thinking, a creative outlet and a repository of passions.  I envision and hope that his would remain active for many years to come. It would be an interesting time capsule to revisit ideas new and old.
 
-## How was this built?
+#### How this was built
 
 From a very scrappy start (i.e. zero knowledge), there were a few main guides i followed below. Along the way, I recgonised that if my *intent* is to blog (with absolutely zero PHP/ backend knowledge), something more practical than a pure HTML/CSS site was needed.  After finding out that Static Site Generators (SSGs) could be fit for my purpose, I chose Hugo over Jekyll ... I just read something somewhere. Got to stay with the trends I suppose.
 
 1. [A bootstrap 4 tutorial](https://www.youtube.com/watch?v=EkeOuwF8g8s), which piqued my interest in HTML/CSS again, since half-completing a course last Christmas.
-
 2. [how to build a website on Hugo](https://www.youtube.com/watch?v=5GnFZ8XpMak), very clear and good guide - would certainly recommend it, though I faced issues in deploying in the last step.
-
 3. [how to create an SSH key](https://www.youtube.com/watch?v=H5qNpRGB7Qw) in a desperate attempt to fix a roadblock i faced when doing 2. I had no idea what was going on.
-
 4. [how to deploy with netlify](https://www.youtube.com/watch?v=hBQlCtfRmqs&t=1s), since i was stuck on some git issues for gitpages which i couldn't wrap my amateur head around. Found this channel's content to be pretty good.
+
+Other [guides]( https://flaviocopes.com/start-blog-with-hugo/) [i didn't](https://zwbetz.com/make-a-hugo-blog-from-scratch/) [quite](https://www.youtube.com/watch?v=A6xpOpKBZ2k) [get through](https://www.youtube.com/watch?v=h-i5rZwlfu4).
 
 ## Things I picked up along the way... 
 ---
@@ -45,42 +50,26 @@ From a very scrappy start (i.e. zero knowledge), there were a few main guides i 
 - Bootstrap 4 which was useful refresher, but not critical for this approach. Will nonetheless come in handy later when i try to customise things;
 - Using github and visual studio code;
 - Creating an SSH Key for github (again, unnecessary);
-- Jumping around command prompt, powershell, and git ... and the inumerable errors i ran into when loading adding submodules (which still didn't work);
+- Jumping around command prompt, powershell, and git ... and the innumerable errors when loading adding submodules (which still didn't work);
 - Deploying the site (and buying a domain). This was by far the most confusing part for me; and
-- Writing in Markdown as I am doing right now.
+- Writing in Markdown (as I am doing right now).
 
 ---
-## Things I would like to add...
+#### Features to Add
+
 Having ideated on some of these elements for a while, perhaps I can finally list some of these down here:
 
-#### Sections
+##### Sections 
 
--  CV/ Resume (In a timeline format)
-- Projects
-    - Network analysis (or something related)
-        - maybe on mapping skills against interdisciplinary projects?
-        - email network?
-    - life timeline
-- Interests
-    - Investments
-    - Cooking
-    - Youtube
-     - Travel (map of where i've been + a illustrative photo?)
-- Things I read
-
-
-#### To do:
-
-- [x] Add goodreads/ other online profiles (updated 10 may)
+- [ ] CV/ Resume (see lifestack project - skill and life timeline mapping)
+- [ ] Network analysis (email network?)
+- [x] Interests - Investments (added in blog format)
+- [x] Interests - Cooking (added in blog format)
+- [ ] Interests - Travel (map of where i've been + a illustrative photo?)
+- [ ] Add goodreads/ other online profiles (updated 10 may)
 - [ ] Add section on things i subscribe to/ like to read
 - [ ] SEO - so that this site appears when my name is say googled
 - [x] Customising the layout template in Hugo (probably quite technical - updated 10 May)
 - [x] Integrating other static pages (updated: Resume and About page are static)
 
-
-##### Future references:
-Other guides I didn't quite get through (for my own reference to pick up on)
-- https://flaviocopes.com/start-blog-with-hugo/
-- https://zwbetz.com/make-a-hugo-blog-from-scratch/
-- https://www.youtube.com/watch?v=A6xpOpKBZ2k
-- https://www.youtube.com/watch?v=h-i5rZwlfu4
+*Updated 3 October*

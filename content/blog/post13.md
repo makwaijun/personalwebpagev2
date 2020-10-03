@@ -104,3 +104,13 @@ The global divide: The grand theory of surviving and thriving in a non-zero sum 
 
 ###  
 
+
+
+
+
+
+
+--- Small ecomies:
+
+four strata of individuals
+

@@ -5,6 +5,12 @@ draft: false
 tags: ["thoughts" ]
 ---
 
+#### TLDR;
+
+- I ramble about my early life and how it has confused / shaped my identity;
+
+---
+
 In my last post, I had a notion about whether patriotism can exist in metropolises. 
 
 The obvious counterpoint is Hong Kong. A raw demonstration of fighting for one's survival. 

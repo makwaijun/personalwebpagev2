@@ -4,7 +4,12 @@ date: 2020-05-10T16:25:18+08:00
 draft: false
 tags: ["website" ]
 ---
-## Update
+#### TLDR; 
+
+- Nothing substantive, just notes on the website updates
+
+#### Update on Website
+
 Another week - another revision.
 
 Welcome to version two of site - rebuilt from scratch with a generoues does of ~~customised~~ appropriated snippets of code.
@@ -17,7 +22,8 @@ Key take-aways from this session were:
 1. A slightly deeper understanding of the hugo framework.
 2. Hosting static page on pure html/css - and layering it over the Hugo frame.
 
-## To do
+#### To do
+
 Sort out the About and Resume pages. These will be relatively fixed and static.
 
 Next challenge will be to customise the projects page. Would 

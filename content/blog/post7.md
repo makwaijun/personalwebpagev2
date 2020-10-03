@@ -5,23 +5,27 @@ draft: false
 tags: ["website"]
 ---
 
-# [Scope] Web Project 1: My "Lifestack"
+#### TLDR;
+
+- I propose a web project that combines several of my interests areas.
+
+- It touches on: Visualisations of complexity; a mapping of my life, a 
+
+  
+
+---
 
 One of the projects I intended to host on this website was a visual representation of my intellectual (?) progress. This is in line with my first post, which spoke of the need to better understand my learning journey that has brought me here today.
 
 It is meta-project that addresses its very conception.
 
-## Originating the Idea
+#### Idea Origination
 
 I studied sustainability, which got me interested into system dynamics and complexity science.
 
-At work, I had the opportunity to dive deeper into complexity science, as applied to economics (i.e. [Economic Complexity](https://atlas.cid.harvard.edu/) by Hausmann and Hidalgo).
+My biggest, life changing take away was on the field of complexity.
 
-It was through this that i explored the tools to make such visualisations. R, using the igraph library. Looked into the networkD3 package for R more recently as well.
-
-If there is something i've learnt - complexity
-
-Along the  I have been fascinated with networks and the interconnections between intangible things. Even though I get the sense that it may not *always* assist decision making. Given the non linear nature, it is better suited to describe correlations rather than causation. 
+ I became fascinated with networks and the interconnections between intangible things. Even though I get the sense that it may not *always* assist decision making. Given the non linear nature, it is better suited to describe correlations rather than causation. 
 
 But in anycase, what better way to represent and plot my life's knowledge on a map? 
 
@@ -29,7 +33,13 @@ A painting that can highlight the skills, projects and interests that has led me
 
 A project that comments on itself. A representation of inter/multi-disciplinaries. A tool for polymaths.
 
-## Approach
+#### Requisite tools
+
+At work, I had the opportunity to dive deeper into complexity science, as applied to economics (i.e. [Economic Complexity](https://atlas.cid.harvard.edu/) by Hausmann and Hidalgo).
+
+It was through this that i explored the tools need to make such visualisations. R, using the igraph library. Alternatively, the networkD3 package for R.
+
+#### Approach 
 
 Originally, I thought this would take a long time to do. Learning backend. Javascript. Json(?) Both of which are entirely foreign to me at the moment. I had envisioned this to be a web development project. 
 
@@ -53,11 +63,11 @@ This [guy](https://www.youtube.com/watch?v=tc8DU14qX6I) reminded me that APIs ca
 
 Of course, this will take a considerable amount of tinkering with D3. Oh well - I learn best with a clear goal in mind and existing examples to work off from.
 
-## Taking Inspiration
+#### Inspiration and references
 
 It is past midnight on a workday, but I am permitting myself to feel a little inspired. Reading through the blogs of two incredible data visualisers: [Shirley wu]("https://www.visualcinnamon.com/2017/03/my-journey-into-dataviz") and [Nadieh Bremer](https://www.visualcinnamon.com/2017/03/my-journey-into-dataviz). On a sweeter note: i observed that Nadieh's site is developed on Hugo and deployed on Netlify. This sounds awfully familiar :) .
 
-## Features to consider
+#### Features to consider 
 
 1) Link the map it onto topics I like to blog about. Something like a meta-map, where my thoughts on a topic can be linked to a node.
 

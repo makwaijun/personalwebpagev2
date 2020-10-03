@@ -5,6 +5,20 @@ draft: false
 tags: ["thoughts" ]
 ---
 
+#### TLDR;
+
+Part 1:
+
+- General elections in Singapore this year has activated a broader political conciousness.
+- This is a good thing.
+
+Part 2:
+
+- I abhor hype. But I am keen to open my mind to contrarian views to challenge my thinking on this.
+- I appreciate its potential to create a positive impact (if not abused)
+
+---
+
 I decided to combine a draft blog post I had been mulling over with a very timely and topical issue here in Singapore. 
 
 ## GE HYPE TWENTY TWENTYyyy
