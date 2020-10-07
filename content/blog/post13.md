@@ -1,6 +1,7 @@
 ---
-title: "A Unified View of the World - A series of opinionated essays"
-date: 2020-10-07T23:08:00+08:00
+title: "A Unified View of the World - Outlining a series of posts"
+
+date: 2020-10-07T23:24:08+08:00
 draft: false
 ---
 
@@ -49,8 +50,6 @@ Dear reader, I present:
 ##### Chapter 2: The Tragedy of Real Economic Value, and the Rise of the Nonsense Economy
 
 - Mazlowe described a framework of human needs. There are things that are tangible and essential, just as there are things that are intangible and non-essential (self-fulfilment/ transcendence). 
-
-- As posited above, differentiation and competitiveness is increasingly dictated by by form rather than function
 
 - As marketing becomes the key differentiator in a world where material functionality is commoditised, there is a real risk of mass bullshit (I am yet to read a [seminal piece](https://www.goodreads.com/book/show/34466958-bullshit-jobs) on this). 
 
