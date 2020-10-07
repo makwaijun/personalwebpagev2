@@ -1,6 +1,6 @@
 ---
 title: "A Unified View of the World - A series of opinionated essays"
-date: 2020-10-07T23:08+08:00
+date: 2020-10-07T23:08:00+08:00
 draft: false
 ---
 
