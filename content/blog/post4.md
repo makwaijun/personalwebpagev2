@@ -29,11 +29,11 @@ As a result, much of my Singaporean identity had faded. If anything I initially 
 
 ## Third Country Central
 
-It makes sense to describe Third Culture Kids as being in a world of their own. A priveleged exposure to a diverse range of cultures but unified by the commmon hobbies at that age. Video games do not discriminate. 
+It makes sense to describe Third Culture Kids as being in a world of their own. A privileged exposure to a diverse range of cultures but unified by the common hobbies at that age. Video games do not discriminate. 
 
-My accent evolved from an Aussie one to a blend. A hint of Aussie remained, but with an infusion of American; a sprinkling of British pronounciation (To-mah-toes. Please). Looking back to the cultral smorgasbord that were my peers, I would struggle to pin down any consistent accent.  
+My accent evolved from an Aussie one to a blended one. A hint of Aussie remained, but with an infusion of American, with a sprinkling of British pronunciation (To-mah-toes. Please). Looking back to the cultural smorgasbord that were my peers, I would struggle to pin down any consistent accent.  
 
-As the tepid teenage dance with identity faded away, I think many adapted in different ways. 
+As the tepid teenage dance with identity faded away, I think many of my peers adapted in different ways. 
 
 Some doubled down on their cultural heritage, reconnecting through family. Some reassimilated themselves in the cultures they left far behind. Some adapted quickly and anchored themselves on their adopted locations post-university.
 
@@ -49,7 +49,7 @@ The best and the brightest, straight from the mould of Singapore's education sys
 
 I didn't want to pursue it. It felt a little contrived. 
 
-Instead, I enjoyed the confusion of cultures. The multicultural and lost. The ones waging war on their own identities. 
+Instead, I embraced the confusion of cultures. The multicultural and lost. The ones waging war on their own identities. 
 
 ## The Pursuit of Identity
 
@@ -57,18 +57,18 @@ Along the way, two major milestones paved the way for me to comfortably identify
 
 I joined the Army. Fitting in was an absolute necessity. I certainly remember that my parents were petrified of me, a scrawny kid with a mixed accent entering - ironically - such a foreign land. 
 
-Having made it through successfully (and thrived even?), the experiment was a success and I gravitated closer to the embrace of my country. If that was an objective of the National Service - I suppose it worked. It was a testament - actions speak far louder than accented words. 
+Having made it through successfully (and thrived even?), the experiment was a success and I gravitated closer to the embrace of my country. If that was an objective of the National Service - I suppose it worked. It was a testament to a core value of mine: that actions speak far louder than foreign-accented words. 
 
-Then after university, I joined the Government. It is impactful work. But being in an environment with (some) zealous scholars does rub off on you a little. A little pronounced at times, but I only have respect and admiration for such individuals. True patriotism is a unicorn in a battlefield of bipolar news. Or maybe my expectations have been set by reading too much military history. How is modern patriotism redefined these days?
+Then after university, I joined the Government. It is impactful work. But being in an environment with (some) zealous high-fliers does rub off on you a little. Their energy can be a little extreme at times, but I only have respect and admiration for such individuals. True patriotism is a unicorn in a battlefield of bipolar news. Or maybe my expectations have been set by reading too much military history. How is modern patriotism defined these days?
 
 ***
 Some fuzziness has been left on the edges of my identity.
 
 1) National and patriotic feelings are foreign. Polling booths do not provoke an ounce of sensation in me.
 
-2) I am still self-concious of my accent. I constantly flip depending on the situation. Some call it fake. But I try to embrace it. Being adaptable is a critical tool in one's survival kit.
+2) I am still self-conscious of my accent. I constantly flip depending on the situation. Some call it fake. But I try to embrace it. Being adaptable is a critical tool in one's survival kit. Queen's English can only get you so far.
 
-3) I still am uncomfortable over my inability to speak Mandarin well. There is nothing more terrifying than ordering food in Chinese. It is a missing block of my Chinese heritage that should, in my view, unquestionably be filled.
+3) I still am uncomfortable over my inability to speak Mandarin well. There is nothing more terrifying than ordering food in Mandarin. It is a missing block of my Chinese heritage that should, in my view, unquestionably be filled.
 
 
 Do I still feel fully at home? Perhaps not. But this is as good a home as it gets. 

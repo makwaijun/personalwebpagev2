@@ -4,7 +4,15 @@ date: 2020-07-02T21:31:16+08:00
 draft: false
 ---
 
-# Work in progress
+
+
+If a man is permitted to dream 
+To cosset my tongue with mouthfeels of bliss
+As defined by the gravy of the earth, the salt of the sea,
+A retirement plan, or a whimsical fantasy 
+Could a surf & turf be?
+
+#retirement planz
 
 *italicised if i want to learn*
 
@@ -24,8 +32,10 @@ draft: false
 
 ### Stuffedz
 
+Normally with Cheese and garnish
+
 1. Stuffed mushrooms
-2. Stuffed eggplant
+2. Stuffed eggplant (generally with Chilli, see above)
 
 ### English Pies
 
@@ -38,12 +48,12 @@ draft: false
 
  ### Breakfast
 
-1. Silky Scrambles
+1. Silky Scrambles (aka more butter)
 2. Tom Yum Scramble
 
 ### Pastas
 
-1. *pesto* (want to learn the homemade kind)
+1. *pesto (want to learn the homemade kind)*
 2. Mayonnaise carbonara
 
 2. *Cacio e pepe* 
@@ -57,7 +67,7 @@ draft: false
 3. *grilled salmon belly* 
 4. *Baked scallops (butter/cheese)*
 
-### Curries
+### Indian Curries
 
 1. *Palak Paneer*
 
@@ -68,8 +78,6 @@ draft: false
 ### Noodles
 
 1. strangely not much
-
-
 
 ### Tofu
 

@@ -8,12 +8,17 @@ After being coerced into music lessons for the better part of my childhood years
 
 Fairly basic and amateur-ish, but nonetheless a passion I enjoy and would like to invest more time into.
 
-Checkout my most viewed video!
----
+
+
+### Latest Video
+
+{{< youtube id="JwHriDCFBNs"  >}}
+
+### Most Viewed Video
+
 {{< youtube id="BPvyS3SduJQ"  >}}
 
-Original Pieces
----
+### Original Piece:
 
 {{< youtube id="EwPaB4NVJRc" >}}
 

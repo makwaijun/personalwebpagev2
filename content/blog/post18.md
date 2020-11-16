@@ -21,13 +21,13 @@ There are great races at every stage in your life.
 
 The solitary sperm that raced against millions of its kind to create you. 
 
-Individuals will themselves, against much discomfort, to climb great corporate ladders. 
+Individuals will themselves, against much discomfort, to climb great corporate ladders in the rat race. 
 
 Competitive corporates pitted against their incorporated competitors to innovate, be first to market, reach the next xillion consumers...
 
 Countries too, race against others to develop and exploit what they can from the earth. However, many compete against their own history to develop and break free of an endless cycle of poverty and to break the middle-income trap. 
 
-As I write, countries such as China want to get rich before it gets old.  
+As I write, countries such as China are racing to get rich before it gets old.  
 
 #### The Rat Race of the Planetary
 
@@ -39,4 +39,6 @@ The question is whether this is best done as a collective. Or by the few, who by
 
 Unfortunately, this is where the information ends. Fermi's paradox, which notes the contradiction of a scientifically high probability of other life in the universe and the absence of it could very well point to the unpleasant but possible truth.
 
-Intelligent life is often too clever for its own good. Nature has a way of correcting things. It may end up correcting us.
+Intelligent life is often too clever for its own good. Nature has a way of correcting things. 
+
+It may end up correcting us.
