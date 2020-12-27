@@ -15,3 +15,24 @@ draft: true
 ---
 
 #### 
+
+
+
+
+
+
+
+The two former underlying trends - Productivity gains and Commoditisation are both major drivers of inequality, and its outcomes are apparent today.
+
+But there are two forms of inequality-
+
+Domestic inequality
+
+Global inequality.
+
+
+
+#### Global Inequality
+
+
+

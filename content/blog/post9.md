@@ -45,7 +45,7 @@ In the future, my concerns lie in whether this has tilted Singapore's economy an
 
 Digital marketing, digital advertising, fintech, drop-shipping and Cryptocurrency (*retches*) are new sectors that many Singaporeans have gravitated to. 
 
-With the absence of a tangible product, it is far too easy for many of these businesses to be dealing in the economics of bullshit. To illustrate: The "product" is funded by hypebeast venture capitalists, advertised by snake-oil sales people, and surreptitiously sold to anxious customers who frankly should invest or spend their money on more meaningful things. This is bad for the broader society. Novelty has its limits. 
+With the absence of a tangible product, it is far too easy for many of these businesses to be dealing in the economics of bullshit. To illustrate: The "product" is funded by hypebeast venture capitalists, advertised by snake-oil sales people, and surreptitiously sold to anxious customers who frankly should invest or spend their money on more meaningful things. This is bad for the broader society. An economy driven by novelty has its limits.
 
 More broadly, these activities are neither economically nor societally enriching. Again, these are geared towards *taking* without *creating* anything actually valuable. Aside from this being a purely **extractive** activity without really adding anything substantive in terms of creation, I shall also talk about the evils of marketing and advertising in another post at some point (reminder: link mkt/ adv post here)
 

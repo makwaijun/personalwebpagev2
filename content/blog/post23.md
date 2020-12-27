@@ -14,3 +14,34 @@ draft: true
 ---
 
 #### 
+
+
+
+#### Recognising the Strengths of the Current System
+
+It is important to recognise that the series of essays is not meant to take a shit on the current system. 
+
+Our system is built for innovation. And has done so very well. But this system is very poor at allocation. We have all the tools we need to create a good standard of living. 
+
+
+
+#### The shifting Sands
+
+The Storytelling Premia, and the laggard engineer.
+
+How many modern day workers truly know where their food comes from? where their energy comes from? how their fundamental basic needs are met?
+
+Just as industries and companies climb up the value chain, so is the rich economy following mazlowe's hierachy.
+
+#### The Dterminants of the future economy
+
+For the future economy; key determinants - minimum scale threshold (for things to be competitor edge. Such that there are benefits) 
+
+ Middle class - materialism and luxurism. 
+
+You need a pump by profit or pump by cheap debt. This flows the economy. 
+
+
+
+
+

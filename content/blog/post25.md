@@ -1,5 +1,5 @@
 ---
-title: "On the Individual Journey called "Sustainability" "
+title: "On the Journey called "Sustainability" "
 date: 2020-11-14T21:00+22:00
 draft: true
 

@@ -6,8 +6,8 @@ draft: true
 
 #### TLDR;
 
-- Economic development and technological advancement can be broken down - *fairly well* - into emergent domains that correspond to a particular time era.
-- Capital flows to these distinct "domains", or as I term it: "engines of growth". This is where jobs are created, innovation is nurtured, companies are most profitable. It is largely driven by the need to differentiate.
+- Economic development and technological advancement can be broken down - I posit - into key areas that correspond to a particular time era.
+- Capital flows to these distinct "areas", or as I term it: "engines of growth". This is where jobs are created, innovation is nurtured and companies are most profitable. It is largely driven by the need to differentiate.
 - Each domain is additive & complementary to pre-existing domains. Consequently, there will be increasing permutations and an added complexity to attain growth.
 - The contribution of these contemporary engines of growth are diminishing as intangibles are increasingly valued. There is a decoupling of human needs vis-a-vis the future engines of growth.
 

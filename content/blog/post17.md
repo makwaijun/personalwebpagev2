@@ -31,3 +31,27 @@ Unlike the indentured servitude that many dystopian literature portrays -
 Productivity is accrued to the elite. 
 
 And so the cycle continues,.. 
+
+ADD IN:
+
+Can human progress be unlimited? 
+
+ The limits of human mind
+
+ Humans forget. 
+
+ Pro-progress and the steady state of humanity. 
+
+Steven pinker. 
+
+Condorcet: 
+
+ 
+
+The steady state is opposed by concoreocet. He says humans can infinitely progress.
+
+ Pro-cycle and the never ending strife:
+
+Dark ages between civilisations
+
+Fermi's paradox
