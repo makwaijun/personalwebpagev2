@@ -2,7 +2,7 @@
 title: "On Politics, Hype and Decision-making"
 date: 2020-07-11T20:00:28+08:00
 draft: false
-tags: ["thoughts" ]
+tags: ["thoughts"]
 ---
 
 #### TLDR;

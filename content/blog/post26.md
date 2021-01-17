@@ -1,6 +1,6 @@
 ---
 title: "On a 2020 Retrospection and what Makes Me, Me"
-date: 2020-12-27T23:00+08:00
+date: 2020-12-27T23:00:00+08:00
 draft: false
 tags: ["Personal"]
 ---
@@ -115,4 +115,4 @@ And to add - there are also life conditions that have shaped me passively, thoug
 1. Sound execution of ideas, thoughts and plans - Ideas are numerous (I have too many) and commoditised. There is great power in execution and application. This is out of my comfort zone.
 2. Professionalization and publishing the content of this blog - there are novel-enough and good-enough thoughts worth sharing with the world. No matter how small the audience might be, I'd be chuffed if it creates or renews someone's perspective. (Critique welcome too). Gotta finish the darned backlog at some point too. 
 3. Move out - Need mental space to thrive. Physical environment helps.
-4. Meet a muse...
+4. Evolving this blog beyond a random list of topics to one that is a list of viewpoints, frameworks and guiding principles for understanding complex issues in the world.
