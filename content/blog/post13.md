@@ -1,6 +1,5 @@
 ---
 title: "A Unified View of the World - A series of posts"
-
 date: 2020-10-07T23:24:08+08:00
 draft: false
 ---
