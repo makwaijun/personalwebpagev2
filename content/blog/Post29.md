@@ -1,5 +1,5 @@
 ---
-title: "Sustainability Part 2 - The stages of engagement and a Journey of Self-Discovery"
+title: "Sustainability Part 2 - The Individual's Perspective: A Journey of Self-Discovery"
 date: 2021-01-21T23:00:00+08:00
 draft: false
 ---
@@ -38,9 +38,9 @@ Despite knowing about the issue, there is still a lack of tangible progress. *So
 
 As more sad headlines about the ever-worsening condition of our planet crop up, there are also increasing resources and voices that provide hope and direction. The heart of the narrative tells us that we can all play a part to help. It is at this stage that there are clear actions taken by the individual to help the environment (though within the context of a modern, developed lifestyle).
 
-Here is where I think people are most susceptible to greenwashing and misinformation - a topic I shall write about in a subsequent post. There is no shortage (also insidiously to get eyeballs and clicks) of information on this... The top 10 tips to reuse your starbucks cup, a video of how to be vegan or lacto-ovo-pescatarian or become an actual vegetable. Container reuse, public transport, metal bubble tea straws (they know their target demographic well), sustainable fashion, commerce and many more...
+Here is where I think people are most susceptible to greenwashing and misinformation - a topic I shall write about in a subsequent post. There is no shortage of information on this... The top 10 tips to reuse your starbucks cup, a video of how to be vegan or lacto-ovo-pescatarian or become an actual vegetable. Hot areas include container reuse, public transport, metal bubble tea straws (they know their target demographic well), sustainable fashion, sustainable commerce and many more...
 
-There is a growing supply of premium, organic brands churning out more sustainable versions of the status quo to feed this voracious, albeit greener, demand.
+Some are genuine attempts to minimise the impacts of our communities, while others insidiously get eyeballs and clicks. All in all, I have noticed a growing supply of premium, organic brands churning out more sustainable versions of the status quo to feed this voracious, albeit greener, demand.
 
 ### Stage 4: The Woke
 
@@ -50,15 +50,13 @@ Evolving from the continued deterioration of Mother Nature and images of drownin
 
 Of course to widen the reach of education and influence, there are multiple demonstrations and displays of sustainable actions through social media channels. Such extreme passion cannot be contained within one person alone and must be shared with the world.
 
-[Personal / emotive view - don't channel your dissatisfaction at your white collar job through a movement like this - blame and angst at the system we live in will not make your life any better]
-
 ### Stage 5: The informed 
 
-#### The predominant narrative: The world is in danger, needs saving, and *I* can do something about it, but NOTHING IS HAPPENING and there are reasons why this is so.
+#### The predominant narrative: The world is in danger, needs saving, *I* can do something about it, but NOTHING IS HAPPENING and there are reasons why this is so.
 
-[Disclaimer - this is where my technocentrism and utilitarian instincts kick in.]
+[Disclaimer - this is where my technocentrism and utilitarian inclinations kick in.]
 
-There are several elements of critical thinking that I observe in people who are past the stint of mindless media consumption and tree-hugging circle jerking:
+There are several elements of critical thinking that I observe in people who are past the stage of media consumption and tree-hugging circle jerking:
 
 **First is an understanding of the benefits and challenges** of each contentious issue in the sustainability discourse. For example, the benefits and challenges of petrochemicals, nuclear energy or recycling to name a couple. You can easily write a full essay on each of these with a few hours of research.
 
