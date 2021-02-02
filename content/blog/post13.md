@@ -1,5 +1,5 @@
 ---
-title: "A Unified View of the World - A series of posts"
+title: "A Unified View from an economic standpoint - A series of posts"
 date: 2020-10-07T23:24:08+08:00
 draft: false
 ---
@@ -37,7 +37,7 @@ As a matter of work and relevance to myself, some of these will take a Singapore
 
 Dear reader, I present: 
 
-#### (Confetti!) WJ's Conciliatory view of an uncertainty world  (Fanfare! [WAOW](https://www.youtube.com/watch?v=BhPC1i3i1zY))
+#### (Confetti!) WJ's Conciliatory view of an uncertain world  (Fanfare! [WAOW](https://www.youtube.com/watch?v=BhPC1i3i1zY))
 
 ##### Chapter 1: A retrospective view of development -  A Supposition on the Eras of Economic Development.
 

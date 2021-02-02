@@ -44,7 +44,7 @@ It is the sheer scale of the challenge that is fascinating to me for several rea
 
 First, it ~~is~~ could a powerful driver of human unification. Never in history has there been such a common goal that we, as a collective species, need to work towards. 
 
-Second, and terrifyingly, it could be the one issue that makes or very possibly breaks our civilisation. The past thousand years of human history point towards violent outcomes in the presence of resource scarcity. It is a morbid curiosity of mine to envision and predict how this may manifest on a global scale...but I digress...
+Second, and terrifyingly, it could be the one issue that makes or very possibly breaks our civilisation. The past thousand years of human history point towards violent outcomes in the presence of resource scarcity (one reason for [Fermi's Paradox](https://en.wikipedia.org/wiki/Fermi_paradox)?). It is a morbid curiosity of mine to envision and predict how this may manifest on a global scale...but I digress...
 
 Lastly, it touches on almost all domains of human knowledge: science & technology, politics, economics, ethics, society and is somewhat related to every major global issue today. Whatever the new system or solution holds, it must account for the entire spectrum of rational (evidence backed climate impact) yet irrational (political votes). 
 
@@ -84,7 +84,7 @@ Yet, unlike politics or religion, which subject to the laws of man, sustainabili
 
 Fascinating? Yes. Terrifying? Absolutely.
 
-In my next post I elaborate on my thinking from an individual's perspective.
+In my next post I elaborate on my thinking that takes an individual's perspective.
 
 ---
 
@@ -96,8 +96,10 @@ I am especially "triggered" by two observations:
 
 First are single minded organisations and individuals whose - from what I observe - sole aim is to villainise and criminalise without proposing a feasible or collaborative solution. It is a lose-lose situation, for a problem that requires a win-win mentality. Investment into smear campaigns and "shock-activism"  consequently creates a mess for the broader society to clean up.  It has left both those going about their daily lives and the activists themselves more angry and confrontational as a whole. Not a great look for the movement.
 
-Second is the misguided hypocrisy of the modern advocate. Blindly following what is "fashionable" in the green industry (tote bags and metal straws) has generated more harm than good. (Analysis to come) Again, this is built around a circlejerk of uninformed greenies living in an echo chamber of transcendental "woke" planet-saving. It is rare to find a science-trained "influencer", in an industry premised on storytelling and not facts.
+Second is the misguided hypocrisy of the modern advocate. Blindly following what is "fashionable" in the green industry (tote bags and metal straws) has generated more harm than good. (Analysis to come) Again, this is built around a circlejerk of uninformed greenies living in an echo chamber of transcendental "woke" planet-saving. It is rare to find a science-trained "influencer", in an industry warped by storytelling and not facts.
 
 In both cases, well intentioned, terribly executed. >:(
 
-That said, the mounting pressure from such NGOs and "influencers"- as ugly as it can be - has played a (small) part in building a new era of sustainability. Many governments have indeed taken action, though this is largely concentrated in wealthier countries - begging the question on how inclusive it is. 
+That said, the mounting pressure from such NGOs and "influencers"- as ugly as it can be - has undeniably played a part in building a new era of sustainability. The emotive part of me wishes it could have been done in a cleaner way. 
+
+Many governments have indeed taken action, though this is largely concentrated in wealthier countries - begging the question on how inclusive it is. 
