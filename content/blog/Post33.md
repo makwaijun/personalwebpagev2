@@ -1,6 +1,6 @@
 ---
 title: "The Segueing Intermission - to The Structure of the Future Economy"
-date: 2021-02-02T23:45:00+08:00
+date: 2021-02-2T23:45:00+08:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ draft: false
 
 ---
 
-In my last series of Posts on sustainability. The following topics surfaced, which will be explored in the upcoming posts - albeit not directly.
+The series of posts on sustainability surfaced several open questions, which will be explored in the upcoming posts - albeit not directly.
 
 1) The [fracturing of cohesiveness](https://www.makwaijun.com/blog/post28/) along lines of division (all kinds of lines, age, economic status, etc, etc)
 

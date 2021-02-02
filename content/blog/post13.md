@@ -1,5 +1,5 @@
 ---
-title: "A Unified View from an economic standpoint - A series of posts"
+title: "Making Sense of the Future Economy - A series of posts"
 date: 2020-10-07T23:24:08+08:00
 draft: false
 ---
