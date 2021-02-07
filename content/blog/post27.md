@@ -54,7 +54,7 @@ To tackle complex and rich topics holistically, I will, to the best of my abilit
 
 ### Afternote(s): 
 
-- I was told by a friend after, that the three tenets were similar to the Greek philosophers of antiquity (Aristotle). It was refreshing to hear - and again a reminder - that none of these ideas are truly new, and that we (humanity) live in cycles of development and oblivion. That said, self-discovery is a powerful force to believe and whole heartedly own or live an idea. Perhaps the future of education is not about remembering and working off the wisdom of the past, but instead to accelerate this process of self-discovery and belief (my blog post senses are tingling) in the wisdom that still holds true today.
+- I was told by a friend after, that the three tenets were similar to the Greek philosophers of antiquity (Aristotle). It was refreshing to hear - and again a reminder - that none of these ideas are truly new, and that we (humanity) live in cycles of development and oblivion. That said, self-discovery is a powerful force to believe and whole heartedly own or live an idea. Perhaps the future of education is not about remembering and working off the wisdom of the past, but instead to accelerate this process of self-discovery and belief (my blog topic senses are tingling) in the wisdom that still holds true today.
 
   
 

@@ -10,7 +10,7 @@ TLDR:
 
 ---
 
-The series of posts on sustainability surfaced several open questions, which will be explored in the upcoming posts - albeit not directly.
+The series of posts on sustainability surfaced several open questions, which will be explored in the upcoming posts - albeit not directly. I will just let this hang here as a reminder of how the domain of Sustainability is linked to that of the Economy.
 
 1) The [fracturing of cohesiveness](https://www.makwaijun.com/blog/post28/) along lines of division (all kinds of lines, age, economic status, etc, etc)
 
@@ -24,4 +24,4 @@ This will link to the core content described in an earlier post on having a [Con
 
 On a more operational note, I am struggling to find a good way to include charts and diagrams onto the Hugo infrastructure. There are definitely ways, but I need to spend far more time on learning the technical aspects. In the meantime, words will have to suffice.
 
-I shall aim to complete this series this month.
+I shall aim to complete the series this month.

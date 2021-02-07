@@ -1,8 +1,10 @@
 ---
-title: "Making Sense of the Future Economy - A series of posts"
+title: "Making Sense of the Engima that is the Economy"
 date: 2020-10-07T23:24:08+08:00
 draft: false
 ---
+
+#### THE BELOW IS TO BE REWRITTEN NOW THAT I HAVE STARTED WRITING THE SERIES OF POSTS
 
 #### TLDR;
 

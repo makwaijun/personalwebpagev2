@@ -41,23 +41,23 @@ An original article that stated: "[Solar could make up 43% of Singapore’s ener
 
 Yay [best metal straws](https://www.greenmatters.com/p/best-metal-straws). Why the hell would these come in packs of 8?? (equates to 1192 plastic straws - which I think is still an underestimate given export/import costs).
 
-This is exactly the type of green consumerism is that is well suited to the tactics of marketers. The usual saying of we "buy shit we don't need" and the whole argument about how materialism doesn't make you happy point to a model full of conflict. I remain conflicted on how to rationalise the role of the marketer in getting people to consume less (which as discussed in my previous most, is a sensible outcome).
+This is exactly the type of green consumerism is that is well suited to the tactics of marketers. The usual saying of we "buy shit we don't need" and the whole argument about how materialism doesn't make you happy points to a model that does not work. I remain conflicted on how to rationalise the role of the marketer and how they can be repurposed to get people to consume less (which as discussed in my previous most, is a sensible outcome).
 
 ### Case in point 4: The Anti -Plastic cult
 
 Media coverage has [absolutely exploded over the years](https://www.restco.ca/Plastic_Pollution_Media_Coverage.shtml), though the knowledge has been around and well-researched for decades. 
 
-Taking a contrarian stance to the popular narrative -  my view is that not all plastic is bad, and the anti-plastic narrative has been driven out of proportion due emotion rather than practicality. There are huge benefits from a hygiene and safety point of view for many industries. Food and Healthcare included. My gut feel is that such conveniences are overlooked and taken for granted. 
+Taking a contrarian stance to the extreme narrative -  my view is that not all plastic is bad, and the anti-plastic narrative has been driven out of proportion due emotion rather than practicality. There are huge benefits from a hygiene and safety point of view for many industries. Food and Healthcare included. My gut feel is that such conveniences are overlooked and taken for granted. How many of the most vocal ones have worked in the healthcare (too busy saving lives ) or the food & beverage industry (too busy filling tummies and meeting the whims of entitled customers).
 
-The biodegradable argument to me is an issue of disposal, not use. I am an advocate of sensible plastic use and adequate disposal, and not the immediate OMGPLASTICKISBAD. 
+To me, the argument on the biodegradability of plastic (legit concern) is an issue of disposal, not use. I am an advocate of sensible plastic use and adequate disposal, and not the immediate OMGPLASTICKISBAD. 
 
-Should resources be invested into plastic alternatives or addressing the issue of waste disposal?
+I wonder - Should resources be invested into plastic alternatives or addressing the issue of waste disposal?
 
 ### My personal bugbear
 
 What pains me the most is that many of these are written by journalists who are meant to be experts following the field closely!
 
-At best, some people may feel good. At worst, these narratives are fueling unreasonable expectation of people *actually* doing the technology or to blame institutions or governments for not doing enough. Again, I reiterate - the solution is not as straight forward as you think!
+At best, some people may feel good. At worst, these narratives are fueling unreasonable expectations of people *actually* working on the technology or to blame institutions or governments for not doing enough. Again, I reiterate - the solution is not as straight forward as you think!
 
 I do not believe that all marketers are wrong, and I certainly do not think that many spread misinformation with malicious intent. 
 

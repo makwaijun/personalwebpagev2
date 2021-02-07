@@ -9,11 +9,11 @@ var sets = [
     {sets:["Cycling"], label: "Cycling", desc: "-", size: 1}
     ];
 
-      var chart = venn.VennDiagram()
+    var chart = venn.VennDiagram()
           .width(500)
           .height(400)
       
-     var div = d3.select("#venn_one").datum(sets).call(chart);
+    var div = d3.select("#venn_one").datum(sets).call(chart);
     div.selectAll("text").style("fill", "white");
           div.selectAll(".venn-circle path")
                   .style("fill-opacity", .85)
