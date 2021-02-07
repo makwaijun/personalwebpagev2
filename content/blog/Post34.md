@@ -46,7 +46,7 @@ I will try an encapsulate some of these through a representative persona (e.g. t
 
 Since the beginning of mankind - consumption of food and services were the primary socio-economic activity. Think foraging; Chimps picking parasites off one-another; drinking river water; so on and so forth. In this chapter, there was not much specialisation - aside from implicit social-hierachies, individuals and communities sought out efficient ways to consume, roaming across the land over the seasons.
 
-> > **What set apart individuals, communities and societies apart was their physical strength and endurance.**
+> > **What differentiated individuals, communities and societies was their physical strength and endurance.**
 
 <u>"Strong arm" Sam</u> would probably have done well living in this era, as an emphasis would have been placed on physical attributes, primal survival instincts and a band of merry warriors. 
 
@@ -56,7 +56,7 @@ Since the beginning of mankind - consumption of food and services were the prima
 
 Several thousand (or maybe more) years ago, nomadic humans decided to settle down and invest in fixed assets beyond living off the wild. In this chapter, economic activity related to farming, construction, livestock management, material extraction (e.g. mining, wood cutting) and much more became new, important economic roles at that time. 
 
-> **What set apart individuals, communities and societies apart was their ability to exploit their environment to their benefit.**
+> **What differentiated individuals, communities and societies was their ability to exploit their environment to their benefit.**
 
 <u>"Green Thumbs" George</u>, living in a place rich in natural resources, fertile soil, etc would probably have done pretty well living in this chapter. Hopefully he wasn't taxed too many bushels of grain. He would probably have been the client of <u>"Strong arm" Sam</u> to help him defend his farm. 
 
@@ -66,7 +66,7 @@ Several thousand (or maybe more) years ago, nomadic humans decided to settle dow
 
 Artisans of the bronze age converted raw products and goods into useful tools. Pottery, metallurgy and woodworking are examples of this (I attribute my hundreds of hours spent playing age of empires/ civilization V for this history lesson). A society in this chapter could have had its respected artisans, sculptors, carpenters, etc who transformed raw resources into far higher value products. 
 
-> **What set apart individuals, companies and societies apart was their ability to increase the value of raw goods.**
+> **What differentiated  individuals, companies and societies was their ability to increase the value of raw goods.**
 
 <u>Carpenter "Magic Hands" Michael</u> would probably have worked as an apprentice first, before making a name for himself as a renowned craftsman for the highest echelons of society (Kings, Priests, etc). Jack would probably have bought premium products (say - rare flowers for dye-making) from <u>"Green thumbs" George</u> to produce his high-quality crafts.
 
@@ -78,7 +78,7 @@ As humans became able to travel widely, there was added value in finding goods a
 
 In a space of a few centuries, economic activity was no longer premised on efficiency of society's capacity, but rather based on its location, access and connectivity to other productive civilisations and communities as well. These produced cities who could thrive as trading hubs. The merchant class emerged as another social strata that was been well represented in some ancient social structures, pointing to their importance. 
 
-> **What set apart individuals, companies and societies at this stage was their capacity to profit off global trade flows.** 
+> **What differentiated individuals, companies and societies at this stage was their capacity to profit off global trade flows.** 
 
 <u>Merchant "Midas Man" Marcus</u> would have thrived on cross-border trade, and made a tidy profit off the trade routes plied between the new world and the old. He would have bought goods from <u>"Magic Hands" Michael</u> from a port in a far off land and sold them at triple the value in another.
 
@@ -90,7 +90,7 @@ Key technologies includes international travel (ships, caravans), as well as dev
 
 Enabled by the availability of cheaper raw goods (often from out-of-town), mass production gave huge returns to capital as production became more of a science than an art. Systems and processes were heavily optimised to maximise productivity, profitability, while at the same time minimising costs.
 
-> **What set apart individuals, companies and societies at this stage was their ability to maximise profits from efficient production using economies of scale.** 
+> **What differentiated individuals, companies and societies at this stage was their ability to maximise profits from efficient production using economies of scale.** 
 
 <u>Factory-Owner Ford</u> would have excelled during this period as the boss of a capital-intensive but highly profitable factory. He would relied on <u>"Midas Man" Marcus</u> for the import of cheap goods and export of premium goods.
 
@@ -116,7 +116,7 @@ This brings us to now - where digital and more broadly "tech" is the core driver
 
 But more broadly:
 
-> **What set apart individuals, companies and societies at this stage was their ability adopt and apply new technologies**.
+> **What differentiated individuals, companies and societies at this stage was their ability adopt and apply new technologies**.
 
 <u>"Silicon Valley" Shelly</u> would do well in this world. She does UI/UX for a Software-as-a-Service company, helping people like <u>"Mad Men" Matthew</u> optimize their Customer Relationship Management (CRM) systems.
 
