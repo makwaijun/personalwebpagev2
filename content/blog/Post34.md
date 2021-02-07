@@ -46,7 +46,7 @@ I will try an encapsulate some of these through a representative persona (e.g. t
 
 Since the beginning of mankind - consumption of food and services were the primary socio-economic activity. Think foraging; Chimps picking parasites off one-another; drinking river water; so on and so forth. In this chapter, there was not much specialisation - aside from implicit social-hierachies, individuals and communities sought out efficient ways to consume, roaming across the land over the seasons.
 
-> **What set apart individuals, communities and societies apart was their physical strength and endurance.**
+> > **What set apart individuals, communities and societies apart was their physical strength and endurance.**
 
 <u>"Strong arm" Sam</u> would probably have done well living in this era, as an emphasis would have been placed on physical attributes, primal survival instincts and a band of merry warriors. 
 
