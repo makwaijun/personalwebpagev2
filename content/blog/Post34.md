@@ -1,44 +1,46 @@
 ---
-title: "The Chapters of Economic Development - Part 1"
+title: "The Story of Economic Development - Part 1: The Chapter"
 date: 2021-02-07T23:00:00+08:00
 draft: false
 ---
 
 TLDR;
-- Economic development and technological advancement across mankind's history can be broken down into "chapters".
-- Capital flows into phenomenon characteristic of each chapter. This is where jobs are created, innovation is nurtured and companies are most profitable. 
-- Each chapter is marked by cycles of emergence, differentiation, profitability, commoditisation and consolidation.
-- The emergence of a new chapter is increasing at a faster rate.
+- Economic development and technological advancement across mankind's history can be framed by "chapters".
+- Chronology aside, these Chapters highlight what it took to be differentiated during that era. 
+- This was/ is the ultimate driver of job creation, profits, and innovation - core aspects of any economy.
 
 ---
 
-### Preamble
+### Preamble  -still a work in progress on how best to frame craftmanship and/or manufacturing
 
-As described in my earlier post on thinking critically with the [assistance of history](https://www.makwaijun.com/blog/post27/), this post sets out an anecdotal / semi-novel supposition on how economies have grown and developed over time. Thinking around [separating economic growth into different phases is not new](https://en.wikipedia.org/wiki/Rostow%27s_stages_of_growth), but this is my different take on it.
+As described in my earlier post on thinking critically with the [assistance of history](https://www.makwaijun.com/blog/post27/), this post sets out an anecdotal / semi-novel supposition on how economies have grown and developed over time. The idea of [separating economic growth into different phases is not new](https://en.wikipedia.org/wiki/Rostow%27s_stages_of_growth), but this is my own personal and internalised take on it.
 
-Much like the approach to sustainability, this posts kick-starts a second series of posts on all things economic. Much like the former topic, the "economy" (in however you may wish to define it) is messy, complex, and a contemporary source much angst and fear. As such, I felt it would be worthwhile to embark on developing a unifying framework to understand and connect the dots between my casual observations and thoughts on the issue.
+Much like the approach to sustainability, this posts kick-starts a second series of posts on all things economic. The "economy" (in however you may wish to define it) is messy, complex, and a source much angst and fear. As such, I felt it would be worthwhile to embark on building a unifying framework to understand and connect the dots between my casual observations and thinking on the topic.
 
-This observation is underpinned by a key assumption about how the principles of business have been consistent over time: Capitalism (in its various forms across history) will always encourage **higher growth** (New markets or new products, etc). As long as businesses are financed by a third party - higher growth and returns will always be demanded. As a result, businesses will **always find a way to pivot and differentiate** - to the extent of finding or making their own "excuse" - in order to stay competitive.
+### The Story Of Economic Development
 
-### The Chapters Of Economic Development
+Although "Economic Development" is often used in the context of countries, this framework takes the bigger-picture approach to understand how economies have evolved across time and countries. The aim of this framework is to take the perspective of human civilisation in its <u>entirety</u>, rather than that of select communities. 
 
-To date, I roughly *think* that there have been seven-odd chapters of economic development and progress. Viewing economic development through eras are not new, but I hope that the characteristics and observations on each are hopefully novel.
+To date, I postulate that there have been seven-odd chapters of economic development and progress. Viewing [economic development through eras are not new](https://en.wikipedia.org/wiki/Rostow%27s_stages_of_growth), but I hope that the characteristics and observations on each are hopefully novel, in this post and others.
 
-Each chapter represents the principle driver of economic ("phenomenon") activity throughout periods of time. I placed a mental flagpost where the chapter's phenomenon became significantly widespread <u>across the world</u>. This is because many economies and societies developed at different rates, and the aim of this framework is to take the perspective of human civilisation in its entirety, rather than that of select communities. These flagposts are not intended to be scientific, but hopefully enough to form a picture the era in your mind.
+Each Chapter represents the principle driver of economic activity (**"Title"**) throughout periods of time. The corresponding Titles of each chapter often have the following features: 
 
-The corresponding phenomenon of each chapter is characterised by the following features: 
+1. **Heralded by a Disruptive Development**, by doing currently known things better, cheaper, faster. These could be due to a wide range of reasons, technology-included, which I describe in my next post.
+2. **High economic profitability**, as companies are able to differentiate themselves and out-compete due to the above.
+3. **High investment**, as returns of investment and growth are at its highest, for the reason above.  (This assumes the modern financing system)
+4. **High job creation potential**, as investment flows to these emergent sectors.  
+5. **Socio-economic premium**, as individuals working in these sectors do comparatively well.
+6. **Emergence of specialised hubs**, as agglomerations of assets and people working in these sectors outperform other locations.
 
-1. **A ground-breaking technological advancement**. Each chapter is revolutionary in nature, sparked by some form of revolution - often technological in nature, in my observation.
-2. **Complements the preceding Chapter in an additive fashion **, by doing currently known things better, cheaper, faster.
-3. **High economic profitability**, as companies are able to differentiate themselves and out-compete due to the above.
-4. **High investment**. This is because (as per the capitalist economic system) returns of investment and growth are at its highest, for the reason above.
-5. **High job creation potential.** As investment flows to these emergent sectors. 
-6. **Socio-economic premium**, as individuals working in these sectors do comparatively well.
-7. **Emergence of specialised hubs**, as agglomerations of assets and people working in these sectors outperform other locations.
+Points 2 to 6 captures the key concept of this framework - that is, **Differentiation**.
 
-<reminder to self: The final two breeds domestic inequality and international inequality,for the  future post>
+<reminder to self: Points 5 and 6 breeds domestic inequality and international inequality, for the  future post>
 
-I will try an encapsulate some of these through a representative persona (e.g. the archetype of success at that time, with the exception of the ruling class). 
+To best illustrate some of these, (in my very roundabout attempt-to-be-a-humanities-student kind of way), I attempt to use:
+
+- Representative personas of success (e.g. the archetype of success at that time, with the exception of the ruling class)
+- Rough timestamps to help anchor each chapter in a time period of human history. These mental flagposts are not intended to be scientific, an assumes a period where the chapter's "Title" became significantly widespread <u>across the world</u>. I concede that there are some natural discrepancies here, as economies developed at different rates. 
+- Key technological advancmenets of that era.
 
 #### Chapter 1: Consumption
 
@@ -46,7 +48,7 @@ I will try an encapsulate some of these through a representative persona (e.g. t
 
 Since the beginning of mankind - consumption of food and services were the primary socio-economic activity. Think foraging; Chimps picking parasites off one-another; drinking river water; so on and so forth. In this chapter, there was not much specialisation - aside from implicit social-hierachies, individuals and communities sought out efficient ways to consume, roaming across the land over the seasons.
 
-> > **What differentiated individuals, communities and societies was their physical strength and endurance.**
+> **What differentiated individuals, communities and societies was their physical strength and endurance.**
 
 <u>"Strong arm" Sam</u> would probably have done well living in this era, as an emphasis would have been placed on physical attributes, primal survival instincts and a band of merry warriors. 
 
@@ -70,7 +72,7 @@ Artisans of the bronze age converted raw products and goods into useful tools. P
 
 <u>Carpenter "Magic Hands" Michael</u> would probably have worked as an apprentice first, before making a name for himself as a renowned craftsman for the highest echelons of society (Kings, Priests, etc). Jack would probably have bought premium products (say - rare flowers for dye-making) from <u>"Green thumbs" George</u> to produce his high-quality crafts.
 
-#### Chapter 4: Trade and Globalisation
+#### Chapter 4:  Global Trade
 
 *Achieved Critical Mass: The Age of Exploration (1400s to 1600s)*
 
@@ -102,7 +104,7 @@ Key technological developments of this phase include mass production and mechani
 
 As the manufacturing productivity continued to hum in the background, a new era of "corporatisation" emerged. Advertising, accounting as well as the professionalisation of corporate functions (HR, Finance, etc) became a core focus of economic activity. This correlates with a new class of jobs - the traditional White Collar types - who took on non-manual work in offices. 
 
-> **What set apart individuals, companies and societies at this stage was their ability to create new markets and optimise organisational efficiency.**  
+> **What differentiated individuals, companies and societies at this stage was their ability to optimise organisational efficiency.**  
 
 <u>"Mad Men" Matthew</u> would probably have been well respected during this era. He markets and advertises the mass produced goods made by <u>Factory-Owner Ford</u>.
 
@@ -110,9 +112,9 @@ Key technological developments of this phase includes...nothing actually - this 
 
 #### Chapter  7: Digital (Industrie 3.0 & 4.0)
 
-*First observed: (Dot com Boom) ~2000s*
+*First observed: (Dot com Boom) ~2000s to now
 
-This brings us to now - where digital and more broadly "tech" is the core driver of the modern economy. It is unthinkable for many modern businesses to not have a digital aspect to it (be it hardware or software). This stage could be split into some subchapters around Computing (Industrie 3.0) and the current stage we are in where AI, and Big Data (Industrie 4.0) are all the jazz. 
+This brings us to now - where digital and more broadly "tech" is the core driver of the modern economy. It is unthinkable for many modern businesses to not have a digital aspect to it (be it hardware or software). This stage could be split into some subchapters around Computing (Industrie 3.0, probably around 1990s) and the current stage we are in where AI, and Big Data (Industrie 4.0) are all the jazz. 
 
 But more broadly:
 
@@ -120,32 +122,34 @@ But more broadly:
 
 <u>"Silicon Valley" Shelly</u> would do well in this world. She does UI/UX for a Software-as-a-Service company, helping people like <u>"Mad Men" Matthew</u> optimize their Customer Relationship Management (CRM) systems.
 
-Key technological advancements includes Silicon-on-chip and the subsequent computing revolution.
+---
+
+### So... What's Next?
+
+I hypothesize that the business cycles (who are the ultimate creators, deployers and appliers of new technology) point towards the early signs of where we are in terms of the next chapter. I feel that there are currently three in the making, all at different stages of being written. 
+
+1. Sustainability - Wide ranging consequences and applicability economy-wide.
+2. Platforms Re-discovered*
+3. Quantum
 
 ---
 
-###   On the Consequence of Being Born in the Wrong Era
-
-Before jumping on - I wanted to include a (rather emotive) demonstration of this framework. I think of the phrase: "I was born in the wrong era" as being the illustrative question on this. 
-
-For example:
-
-- A strong, possibly psychotic combatant today would probably land himself in prison, while he would have been hailed as a respected warrior in Chapter 1 (Consumption). 
-
-- An artistically inclined individual - good with their hands may find themselves fitting the stereotypical "starving artist" in today's world, but could have very well thrived during Chapter 3 (Craftsmanship).
-
-- Conversely, an uncharismatic, albeit brainy computer-savvy geek would have been trodden on in previous eras, but now has the opportunity to thrive in our current digital world.
-
-As a result of this thinking - I believe the answer to the question is a resounding Yes. There are real implications as to how well your innate skills fit what is being valued by the particular economic chapter you live in. Tough. 
-
----
-
-What was originally intended to be one post has now since been partitioned out into three. The next two posts will expand on this framework by layering on more pattern-spotting and observations that seek to answer:
+What was originally intended to be one post has now since been partitioned out into four. There are simply too many ideas to compres neatly into one page! The next couple of posts will expand on this framework by layering on more pattern-spotting and observations that seek to answer:
 
 - What causes a new chapter to be written?
-- What is its impact on businesses?
+- How do these work in the context of businesses and individuals?
 - Where are we headed to in the near-term? I.e. What is the next chapter?
 - How have these structures fundamentally changed? I.e. Does this model still hold? (short answer...I don't quite think so...)
+
+---
+
+**Afternote on platforms:*
+
+*If defined as a model that creates value by facilitating exchange, then infrastructure and utility owners are technically platforms in and of themselves. If say - a railway structure - did not exist, a huge swathe of users and consumers would not be connected to one another. These include train operators, freight operators as well as the ancillary services found at each trains station.*
+
+*These often form a monopoly or monopsony in behaviour.* 
+
+*What may have changed is the accessibility to enter such platforms (Cost to entry) in the non-physical realm. The Digital Chapter has re-enabled this pre-existing model in a different way.*
 
 
 

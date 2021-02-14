@@ -1,116 +1,155 @@
 ---
-title: "The Chapters of Economic Development - Part 2"
-date: 2021-02-08T23:00:00+08:00
-draft: true
+title: "The Story of Economic Development - Part 2: How Chapters affect What we do"
+date: 2021-02-14T23:00:00+08:00
+draft: false
 ---
 
 TLDR;
 
+- Economic Chapters are not static. They are follow common patterns and cycles.
 - Each chapter has implications to how businesses are structured
-- Each chapter is additive and complementary, and not necessarily destructive
-- This has led to increasing permutations of where value is found
+- Each chapter has implications on how jobs are created
 
 ---
 
-### Sub-Observation 2: The Birth and Death of each Chapter
+This post elaborates on what happens within each Chapters, its implications to businesses, and people.
 
-So how and why do Chapters emerge? I suggest one hypothesis, which hinges on the core concept of differentiation.
+### The Lifecycle of each Chapter
 
-emergence, differentiation, profitability, commoditisation and consolidation.
+I used "Chapters" as an analogy for each phase of the economy, because it invokes a sense of storytelling - a story that is not bounded by countries or individual, but one that can be applied humankind as a whole. But Chapters too, have their own structure. It often begins the introduction of something new , a phase of disruption - a tragic end... and a cliffhanger that trails off into the next. In short, each economic is dynamic - and follows its own "lifecycle":
 
-emergence, profitability, commoditisation and consolidation.
+1. **Emergence. ** 
 
-Each chapter begins with the emergence of a new technology that undergoes mass adoption - a revolution - that is able to break the systems of the past and reforms a new one anchored around itself. What follows is a shift in political and financial (i.e. investment) attention to the new system.
+   Each chapter is revolutionary in nature, sparked by some form of revolution - often technological. These developments qualify by having real, long-term value.
 
-As the core phenomenon begins as a novelty but later widely adopted, commoditisation of the once-new good or service naturally occurs. Businesses in 
+2. **Reaction.** 
 
-In many cases, there is a systemic shift that propels. 
+   As the emergent technology proliferates, there is a shift in political and financial (i.e. investment) attention to accommodate these. Some of these periods coincide with a degree of societal upheaval (e.g. Luddites in Chapter 5). Resources are unraveled away from the previous Chapters' and allocated to the new one. 
 
+3. **Normalcy**. 
 
+   Over time, a new norm emerges. This degree of normalcy however, no longer allows effective competition or differentiation to take place. 
 
+4. **Desire**. 
 
+   The world once again seeks out for new pathways to differentiate. Continual innovation yields some results, but not all are disruptive enough to launch into an entirely new chapter.
 
-### 
+---
 
+### The Manifestation in Business
 
+Two assumptions to mention beforehand:
 
-The role of business in each chatper.
+First  - businesses who want to prolong their growth and stay competitive often do so in two ways: via overseas expansion, and/or to find a way to **differentiate**. 
 
-Take Royal Dutch Shell for example. 
+Much like the human desire to be different and always on the look out for new things, businesses too, are heavily dependent on seeking out the next thing. This is in part due to businesses always looking for ways to achieve towards **higher growth**, as long as they are financed by a third party.  
 
-Its core activities covers Oil extraction (Resource Development) in a heavily, heavily consolidated industry. It has specialisations and critical roles in trading (Chapter 4); refines oil into higher value products (Craftmanship)
+Second - Large Multinational Corporations as representative of how each Chapter plays out
 
+Many modern MNCs have been around for a long time, presiding of several of the Chapters discussed in the last post. They also, by definition, have a global presence, pointing to their ability to be the result of, and instigator of change arising from global trends. This makes the pattern-spotting and observations more relevant at the scale of this framework.
 
+#### The Impact to Industries
 
-TLDR:
+As each new Chapter manifests, I categorise their implications to business through several buckets:
 
+1. **Commercialisation of new technology**
 
+   - This can emerge through new companies (e.g. Startups in today's language). Though the trend of "startups" are a relatively modern term, new businesses and entrepreneurs have been present since the dawn of time - often with ambitions far more noble than the "quick-IPO" trend these days.
+   - Adopted and developed by incumbent companies. 
 
-- Each domain is additive & complementary to pre-existing domains. Consequently, there will be increasing permutations and complexities required to achieve growth.
-- The contribution of these contemporary engines of growth are increasingly intangible. 
+2. **Shift of the Profit Core**
 
+   - As pre-existing goods and services become commoditised, higher profit (through higher margin goods and services or improved efficiencies) are sought.
+   - As with governments and the financial systems, businesses too, heavily invest resources into these new areas to enable higher growth / margins.
 
+3. **Organisational Restructuring**
 
-### The response of Businesses
+   - Creation of new departments. 
+     - For example, a new HR or Strategy department as management became "professionalised" in Chapter 6; new IT department as computing became a thing in Chapter 7.
 
-- More recently (taking the easy way out here), Digital, Innovation and now Sustainability have emerged as core domains. 
+   - Creation of C-suite Level role
+     - For example, Chief Digital Officer
 
-- I wish i could have visually depicted the above, but alas its a little tricky using Hugo
+4. **Consolidation**
 
-- Features of each trend 
+   - Businesses rethink how the technology fits into their strategies, potentially (i) spinning-off new companies, (ii) out-sourcing to emerging players and/or (iii) keeping some degree of capability within their own business.
+   - New "Champions" emerge, who control the dominant share of the market they play in.
 
-- Businesses who want to prolong their competitiveness and grow often do so in two ways. 
+5. **Monopolistic Tendencies**
 
-- 
+   - At this point, a critical mass is reached, allowing these "Champions", with reasonably good management, to exist for a very long periods of time.
 
-#### Commoditisation...
+6. **Rationalisation**
+- Drop in *relative* profitability as other technologies and companies emerge.
+   -  Loss of global top tier talent, as most flock to the leading industry.
 
+#### Case Studies and Examples
 
+**Industry Level - Late-cycle Consolidation of each Chapter**
 
-#### ...and the consequent Consolidation, Merges and Acquisitions
+As each Chapter matures, some champions emerge to control the dominant share of the market. Some examples are listed below:
 
+- Chapter 2: Resource Development (Consolidated)
 
+  - Oil Majors: Shell, Exxon, BP, Conoco Philips, Total
 
-#### Evolution of Corporate functions
+- Chapter 4: Global Trade
 
+  - Global Freight Forwards: DHL, UPS, Fedex, Nippon Express
 
+- Chapter 5: Manufacturers
 
-### Redefining innovation: The Pursuit of many Permutations
+  - Western Industrial Conglomerates: GE, Siemens, ABB
 
-As a consequence of each phase being additive in nature..
+- Knowledge intensive Services
 
+  - Advertising: Big 4 - WPP, Omnicon, Publicis, Interpublic
+  - Accounting/ Audit: Big 4 - EY, KPMG, PWC, Deloitte
+  - Consulting: Mckinsey, Bain, BCG
 
+- Digital
 
-There are increasing permutstkons of buzzwords and interest areas. This remains to be a place where value is derived.
+  - Western: FANG
+  - Chinese: BAT
 
+**Company Level - A Case Study in Vertical Integration across Chapters**
 
+Royal Dutch Shell was principally an oil discovery and extraction (Resource development, Chapter 2) company - at least around the time they merged. Since then, they have essentially developed in accordance to each Chapter of economic development. 
 
+Shell now features:
 
+- Global trade, trough their trading arm (Chapter 4)
+- Higher value manufacturing (Chapter 5)
+- Deep bench of corporate functions (Chapter 6)
+- Digital Operations (Chapter 7)
+- And currently - as I alluded to in the last psot- very much involved in seeing how the company can best fit into the now-arriving Chapter on Sustainability (Chapter 8?).
 
-### The Great Acceleration - Writing Chapters Faster
+Taking a different company that arose from a later starting point -  BCG emerged as a management consultant during the time of knowledge intensive services (Chapter 6). 
 
-As the mysterious author with a ink-smudged invisible hand, I believe he is currently writing the chapter in the following:
+- They have since their own Digital Operations and consulting arm (Chapter 7).
+- Like Shell, they have also set up their own Sustainability arm as well (Chapter 8?). 
 
+Again, each new function and capability is adopted by the need to **differentiate**.
 
 
 ---
 
-### So... What's Next?
+### The Manifestation in Employment
 
-I hypothesize that the business cycles (who are the ultimate creators, deployers and appliers of new technology) point towards the early signs of where we are in terms of the next chapter. I feel that there are currently three in the making, all at different stages of being written. 
+The concept of "work", is a key mechanism in how it each Chapter relates to the individual. How humans have lived our lives over millennia remains hinged on some story of the "value" an individual can bring to society. Kings, priests, weavers and office-workers are beholden to this. 
 
-#### Sustainability 
+To explain this - I wanted to include a (rather emotive) demonstration of this framework. I think of the phrase: "I was born in the wrong era" as being the illustrative question on this. 
 
+For example:
 
+- A strong, possibly psychotic combatant today would probably land himself in prison, while he would have been hailed as a respected warrior in Chapter 1 (Consumption). 
 
-#### Platforms
+- An artistically inclined individual - good with their hands may find themselves fitting the stereotypical "starving artist" in today's world, but could have very well thrived during Chapter 3 (Craftsmanship).
 
+- Conversely, an uncharismatic, albeit brainy computer-savvy geek would have been trodden on in previous eras, but now has the opportunity to thrive in our current digital world.
 
-
-Quantum
-
-
+As a result of this thinking - I believe the answer to the question is a resounding Yes. There are real implications as to how well your innate skills fit what is being valued by the particular economic chapter you live in. Tough. 
 
 ---
 
-These chapters have helped me frame economic history fairly well - but I suspect that there are reasons why this model is being fundamentally disrupted. 
+In my next post, I elaborate on the observation on how companies can grow in tandem with each new chapter in an <u>additive</u> fashion.

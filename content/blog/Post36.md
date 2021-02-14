@@ -1,14 +1,25 @@
 ---
-title: "The Chapters of Economic Development - Part 3"
-date: 2021-02-08T23:00:00+08:00
+title: "The Story of Economic Development - Part 4: Losing the Plot"
+date: 2021-02-16T23:00:00+08:00
 draft: true
 ---
 
 TLDR;
 
 - Each chap
+- The contribution of these contemporary engines of growth are increasingly intangible. 
 
-There is a trend of increasing intsgibikity. 
+
+
+
+
+
+
+### Tracking the Chapters against Mazlowe's Hierachy of needs
+
+
+
+
 
 ### The Productivity Paradox - Why timing is everything
 

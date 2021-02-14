@@ -4,15 +4,16 @@ date: 2020-07-02T21:31:16+08:00
 draft: false
 ---
 
-
+Updated 14 Feb 2021
 
 If a man is permitted to dream 
-To cosset my tongue with mouthfeels of bliss
-As defined by the gravy of the earth, the salt of the sea,
-A retirement plan, or a whimsical fantasy 
-Could a surf & turf be?
+To cosset my mouth and teeth
+With the gravy of the earth; the salt of the sea.
+Could a Surf & Turf be
+A retirement plan, or a whimsical fantasy?
 
-#retirement planz
+Too 
+
 
 *italicised if i want to learn*
 
@@ -30,7 +31,7 @@ Could a surf & turf be?
 3. Beef Bourguignon
 4. Ossobuco
 
-### Stuffedz
+### Oven-Baked
 
 Normally with Cheese and garnish
 
@@ -48,13 +49,16 @@ Normally with Cheese and garnish
 
  ### Breakfast
 
-1. Silky Scrambles (aka more butter)
-2. Tom Yum Scramble
+1. Silky Scrambles (butter, eggs)
+2. Tom Yum Scramble (butter, eggs, tom yum powder)
 
 ### Pastas
 
 1. *pesto (want to learn the homemade kind)*
-2. Mayonnaise carbonara
+2. Aglio e Olio
+3. Vongole (white wine, flower clams, parsley, garlic) [Soak clams in salt water; flower clams/asari/manila clams]
+4. Carbonara (Mayo, eggs, cheese)
+
 
 2. *Cacio e pepe* 
 3. Cream cheese and Salmon
@@ -64,8 +68,10 @@ Normally with Cheese and garnish
 
 1. Mussels
 2. Baked cod
-3. *grilled salmon belly* 
-4. *Baked scallops (butter/cheese)*
+3. Over baked lobster
+4. Pan seared scallops
+4. *grilled salmon belly* 
+5. *Baked scallops (butter/cheese)*
 
 ### Indian Curries
 
