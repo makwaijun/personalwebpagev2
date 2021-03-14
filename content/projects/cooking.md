@@ -10,9 +10,8 @@ If a man is permitted to dream
 To cosset my mouth and teeth
 With the gravy of the earth; the salt of the sea.
 Could a Surf & Turf be
-A retirement plan, or a whimsical fantasy?
-
-Too 
+A retirement plan, 
+or a whimsical fantasy?
 
 
 *italicised if i want to learn*
@@ -21,8 +20,12 @@ Too
 
 1. "La Rojo": beef stock, Chorizo, red onion, tomatoes
 2. Frutti di Mare: fish stock, mussels, prawns, squid
-3. Mushroom: veggie stock
-4. *Butternut squash*
+3. Lobster & Squid (Pictured 14 March 2021)
+
+![Lobster Squid Risotto](/img/LobsterRisotto_1.jpg)
+
+5. Mushroom: veggie stock
+6. *Butternut squash*
 
 ### Stews and Chillis
 

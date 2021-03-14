@@ -1,12 +1,12 @@
 ---
-title: "The Story of Economic Development - Part 2: How Chapters affect What we do"
+title: "The Story of Economic Development - Part 2: The Dynamism of Chapters and its Implications on us"
 date: 2021-02-14T23:00:00+08:00
 draft: false
 ---
 
 TLDR;
 
-- Economic Chapters are not static. They are follow common patterns and cycles.
+- Economic Chapters are not static. They follow cycles.
 - Each chapter has implications to how businesses are structured
 - Each chapter has implications on how jobs are created
 
@@ -81,7 +81,9 @@ As each new Chapter manifests, I categorise their implications to business throu
 
 6. **Rationalisation**
 - Drop in *relative* profitability as other technologies and companies emerge.
-   -  Loss of global top tier talent, as most flock to the leading industry.
+   -  Loss of <u>global</u> top tier talent, as most flock to the now leading chapter.
+
+---
 
 #### Case Studies and Examples
 
