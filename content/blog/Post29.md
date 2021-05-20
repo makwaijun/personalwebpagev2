@@ -88,6 +88,4 @@ The ideas shared here are not designed to convince or compel people to change th
 
 So, before we rush off into another heated debate about sustainability and play the same blame game... Before we demand to have our cake and eat it... Do question - where did the cake come from? and why is it chocolate and not vanilla? 
 
-
-
 In my next post, I elaborate on the elements of stage 5 with examples and share my thoughts about the holy trinity of Reduce, Recycle and Reuse.

@@ -61,4 +61,17 @@ So I question:
 
 Currently, I have a relatively low spend on material goods, and have gotten considerable savings in the bank. (average spending of 500 SGD a month in my current state, excluding housing/bills). But my lack of consumption and high-savings is an economist's worst nightmare!
 
-As a result, I am very interested in what the next "driver" of the economy will be. Quick answer: I have no idea, but more importantly, this segues into my next series of posts, in what the future economic structure might look like. Til then.
+As a result, there are certainly trade offs - be it quality of life, or a lack of economic particiaption if every stopped spending and started to produce and consume as humans did back in stone age. With this in mind, I conclude my thoughts on sustainability and segue into my next series of posts on the economy.  Til then.
+
+### Parting Word s (Shot?)
+
+But first - a final thought.
+
+In a nutshell, Sustainability is a complex, sophisticated and holistic topic. Before passing judgment or believing that one could be an "expert" in Sustainability - I summarise my own thoughts on developing a nuanced view as below:
+
+Before professing expertise in Sustainability one must understand the Economy;
+To understand the Economy, one must understand its challenges, including economic inequality;
+To understand inequality, one must understand Politics and human nature.
+
+Sustainability on all fronts, in my view, is only possible if we live in a productive (exchange of economic value), truly equitable [Link to inequality post here]  (economic equality) , cohesive (political) manner. I see these as the fundamental building blocks required in order for planetary/environmental sustainability to be achieved. 
+

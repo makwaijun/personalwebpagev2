@@ -1,7 +1,7 @@
 ---
 title: "The Story of Economic Development - Part 2: The Dynamism of Chapters and its Implications on us"
 date: 2021-02-14T23:00:00+08:00
-draft: false
+draft: true
 ---
 
 TLDR;
