@@ -1,5 +1,5 @@
 ---
-title: On Education Systems and If-I-had-to-teach-a-kid
+title: "On Education Systems and If-I-had-to-teach-a-kid"
 date: 2021-05-20T23:00:00+08:00
 draft: false
 
