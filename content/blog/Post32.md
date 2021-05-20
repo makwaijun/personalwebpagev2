@@ -73,5 +73,5 @@ Before professing expertise in Sustainability one must understand the Economy;
 To understand the Economy, one must understand its challenges, including economic inequality;
 To understand inequality, one must understand Politics and human nature.
 
-Sustainability on all fronts, in my view, is only possible if we live in a productive (exchange of economic value), truly equitable [Link to inequality post here]  (economic equality) , cohesive (political) manner. I see these as the fundamental building blocks required in order for planetary/environmental sustainability to be achieved. 
+Sustainability on all fronts, in my view, is only possible if we live in a productive (exchange of economic value), truly equitable [Link to inequality post here]  (economic equality) , cohesive (political) manner. I see these as the fundamental building blocks required in order for planetary/environmental sustainability to be achieved.
 
