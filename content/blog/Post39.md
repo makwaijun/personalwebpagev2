@@ -1,34 +1,50 @@
 ---
-title: "What the future holds"
-date: 2021-03-06T23:00:00+08:00
-draft: true
+title: "Addendum to Economics 3 - Firm and Industry Examples"
+date: 2021-03-25T23:30:00+08:00
+draft: false
 ---
 
+### Consolidation and Monopolistic Tendencies - Examples
 
--   The steady state? As free monet flows and a bifurcation between the have and have not happen. Struggles against inequality in the past has had mixed results. It's not a new problem.
--   Basic income provided
--   But controlled consumption. An economic system dictated by completion at the top, but control at the bottom.
--   The elites will fight over how this discretionary spending is used.
--   Is this wrong or right?
--   There is an endless debate that could be had on the pros and cons of collectivism and invidiual free will.
--   But already in this day and age. There are just as many people who don't want to be in the "rat race". Would UBI and directed consumerism suit their needs?
--   Individuals who are free to do whatever they want (within the usual legal system of course) but with an added requirement to consume X amount of something per month?
--   Think a group of powerful executives. Controlling what kpop bands manufacture. To enrapture a mass demographic. Who affix their value and life to this.
--   Religionisation or cultitisation of the economy.
--   It'll work for some. But not all.
--   Unlike the indentured servitude that many dystopian literature portrays -
--   Productivity is accrued to the elite.
--   And so the cycle continues,..
--   ADD IN:
--   Can human progress be unlimited?
--   The limits of human mind
--   Humans forget.
--   Pro-progress and the steady state of humanity.
--   Steven pinker.
--   Condorcet:
--   The steady state is opposed by concoreocet. He says humans can infinitely progress.
--   Pro-cycle and the never ending strife:
--   Dark ages between civilisations
--   Fermi's paradox
+As each Chapter matures, champions emerge to control the dominant share of the market. By defintion, most of these are conglomerates, who have underwent significantly Mergers and Acquisitions, as identified in the Consolidation stage of each industry. 
 
--   Gesellshaft - societal contribution to pla in this. this is the socio-economic impetus.
+Some examples are listed below:
+
+- Chapter 2: Resource Development
+  - Oil Majors: Shell, Exxon, BP, Conoco Philips, Total
+- Chapter 3: Manufacturers
+  - Western Industrial Conglomerates: GE, Siemens, ABB
+- Chapter 4: Global Trade
+  - Global Freight Forwards: DHL, UPS, Fedex, Nippon Express
+- Chapter 5: Modern Services
+  - Advertising: Big 4 - WPP, Omnicon, Publicis, Interpubli
+  - Accounting/ Audit: Big 4 - EY, KPMG, PWC, Deloitte
+  - Consulting: Mckinsey, Bain, BCG
+- Digital
+  - Western: FAANG
+  - Chinese: BAT
+- Platform (CURRENTLY UNDERGOING!)
+  - Grab
+  - Uber
+  - Gojek + Tokopedia
+
+### Organisational Restructuring in Companies
+
+**Royal Dutch Shell** was principally an oil discovery and extraction (Resource development, Chapter 2) company - at least around the time they merged. Since then, they have essentially developed in accordance to each Chapter of economic development.
+
+Shell now features:
+
+- Higher value manufacturing (Chapter 3)
+- Global trade, trough their trading arm (Chapter 4)
+- Deep bench of corporate functions (Chapter 5)
+- Digital Operations (Chapter 6)
+
+As  a more recent example, **BCG** emerged as a management consultant during the time of knowledge intensive services (Chapter 6).
+
+They have since built their own Digital arm (Chapter 6).
+
+I reiterate that many of these developments arose out of a need to **differentiate.**
+
+**This corroborates the observation earlier on the additive nature of (link here) of each chapter, as they manifest in corporate organisational structures as well.**
+
+To be clear, this does not mean that businesses would pivot their core business significantly - it just means that they are continually using new chapters’ activities to find new channels of value and thereby stay competitive (and relevant).

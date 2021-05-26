@@ -1,110 +1,70 @@
 ---
-title: "The End of an Economic Cycle - Losing the Plot"
-date: 2021-03-06T23:00:00+08:00
-draft: true
+title: "Economics 2 - Trends Across Chapters"
+date: 2021-03-15T23:00:00+08:00
+draft: false
 ---
 
 TLDR;
 
-- Each chap
+- This post elaborates on some patterns and observations looking across several economic chapters. 
+- These are the principles that guide how the theory of economic chapters work in totality. 
+- New chapters are emerging at a faster pace.
+- New chapters are additive to its predecessors and are not inherently destructive
+- New chapters are complementary to its predecessors. This has led to increasing permutations of where value is created and applied.
 
 ---
 
-We appear, for many reasons, to be at an inflection point of change. This post will attempt to explain my view of why we can expect more changes, why there are so many struggles with this change, and where we might be headed towards - further explored in the subsequent most.
+**PREMISE 2: Trends and patterns can be spotted** **across** **chapters.**
 
-### Why we Expect Changes - Kondratieff 101
+Looking across the chapters, there are three notable patterns:
 
-Credit where credit is due - this was introduced to me by an incredible manager I worked with. 
-
-Today we are faced with great uncertainty. As characterized by a privately published article by Ian Bremmer's Gzero Media (likely inspired from a few sources)
-
-I think they summed up our current position as an inflection point rather neatly:
-
-- Economically, as we enter a whole new world of low interest rates, and modern monetary theory
-- Politically, as the east "threatens*" the west, and the tensions arising from conservative and liberal political ideologies.
-- Environmentally, as we enter a new era of more volatile era, biodiversity loss, so on and so forth.
-
-Yet, it is important to realize that none of these are new. Kondratieff (Soviet era economist) as well as several other academics, have presented ideas the concept of economic waves and cycles that have held true over the past centuries(more modern economies). Each occur at different rates. 
-
-- Kitchin cycle (inventory, e.g. pork cycle) - short cycle
-- Juglar cycle (fixed investment) - medium 
-- Kuznets swing (infrastructural investment) - long
-- Kondratiev wave (technological basis) - very long
-
-Indeed some of my thinking of the prior economic chapters stems from inspiration from these greats. These point towards how the world has ebbed and flowed between different upturns and downturns. What we struggle wit
-
-As concerning as many of the issues in the world may be - thus prompting strong reaction and commentary.
-
-When contextualised against the thousands of years of history
-
-The world quite simply must be trending to a better place. Current expectation/ desire deals with exorbitant profit as a goal.
-
-
-
-### The importance of Thinking in Cycles
-
-I reflect the importance of thinking in cycles as a way of understanding the world. 
-
-The theory of cycles hold true in the past, the present and future. A long lasting principle if you will. But waves are humbling. 
-It tells us that no one ever got it right. It reminds us that our pursuit of the perfect answer is inherently flawed. Whenever and what ever the case may be, is always important to remain flexible and adaptable, no matter how "stable" things may be. 
-
-We regress (or progress?) by switching sides in many domains. Economic or political as shared.
-
-As much as humans have fought nature, macro forces and the nature of each cycle seems to correct humanity before we can correct ourselves. I wonder how much control that we collectively as a civilisation have over these. Governments and INternational instiutions may temper the volatility of these (e.g. Despite our current cycle, it doesn't *seem* like we are headed to World War III), but each transition creates a difficult and uncertain time for those living in it.
-
-
-Will we ever overcome this to form a permanent end state? Or will we huannirt forever struggle against the whims of the invisible wave. 
+Firstly, new chapters - and hence, dominant economic activities - are emerging at an exponentially faster rate. Secondly, chapters and their respective dominant economic activities are not destroyed; rather, they are additive to all preceding. Third, each new chapter not only disrupts the preceding chapters but also unlocks new avenues for value creation. That is (in my parlance), they are complementary to all preceding chapters. 
 
 ---
 
-### Why We Still Struggle -The Curse of Measurement
+### New Chapters are Emerging Faster and Faster
 
-What is the ultimate measure of intangibility?
+Between each chapter, the gap has drastically reduce from millenia (antiquity to bronze age), to mere decades between the digital and platform economies. I would have included a fancy curve-chart to illustrate this, but alas, There exists plenty of commentary on how the pace of innovation is quickening. Some attribute this phenomena to the rapid exchange of information, as enabled by digital means. In my view, this is also driven by a drastic increase in business competition across multiple arenas (global vs local, technological disruption), thus leading companies to always want to *differentiate* - a concept I have written at length in the prior post.
 
-Ironically, I think one of them is its ability to be measured.
-
-As mentioned, I
-
-Yet, I would argue that even recent trends around say - Sustainability, or even Artificial Intelligence. "Innovation" while desirable by governments and companies alike, often have no idea.
-
-I take anyone who professes to be an exp
-
-Without measurement, the conventiona
+To me, this **corroborates the rather accurate anecdote that the world is changing at a much quicker rate, fashionably described as “disruption”.**
 
 
 
-As i wrote at the end of my series of sustainaiblity posts, a new economic model is demanded by the planet. If not capitalism - what else?
+### Chapters are Additive to one another, and do not replace its preceders
 
-### Why We Struggle - The Productivity Paradox - 
+As portrayed in the previous post, none of the chapters are wholly independent (perhaps with the exception of the first chapter.) Resource development (chapter 2) builds on the consumption habits featured in its preceding era (chapter 1); just as manufacturing and craftsmanship is built developed resources (chapter 3). Global trade (Chapter 4) must have something to trade with (chapter 2,3); so on as so forth. 
 
-- I wrote about how innovation has diminishing returns, and is also representative of the 
-- The thirst for productivity has increased inter-nation comeptitiveness, but ultimately is a key destroyer of jobs. 
+To illustrate this in lay terms in the most basic (and most necessary) industry of all (food).
 
-Another big concern amongst economists (especially in Singapore) is this everlasting concern and struggle.
+- [Chapter 1 - Consumption]: Eat food
+- [2 - Resource Development]: Farm Food
+- [3 - Manufacturing]: Process food (like say, bread)
+- [4 - Global Trade]; Export Food
+- [5 - Modern Services]: Services to improve the quality of food - safety, for example.
+- [6 - Digitalisation]: Improve food production efficiency via digital means
+- [7 - Platforms]: Sell food on ecommerce markets.
 
-It is no myth that Productivity has stagnated in many modern economies. Intuitively, this makes no sense 
+Though we may live in an era where Chapter 7 (Platforms) is one of the most attractive economic activities, it does not take away from the necessity and existence of all prior chapters. We still consume, grow, process, export, and certify the food we eat.
 
-Insidiously, 
+To me, this **corroborates the view that new chapters and disruption do not destroy preceding forms of economic activity. It has helped be believe in the broad principle of progress through disruption - and am a great disbeliever in Luddism.**
 
-But each revolutionary spark does not necessarily correlate to improvements. The lead time between invention to critical mass often takes a far longer time. While people are spending the bulk of their money of
+It is this realisation that has provided me with a mental model and non-empirical rationalisation of how new jobs can be created even as old ones are made redundant. As for the quality of new jobs however...well that is a post for another time.
 
-Yet, leading economies, as I remarked in my previous posts are 
+### New Chapters are Complementary, and unlock new avenues on value creation and exchange.
 
-But at what level are technological disruptions necessary?
+But beyond just merely adding to the preceding chapter, I posit that each chapter unlocks new avenues of value and growth. I wish I could come up with another word aside from “unlock”....sound too much like a consultant...
 
-Essentially, are we collectively creating, marketing, buying and attributing value to things with increasing diminishing returns?
+To illustrate this, consider a firm’s perspective:
 
- then complaining why theres so little value gained from it at a macro level.
+Back early in mankind’s history (Chapter 2 - resource development), there were several ways a firm (or individual) could differentiate themselves. Perhaps a focus on mining a certain metal; growing a certain type of crop; or rearing a certain type of animal. In this context, perhaps different individuals in a village played a different role - some may have simply been better at certain things than others.
 
+Fast forward to now - you can find an explosion in permutations on how a firm could differentiate itself. Perhaps, it could be a consultancy firm **advising** (Chapter 6) companies on **Supply Chains** (Chapter 4), for a **Mining** (Chapter 2) **Equipment Manufacturer** (Chapter 3), by specialisng in **Digital** solutions (Chapter 5). It is not unthinkable that for every new chapter, there are plenty more niches to be found.
 
+In my view, this has given rise to two consequences. 
 
-I note that Chapter 6 - Modern services and the advent of marketing as being revolutionary from a business point of view, as it shifts away from matching supply and demand to *creating* demand. This has been a great source of innovation and disruption, but as I shared in a previous post - has the potential to be misguided. 
+First, **there are an increasing number of permutations to add value and differentiate oneself.** While i see this as a good thing, is also a maddeningly wide array of “buzzwords”and catchy business phrases these days. There are difficult to discern and intepret as a futurist and strategist. 
 
-The Productivity Paradox
-The thirst for productivity has increased inter-nation comeptitiveness, but ultiamtely is a key destroyer of jobs. 
+Secondly, this realisation has also made me **intuitively believe in a shift towards generalists.** These days, it is not enough to build a deep skill in one particular area, but to apply them widely to each chapter and form. The more chapters - the more unique and valuable your skillsets could be to society. There have been books written about this phenomena too. In the future, the hallmark of someone successful may very well be their ability to learn, absorb, and differentiate across multiple permutations, rather than be hyper focused in a single domain.
 
----
+The first two posts of this series has discussed the general, emergent patterns to *define*  each chapter as well as to find common trends *between* chapters at a high level of abstraction. The next post delves into the dynamic nature *within* each chapter.
 
-
-
-As i wrote at the end of my series of sustainaiblity posts, a new economic model is demanded by the planet. If not capitalism - what else
