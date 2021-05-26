@@ -43,7 +43,7 @@ Yay [best metal straws](https://www.greenmatters.com/p/best-metal-straws). Why t
 
 This is exactly the type of green consumerism is that is well suited to the tactics of marketers. The usual saying of we "buy shit we don't need" and the whole argument about how materialism doesn't make you happy points to a model that does not work. I remain conflicted on how to rationalise the role of the marketer and how they can be repurposed to get people to consume less (which as discussed in my previous most, is a sensible outcome).
 
-### Case in point 4: The Anti -Plastic cult
+#### Case in point 4: The Anti -Plastic cult
 
 Media coverage has [absolutely exploded over the years](https://www.restco.ca/Plastic_Pollution_Media_Coverage.shtml), though the knowledge has been around and well-researched for decades. 
 
