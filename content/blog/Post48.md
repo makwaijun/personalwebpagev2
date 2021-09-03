@@ -2,7 +2,6 @@
 title: "A Reflection on Moving out in 2021"
 date: 2021-05-15T23:00:00+08:00
 draft: false
-tags: [ "personal" ]
 ---
 
 TLDR:
