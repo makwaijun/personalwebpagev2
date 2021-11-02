@@ -1,6 +1,6 @@
 ---
 title: "My Response to the COP26 Response"
-date: 2021-11-02T23:30:00+08:00
+date: 2021-11-02T22:30:00+08:00
 draft: false
 ---
 
