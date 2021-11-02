@@ -96,10 +96,10 @@ I presume that countries will strive to increase - firstly, its global position 
 
 ### STUMPED FOR SOLUTIONS
 
-If I were running a country, I would succintly say that a government should look to <u>exploit global inequality to their advantage, and minimise local perceived inequality</u> to breed a strong and socio-economically stable ecoomy.  But how can this be done? There would probably be many challenges and wicked problems to be addressed along the way.
+If I were running a country, I would succintly say that a government should look to <u>exploit global inequality to their advantage, and minimise local perceived inequality</u> to breed a strong and socio-economically stable ecoomy.  But how can this be done? There would probably be many challenges and wicked problems to be addressed along the way. Of course - this is in the interest of the own country and hardly the position of the UN or those aspiring for a wholly global structure for peace and prosperity. 
 
 But i was somewhat inspired by an epsiode on the Economic Update podcast by Dr. Richard D Wolff.  His answer to address inequality by democratising production and earning capability. Maybe tech (process) and education can help this? I have no idea, but seems to be worth a shot. 
 
-This is a fundamental issue that has plagued humanity for its entire existence. But I ponder... <u>How can we collectively enjoy the immense benefits of capital agglomeration* (absolute / economic) whilst promoting a more equitable society (perceived / social) for both the world (global) and countries (local).</u>
+This is a fundamental issue that has plagued humanity for its entire existence. But I ponder... <u>How can we collectively enjoy the immense benefits of capital agglomeration* (absolute / economic) whilst promoting a more equitable society (perceived / social) for both the world (global) and countries (local)?</u>
 
 *having been responsible for cheap food, housing and numerous critical human necessities. 

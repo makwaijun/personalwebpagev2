@@ -1,5 +1,5 @@
 ---
-title: "On Governance and Government - a lived experieence"
+title: "On Governance and Government - a lived experience"
 date: 2021-09-02T23:00:00+08:00
 draft: false
 ---
@@ -12,7 +12,7 @@ TLDR:
   - Trade-off mindsets: There is too high a fixation on the myopic "best /better" decision,  as opposed to a holistic view accounting for trade-offs.
   - Bursting the Bubble: Public Officers should engage deeply in the "real world" and avoid being trapped in a bubble.
   - Wacky socio-economic Eugenics: This could include mixing the public - private occupations of families
-- All rambly thoughts are my own
+- All rambly thoughts are my own. Pls dont sue T_T.
 
 ---
 
