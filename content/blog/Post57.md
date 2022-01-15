@@ -2,7 +2,7 @@
 title: "57: Political Structures 1: The Spectrum of Ideological Effectivness"
 date: 2022-01-10T13:00:00+08:00
 draft: false
-tags: ["Government ]
+tags: ["Government"]
 ---
 
 TLDR;

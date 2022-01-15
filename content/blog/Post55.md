@@ -2,7 +2,7 @@
 title: "55: Obligatory 2022 Post - Frameworks for calibrating the Compass of Life"
 date: 2022-01-10T11:30:00+08:00
 draft: false
-tags: ["personal" ]
+tags: ["personal"]
 ---
 
 Semi-obligatory, but nonetheless important to just privately . As I type this, I am currently in between an old job and new one, carving out a momentary pause for reflection. ...and weakly attempting to clear 19 blog posts in the backlog. Trying out [Zettlr](https://www.zettlr.com/) instea of Typora, as the latter has launched with a subscription fee. Moving forward, I will label the post number in the header… technically this is my 43rd file, but it seems that my numbering had missed a chunk of post 20-somethings and its gone a bit off the rails. Oh well. 

@@ -1,9 +1,10 @@
 ---
-title: "56:Commentary: Profiteering is in the Eye of the Beholder "
+title: "56: Commentary: Profiteering is in the Eye of the Beholder "
 date: 2022-01-10T12:00:00+08:00
 draft: false
-tags: ["economics" ]
+tags: ["economics"]
 ---
+
 As a matter of building off previous posts, and to ensure the "permanance" of content amidst numerous evolving conceptual ideas, I'll add some additional ideas / thoughts through separate posts. This way, if there are interesting articles I read along the way that are relevant to a past post, I'll add a commentary such as this one. 
 
 Recently (clearly not today, as I am hardly able to maintain a regular time to write), I came across an article by the [New York Times](https://www.nytimes.com/2021/12/20/opinion/profits-competition-covid.html ) by Peter Coy discussing how big boy pharma companies are making bank (well specifically, profits) off the pandemic. 
