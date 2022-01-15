@@ -1,5 +1,5 @@
 ---
-title: "55: Obligatory 2022 Post - Frameworks for Direction in Life"
+title: "55: Obligatory 2022 Post - Frameworks for calibrating the Compass of Life"
 date: 2022-01-10T11:30:00+08:00
 draft: false
 tags: ["personal" ]
