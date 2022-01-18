@@ -1,5 +1,5 @@
 ---
-title: "56: Commentary: Profiteering is in the Eye of the Beholder "
+title: "56: Commentary: Profiteering is in the Eye of the Beholder"
 date: 2022-01-10T12:00:00+08:00
 draft: false
 tags: ["economics"]
