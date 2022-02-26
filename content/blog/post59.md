@@ -21,7 +21,7 @@ Economic:
 * Weakened traditional wealth-growing prospects
 
 Social
-* Mistrust in institutions, and Us vs Them social narratives driven by..
+* Distrust in institutions, and Us vs Them social narratives
 * Virality and platforms to build communities quickly, anonymously to develop minority identities. (link post)
 
 On top of this, I believe there has been a fundamental decline in well-paid meaningful (i.e. non Bullshit) jobs. Is it emotionally or physically "worth it" to participate in the economy?
