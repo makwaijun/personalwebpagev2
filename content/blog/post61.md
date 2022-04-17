@@ -1,6 +1,6 @@
 ---
 title: "61: Career 1 - On a Purposeful Career and Meaningful work"
-date: 2022-04-156T15:30:00+08:00
+date: 2022-04-15T15:30:00+08:00
 draft: false
 tags: ["Career"]
 ---

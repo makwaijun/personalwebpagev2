@@ -1,6 +1,6 @@
 ---
 title: "62: Career 2 - On Purpose"
-date: 2022-04-166T15:30:00+08:00
+date: 2022-04-16T15:30:00+08:00
 draft: false
 tags: ["Career"]
 ---
