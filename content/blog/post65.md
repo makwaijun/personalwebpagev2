@@ -1,61 +1,44 @@
 ---
-title: "65: Career 4 - On Management"
-date: 2022-04-156T15:30:00+08:00
-draft: true
-tags: ["Career"]
+title: "65: Economic 10: On the Middle Income Trap, and future of Underdeveloped Countries"
+date: 2022-05-17T15:30:00+08:00
+draft: false
+tags: ["economics"]
 ---
-
-This ought to be a live document, but as this every growing repository of my thoughts continues to be built, I thought it better to capture these, in the moment. 
-
-
-### Say What and Wants; Outcomes vs Outputs
-Idea 1: confusing outcomes and output. Don't be focused on the output, if the outcome is achieved 
-Idea 2: be an orchestrator. Can't play all instruments, 
-Idea 3: ask what needs to be removed? What friction to be lubricated. Have an oil flask, not a fire extinguisher 
-
-Communicate intent
-Teach skills
-Communication is not a solution, unless each of them have a founder mindset - which will be severely tested over time. 
-There are inherent trade offs and dynamics in people wanting to do their job, or their scope of work. 
-Remove bottlenecks 
-Let things run itself
+### For Small Countries 
 
 
-### Processes and Systems
+Related to Trade-off based governance. 
 
-Implement systems
-Spend time to think about the bigger picture and deployment of resources   '
 
-Align objectives 
-Never talk up
-Don't do, get things done. See things through 
+But there ought to be specific nuances that relate to smaller countries (such as where I'm from). More likely than not, these countries will fall prey to the machinations of the major powers on a great geopolitical chessboard. 
 
-If an authority gives a window to get out of a meeting - take it. 
-
-### The Conductor and the Orchestra
-Harmony
-
-To make good music. 
+ 
+Radical suggestions:
+Pricing at passion vs pricing at indifference.Singapore can be the niche mjttselands of the world.A point of culture and passion 
+Highly focused, highly niche but trade off against diversity
 
 
 
-On sales:
-Never talk up. Talk as an equal
+
+### On Underdeveloped Countries
+
+Implications for underdeveloped Countries
+Permanently lost out. 
+
+.
+
+#### Manufacturing no longer the surest pathway
 
 
-### Hiring Good People
+Radical predictions on world order: 
+What happens when global costs reach equilibrium? 1:1 cost of a manufacturing worker in all countries. Narrowing wage differential reduces global cities. Narrowing cost differential.. What is the price and cost of stability?
 
-Having since joined a startup, I've been thrown - earlier than I expected - into the shoes of a hirier. 
-I'm an advocate  of generalism. There are two driving forces behind this
-Everything can be googled, and everything can be taught via a youtube lecture. An novice can follow along the actions of an expert to figure things out.
-More than ever, there is a proliferation of free / cheap, accessible softwares
-I prio
-Some of my questions include:
-X
-Y
-Z
-I feel satisfied when a candidate takes a moment to reflect as in deep thought. It is this depth of thought that can unearth a hidden understanding that is good for both the candidate, and for the company too. 
-I think its been successful too - Some feedback of candidates has described the interview with me as a "great chat". 
+a. possibility that the offshoring stops at ASEAN, and does not go to Africa.Aging. G20 is losing the population while the infrastructure is still competitive, then ASEAN population will move to G20 and fill the empty houses.Robots. Robot will become cheaper and more flexible, then the robots could do the agricultural and mining works of the emerging country.Free society. There will be less risk of cultural dominance by a powerful and authoritarian civilization over the other country, hence free flow of people may not bother the national security too much.*The competition of labor cost may transfer to the competition of quality infrastructure, condition of industry and life.
 
+Most efficient areas
 
-Combining these, careers and hiring represent a race that balances three aspects. These are to acclerate the pursuit of the best (culture) fit for the best job with the best person, in the best place. 
+What about Africa?
+https://www.youtube.com/watch?v=hd_lCXQzA80 
+downcycling of goods. second hand but usable. cannot even move into its own textile industry
+What about India? 
+Lots of inherent issues. Progress is slow. Brain drain and deep, entrenched inequalities are an issue. 
