@@ -1,5 +1,5 @@
 ---
-title: "66: On Peace, Spirituality and Religion"
+title: "66: Life 1 - On Peace, Spirituality and Religion"
 date: 2022-05-16T22:30:00+08:00
 draft: false
 tags: ["thoughts"]
@@ -37,12 +37,12 @@ I can see that the structures of religion can greatly accelerate the path to pea
 
 I have reflected and remarked that freethinkers may very well be the most tortured of souls, fighting an individual war to define and win the battle for the ultimate peace. It leaves the soul swimming in a sea of emotions and feelings, without the bedrock of a community, without the lighthouse of doctrine, without the anchor to start with - all of which I feel are things that religion can offer. 
 
-As someone brought up a freethinker and believer in the scientific theory, I must disagree with the absolute laws and uncompromising conditions that religions bear, though I can agree with the "salvation" that it brings. 
+As someone brought up a freethinker and believer in the scientific theory, I must disagree with the absolute laws and uncompromising conditions that religions bear, though I can agree with the "salvation" that it brings. I would still be far more disposed towards religious pluralism over religious exclusivity.
 
 
 ### Peace in Belief
 
-But can too much peace be a good thing? Does it make living less dramatic, more diminished? There could be a fiery spiciness to the unpeaceful curiosities - some relish the thrill seekers, gossip on benign misfortune, adventure, wanderlust and more. 
+But can too much peace be a good thing? Does it make living less dramatic, more diminished? There could be a fiery spiciness to the unpeaceful curiosities - some relish the thrill, gossip on benign misfortune, mystery and adventure, wanderlust and more. 
 
 More broadly, a question that came to mind - is peace an opposer to productive change? Surely revolutions have been rather unpeaceful approaches to obtaining peace. 
 
