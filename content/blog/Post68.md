@@ -4,9 +4,9 @@ date: 2022-07-11T17:30:00+08:00
 draft: false
 ---
 
-I was in the sea today. And saw the buoys bobbing. There is a destination to get to. 
+I was in the sea today. And saw the buoys bobbing. I set a target; an unconcious marker to swim to before returning to shore. 
 
-For we are boats, travailing on the open sea. But the winds buffet and blow. Mother nature is unpredictable.
+And while swimming, I we were boats, travailing on the open sea. But in the ocean - the winds buffet and blow. Mother nature is unpredictable.
 
 And so we need an anchor. Or anchor_s_, as I shall explain:
 
@@ -36,34 +36,39 @@ Despite them being spread out across the world - a video or voice call is so eas
 It doesn't matter. The support is here. Its now. and just when one needs it. 
 
 ### Finitude
-This thinking was discussed around a single word a good friend shared with me. Simple in its meaning, powerful in its concept. 
+But allies are not immortal. And the closer the friendship, the bond - the greater the pain of loss. There is a transiency to such Support Systems too. Change happens, whether within our control, or not. This thinking was discussed around a single word a good friend shared with me: Finitude. Simple in its meaning, powerful in its concept. 
 
-Life ends. Evetually.
+Its the eventuality of the end. 
 
 It pushes us and our egos to do more in pursuit of glory. Or to make our time meaningful. Perhaps to leave a legacy.
 
 And this can be traced back to the finitude of it all, and the importance that people play in self-satisfying our selves (ego), as much as we are a part of their lives too. We can be lonely at times, but to be lonely with a support system made all the difference - I remain comforted by the presence and solidity of others, even if they may not be there in person. 
 
+
+
 ### The Royal Court of Support
 
-(To be read while picturing a fan-cey medieval court)
+(To be envisaged with fan-cey medieval court)
 
 If we were all the kings and yaaas queens of our own court.
 
 I would seek a gluttonous chef to serve and eat the best goddam food;
-A viceroy to keep us grounded;
+A cold viceroy to keep us grounded;
 A jester to make us all laugh;
 A lover; 
-A bodyguard for security; 
-A matron, for the maternal reminders; 
+A bodyguard for security and protection;
+A matron, to care for the child within us. 
 A wiseman, for distilled, sharp advice;
 A friendly rival, to keep us both on our toes;
+A patient listener; a shoulder to cry on - with a heart full of sympathy;
+A seneschal to tidy up our domestic affairs;
+A free-spirit; for reckless adventure
 
 ... there are plenty more, but this would be a good start.
 
 Who is in your court? 
 
-I also want to contemplate on how could I be a stronger pillar of support for others. To be that comfort zone. Not likely to be the jester. But a trusted advisor. 
+I also want to contemplate on how could I be a stronger pillar of support for others. To be that comfort zone for others. I'm not likely to be the jester. But a trusted advisor. I'd to be thought of that way.
 
 
 

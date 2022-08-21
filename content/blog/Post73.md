@@ -4,12 +4,9 @@ date: 2022-07-12T13:30:00+08:00
 draft: true
 ---
 
-
 As a (temporary) closure to the series of posts on education, I had read up on Kurt Hahn. Who coincindentally, was also a founder of the high school that I went to. 
 
-Up until now, I had no clear view of what a great "educator" meant. Its a little more relatable in other fields. A great Scientist; a great Chef;
-
-
+Up until now, I had no clear view of what a great "educator" meant. Its a little more relatable in other fields. A great Scientist; a great Chef for instance. But what does it mean to be a great educator? The number of students? The impact - both personal and academic? 
 
 Some further questions to ponder over: 
 
@@ -19,8 +16,7 @@ Some further questions to ponder over:
 3. What secular education structure an be used to teach the management of ego? 
 
 
-But ultimately, what sets us apart from robots and animals i 
-
+But ultimately, what sets us apart from robots and animals i
 
 
 Ku

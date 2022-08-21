@@ -7,10 +7,10 @@ And off that last post on Children, I dug up yet another related post in the bac
 
 This serves a partial book review on David Brook's the Road to Character. 
 
-*Afternote, gosh I've read it a time along since actually posting this. *
+*Afternote: gosh its been more than year between reading the book and actually posting this. *
 
 ### On Character
-As remarked in the previous post on education (Link here) I see the need to manage ourselves well (Life-led) as equally important to academics. This is something that cannot be directly "taught" in a school, but I believe it to be critically important as the world becomes ever more complex, uncertain and complicated.
+As remarked in the previous [post on education ](https://www.makwaijun.com/blog/post51/)I see the need to manage ourselves well (Life-led) as equally important to academics. This is something that cannot be directly "taught" in a school, but I believe it to be critically important as the world becomes ever more complex, uncertain and complicated.
 
 As an extension of this line of thinking, I (not recently) read a book about character, which is a nice word to encapsulate all the relevant terms related to this topic: Call it integrity, values, self-mastery, discipline. 
 
