@@ -1,6 +1,6 @@
 ---
 title: "75: The Great Catch Up"
-date: 2022-08-21T20:30:00+08:00
+date: 2022-08-22T22:00:00+08:00
 draft: false
 ---
 
@@ -30,7 +30,6 @@ Other:
 *Conceived sometime last year or so*
 - The Productivity Paradox: I'd like to write a damn economics thesis on this. Too far out for now :(.
 - The Drivers and Thrivers of inequality: Could probably expand my thinking a bit on this from the previous post on inequality. 
-- 
 
 #### Recent
 *Conceived over the last year*

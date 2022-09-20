@@ -1,5 +1,5 @@
 ---
-title: "65: Economic 10: Economic Futurism for Underdeveloped Economies"
+title: "65: Economics 10: A Commentary on Underdeveloped Economies"
 date: 2022-07-11T15:30:00+08:00
 draft: false
 tags: ["economics"]

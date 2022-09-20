@@ -16,10 +16,9 @@ As an extension of this line of thinking, I (not recently) read a book about cha
 
 But in general (and indeed, the premise of the book), every "great" individual goes through journey, often with a non-lethal measure of hardship, shaping them into the mold of renown and "greatness", though flawed in their own ways for sure.
 
-But I am of the similar view that for every individuals rise to greatness - for no one will write about - there are just as many, or perhaps far more that struggle with the very real human tedency to slide into matters of deprivation, self destruction and akrasia. [https://en.wikipedia.org/wiki/Akrasia]  . To be clear, this is not an encouragement nor a worldview where I believe that __everyone__ should aspire to "greatness". [ https://en.wikipedia.org/wiki/Great_man_theory ], but rather an observation on what might have be done right that we mortals could learn from. 
+But I am of the similar view that for every individual's rise to greatness, - there are just as many, or perhaps far more unwritten tales of a struggle with the very real human tedency to slide into matters of deprivation, self destruction and [akrasia](https://en.wikipedia.org/wiki/Akrasia). To be clear, this is not an encouragement nor a worldview where I believe that __everyone__ should aspire to "[greatness](https://en.wikipedia.org/wiki/Great_man_theory)", but rather an observation on what might have be done right that we mortals could learn from. 
 
-
-*Crap my previous coherent draft ends here.*
+*Crap my previous coherent draft ended here.*
 
 So, given that the book very much reflects on the growth of morality and meaning in a purposeful life, I have parked this as an interim post on education, in the context of how people can be enabled to achieve this in a non-lethal manner without too terrible a hardship. 
 
@@ -32,10 +31,10 @@ Some related mental models I had penned down here:
 
 
 #### On Succession:
-In my earlier notes, I had contemplated the mysetery of Succcession of Marcus Aurelius. For great a philosopher king as he - was he not able to groom a successor well? 
+In my earlier notes, I had contemplated the mystery of Succcession of Marcus Aurelius. For a great philosopher king as he - was he not able to groom a successor well? 
 
-It is here that I the real considerations of:
-*  Whether character can be taught - though the answer somewhere here lies in between a tough time and reflection
-*  Trading-off with wanting the best for a loved ones
+Some questions come to mind:
+*  Whether character can be taught - though the answer, i suspect lies in between i) a tough time and ii) reflection
+*  Inherent trade-offs around wanting the best for loved ones (
 *  Trading-off with wanting the said loved one to like us as individuals (we're all softies aren't we)
 *  How much and how close we take after our parents? 

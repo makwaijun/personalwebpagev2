@@ -41,7 +41,7 @@ Its good to be clear on what it is or isn't:
 
 In a similar vein, this form of education would also be present in religious shools, or moral education camps (e.g. reeducation camps during the peak of communist ideology). These breed conformity, but in their own ways.
 
-### Life-Led (Individualism and the Self)
+#### Life-Led (Individualism and the Self)
 
 The second, is what I would...for a lack of a better term, describe as a "life-led" education system. It teachers us to live a good life.
 
@@ -56,15 +56,15 @@ I think these are the types of learning education where, as the world becomes mo
 
 ### Is it right to end tuition?
 
-Though "conformity" may get a bad rap these days - I am completely in agreement with the fundamentals of a "government-led" education system. Indeed, I am a believer that societal stability, harmony and productivity stems from a common education system. Having seen the calibre of teachers, and the general education system in Singapore - it is, in my view a good enough baseline. 
+I find myself in agreement with the fundamentals of a "government-led" education system. Indeed, I am a believer that societal stability, harmony and productivity stems from a common education system. Having seen the calibre of teachers, and the general education system in Singapore - it is, in my view a good enough baseline. 
 
-"All schools are good schools" is the oft-quoted phrase that has been a subject of debate and memes alike.
+But "conformity" gets a bad rap these days - "All schools are good schools" is the oft-quoted phrase that draws ire, debate and memes alike.
 
 It is unfortunate that not ALL people may fit well into the conformist system. The traditional argument being that an art-inclined individual may struggle or find themselves being deemed a failure in a society that places higher value on STEM-oriented inclinations. 
 
-HOWEVER, my philosophy has always been that a system of governance is all about trade-offs. Taking a more utilitarian view, is a necessary trade-off. If human beings were left to their own devices, the structure of our community and societies would be very, very different. A country full of whimsical artists may not be able to earn a living; just as a country full of identured engineers may not be able to have a lived life. Diversity has always been key. 
+HOWEVER, my philosophy has always been that a system of governance is all about trade-offs. Taking a more utilitarian view, this is a trade-off. If human beings were left to their own devices, the structure of our community and societies would be very, very different. A country full of whimsical artists may not be able to earn a living; just as a country full of identured engineers may not be able to have a lived life. Diversity has always been key. 
 
-So we could do better - why are we, as a society, compelling teenagers to undergo FURTHER conformity and standardisation through additional services? Why place additional stressors on conformity that promotes inequality in a standardised field? How can these resources be deployed to promote a better balance of conformity vs non-conformity?
+So we could do better - why are we, as a society, compelling teenagers to undergo FURTHER conformity and standardisation through additional (tuition) services? Why place extra stressors on conformity that promotes inequality in a standardised field? How can these resources be deployed to promote a better balance of conformity vs non-conformity?
 
 So seeing China taking action to level the playing field for what I would call the "conformist" system is a good thing. If anything, tuition should raise the bottom to meet the baseline, not necessarily to raise the top to unenviably have them join the rat race at the tender age of...10.
 
@@ -72,19 +72,21 @@ So seeing China taking action to level the playing field for what I would call t
 
 But its more complicated than that.
 
-To be clear, I do not blame the parents (and certainly not the kids) on why things have turned out the wave they have. It is a race to infinity for parents to spend money and reosurces; and kids to spend their time hustling towards better grades. It is the right of the parent to invest in as much as they want for their child. I take no issue with it.
+To be clear, I do not blame the parents (and certainly not the kids) on why things have turned out the way they have. It is a race to infinity for parents to spend money and reosurces; and kids to spend their time hustling towards better grades. It is the right of the parent to invest in as much as they want for their child. I take no issue with it.
 
 But here are my take on why it the problem remains a problem as it is.
 
-#### Exposure to an internal schooling system
+#### Exposure to an international schooling system
 
 Can we compete with other countries to get into top-tier universities? ( instinctively my answer is yes, but I am curious if there is data to show the proportion of individuals getting into top tier schools with, or without tuition)
 
+As long as Universities market themselves, and that employers respect these, this would be an unshakeable, reinforcing cycle.
+
 #### Exposure to the subseqent international Jobs market
 
-Whether we like it or not, the skills and knowledge equipped must be on par, or above average to continue for a country to thrive in an open, globalised economy. This would allow the majority of individuals to garner the benefits of globalisation, as opposed to being smothered by it. Intuitively, this has a strong link to the education system - but again, there are many factors complicating this too.
+Whether we like it or not, the skills and knowledge equipped must be on par, or above average to [continue for a country to thrive in an open, globalised economy](https://www.makwaijun.com/blog/post52/). This would allow the majority of individuals to garner the benefits of globalisation, as opposed to being smothered by it. More so when a country's only resource are its people. Intuitively, this has a strong link to the education system - but again, there are many factors complicating this too.
 
-### Exposure to domestic inequality
+#### Exposure to domestic inequality
 
 There are reasons why many scoff at the notion that "all schools are good schools". A healthy competition between schools, of course, can breed success, but there remain socio-economic narratives that will continue to haunt the current state of he system. Stakes are high too - there is another narrative that plays of the dynamics of power-inequality: would cutting the budget of an "elite" school be untenable if the decision makers are from an influential caste themselves?
 
@@ -104,4 +106,4 @@ Tracking back to the trigger of this post - it would appear that China is less c
 
 ### Afternote:
 
-I personally went through tuition as a kid struggling with maths in IB (perhaps I'm intrinsically a humanities oriented person - but in the guise of an engineer). There is immense value to 1-1 teaching, a decision that could potentially have changed the trajectory of my life. It is for this reason that I recognise the deep complications in addressing this issue equitably.  Would I send my kid  for tuition to maximise their chance of success? Abso-fricking-lutely. Would I be conflicted in promoting inequality? Probably. Would that stop me? no. And thus the cycle continues.
+I personally went through tuition as a kid struggling with maths in IB (perhaps I'm intrinsically a humanities oriented person - but studied as an engineer, * cough * conformity). There is immense value to 1-1 teaching, a decision that could potentially have changed the trajectory of my life. It is for this reason that I recognise the deep complications in addressing this issue equitably.  Would I send my kid  for tuition to maximise their chance of success? Abso-fricking-lutely. Would I be conflicted in promoting inequality? Probably. Would that stop me? no. And thus the cycle continues.
