@@ -1,7 +1,7 @@
 ---
 title: "XX: The Quarantine Files"
 date: 2022-09-22T22:00:00+08:00
-draft: false
+draft: true
 ---
 
 Solitary Quarantines are a strange thing. More common, but it must surely have been a terribly rare thing in the past. 
