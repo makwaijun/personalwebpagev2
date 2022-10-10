@@ -1,8 +1,9 @@
 ---
 title: "80: A note of Validation - on the Economic Framework"
-date: 2022-11-08T22:00:00+08:00
+date: 2022-08-11T22:00:00+08:00
 draft: false
 ---
+
 Just...a note that I came across this [article](https://www.protocol.com/climate/tech-workers-quitting-climate-jobs) from a Sustainability VC investor. 
 
 It notes the move of talent from conventional big tech companies towards climate tech. 
