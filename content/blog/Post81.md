@@ -1,6 +1,6 @@
 ---
-title: "81: Energy 1 - A most interesting and fascinating topic"
-date: 2022-11-08T23:00:00+08:00
+title: "81: Energy 1 - Personal Perspectives on the energy industry"
+date: 2022-10-03T23:00:00+08:00
 draft: false
 ---
 
