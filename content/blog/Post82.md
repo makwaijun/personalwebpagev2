@@ -1,7 +1,9 @@
 ---
-title: "82: Labour 1 - The Toils of my Time" date: 2022-12-31T22:00:00+08:00
+title: "82: Labour 1 - The Toils of my Time" 
+date: 2022-12-31T22:00:00+08:00
 draft: false
 ---
+
 Why do I work? 
 
 This post came out of a clear mindedness that work is a big part of my life currently. Its also been during these times, that a simmering discourse around the antiwork has emerged, which pits the worker against the system, or whichever symbols or idols that the system represents. 

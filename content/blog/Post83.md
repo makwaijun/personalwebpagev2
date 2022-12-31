@@ -5,8 +5,6 @@ draft: false
 ---
 
 
-
-
 Haiya...Covid
 
 This post documents the impact and personalises my experience.Could be worth the future medical tracking. Surely beneficial. 
