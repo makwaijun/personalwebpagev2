@@ -1,10 +1,10 @@
 ---
-title: "86: Decision-Making 2 - On Control and Balances"
-date: 2022-10-03T23:00:00+08:00
+title: "86: Decision-Making 2 - On Control and Balance"
+date: 2022-12-31T23:00:00+08:00
 draft: false
 ---
 ### Control
-As specks of mere startdust, i've come to readily embrace the idea that we cannot control many things, and recognising this is half the battle. Our decisions and actions, therefore must account for such uncertainities to the 'best available knowledge' on hand.
+As specks of mere stardust, i've come to readily embrace the idea that we cannot control many things, and recognising this is half the battle. Our decisions and actions, therefore must account for such uncertainities to the 'best available knowledge' on hand.
 
 Call it stoicism, part of buddhism, but I carry the concept of 'Picking the right battles to fight' to be critical in maintaining sanity and stability when there can be much chaos outside of our sphere of influence. Things outside of our control and influence (as uncomfortable as they may be) should be accepted and digested quickly, as they can be red herrings and very distracting from action.
 

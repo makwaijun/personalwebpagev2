@@ -1,6 +1,6 @@
 ---
 title: "85: Decision Making 1 - On Truth, Fact and Binarity of Action"
-date: 2022-10-03T23:00:00+08:00
+date: 2022-12-31T22:30:00+08:00
 draft: false
 ---
 
