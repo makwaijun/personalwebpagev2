@@ -1,6 +1,6 @@
 ---
-title: "83: Human Nature 4: On Privilege and its Pathways"
-date: 2022-09-10T23:00:00+08:00
+title: "83: On the time I had Covid"
+date: 2022-12-31T22:10:00+08:00
 draft: false
 ---
 
