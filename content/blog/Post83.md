@@ -1,7 +1,5 @@
 ---
-title: "83: On that time I caught COVID"
-date: 2022-12-31T22:10:00+08:00
-draft: false
+title: "83: On that time I caught COVID" date: 2022-12-31T22:10:00+08:00 draft: false
 ---
 
 Haiya...Covid
