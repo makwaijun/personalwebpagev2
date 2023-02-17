@@ -28,18 +28,21 @@ Not incorrect, mind you, as the glitz and glamour of MNCs in the late 90s to 200
 My decision to leave the government to join the startup world was an unnatural decision to many - some supportive, others sceptical. But the thirst for knowledge and practice has drawn me out of the realms of the intangible (inevitable, in larger companies) to the tangible, where each daily decision has an impact. 
 
 ### Personal Quirks
-But here are some working habit about myself that I must contend with the norms. Ranging from stupid, to just merely different. Some recurring themes are i) Guilt, ii) emotion, iii) Values. Odd things to pack in my work baggage...
+But here are some working habit about myself that I must contend with the norms. Ranging from stupid, to just merely different. Some recurring themes are i) guilt, ii) emotion, and iii) values. Odd things to pack in my work baggage...
 
 #### Guilt
 I feel bad about claiming benefits - its stupid, and I don't get it. Indeed, I tend to skimp over benefits when considering work...
 
+Its easy to reason that work is for its benefits. I don't fundamentally believe its wrong, but it is not my second nature, perhaps even my third or fourth nature, to exercise this contracted right. 
+
 Somewhere within, it feels natural to apply myself fully and wholl dedicated during working hours - I feel odd and uncomfortable when a coffee chat goes too off topic and non-work related. Overtime is also of second nature to me. I don't tend to complain terribly much about it.
+
 
 #### Emotion
 I find myself having a high tendency to get emotionally invested in work. The success of the team, company, individuals are all areas I think deeply and care about.
 
+These traits me a stellar employee, but runs against the grain of conventional wisdom - that work is for the benefits and not something to be too attached to.
 
-All of the above makes me a stellar employee, but runs against the grain of conventional wisdom - that benefits are their to be maximised and deservedly so. I don't fundamentally believe any different, but it is not my second - perhaps in my third or fourth nature to exercise this contracted right. 
 
 #### My values and worldview
 Why? Aside from the practicalities of money and general wellbeing, I've sought to think and be clear on why I do what i do (no doubt, it will come in handy on late nights): 
