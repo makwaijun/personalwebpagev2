@@ -1,6 +1,6 @@
 ---
-title: "89: Decision Making 4: On Maximising and Satisficing"
-date: 2023-02-17T23:00:00+08:00
+title: "88: Decision-making 4: Maximising and Satisficing"
+date: 2023-02-17T22:10:00+08:00
 draft: false
 ---
 With all my ramblings on decision-making and theorising, i suppose what can one actualy do in practice?

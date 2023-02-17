@@ -1,5 +1,5 @@
 ---
-title: "89: Decision-making 3: Trade-Off Mentality"
+title: "88: Decision-making 3: Trade-Off Mentality"
 date: 2023-02-17T22:00:00+08:00
 draft: false
 ---
