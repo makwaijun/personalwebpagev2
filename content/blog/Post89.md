@@ -1,5 +1,5 @@
 ---
-title: "88: Decision-making 4: Maximising and Satisficing"
+title: "89: Decision-making 4: Maximising and Satisficing"
 date: 2023-02-17T22:10:00+08:00
 draft: false
 ---
