@@ -1,6 +1,6 @@
 ---
-title: "94: Management 1 - On Leadership"
-date: 2023-02-17T23:00:00+08:00
+title: "94: Energy 2 - The Three Lenses to Understand the Energy landscape"
+date: 2023-03-01T11:00:00+08:00
 draft: false
 ---
 
