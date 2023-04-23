@@ -1,5 +1,5 @@
 ---
-title: "Philosophy 2: On Intuition and wine"
+title: "Post 97: Philosophy 2: On Intuition and wine"
 date: 2023-04-15T09:30:00+08:00
 draft: false
 ---

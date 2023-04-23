@@ -1,5 +1,5 @@
 ---
-title: "96: Energy 5 - On Engaging with Energy Narratives "
+title: "96: Energy 4 - On Engaging with Energy Narratives "
 date: 2023-04-15T09:00:00+08:00
 draft: false
 ---
