@@ -63,16 +63,4 @@ A third and final comment around this topic is that there are times to be an int
 
 The real world is part rational and part irrational, and the presence of the former should not preclude irrationality as a cause, effect and solution. We're weird things living in a weird word - and I suppose. Some things in life simply aren't meant to be methodically broken down and analyse. I suppose these things are just meant to be done, lived and embraced. 
 
-
-I
-
-
-
-
-
-
-
-
-
-
 ughhh so pretentious. 
