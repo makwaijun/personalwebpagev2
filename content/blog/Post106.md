@@ -3,6 +3,7 @@ title: "106: A Reflexion on art and science of Chief of Staffs"
 date: 2023-27-08T14:30:00+08:00
 draft: false
 ---
+
 It has been quite some time since I've been lingering somewhere between a reflective and inspired mood - the sort of mood where writing makes sense on a sunny sunday afternoon, with a cool beverage perched upon a white table in a white-walled cafe. I could wish for a quieter environment, but the ceiling height windows permit a natural light that suffuses the mind with clean thought. To linger and languish is not pleasant, and I feel tense but lucid in events transpired. 
 
 It's been a while since I adopted a role in Staff work - A pinnacle of generalism I must admit, having [written about this ](https://www.makwaijun.com/blog/post98/)in the past. 
