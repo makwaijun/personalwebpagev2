@@ -1,6 +1,6 @@
 ---
 title: "106: A Reflexion on art and science of Chief of Staffs"
-date: 2023-27-08T14:30:00+08:00
+date: 2023-08-27T14:30:00+08:00
 draft: false
 ---
 
