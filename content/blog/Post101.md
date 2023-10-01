@@ -1,5 +1,5 @@
 ---
-title: "101: Philosophy 2 - On Intellectualism"
+title: "101: Philosophy 3 - On Intellectualism"
 date: 2023-05-14T19:30:00+08:00
 draft: false
 ---

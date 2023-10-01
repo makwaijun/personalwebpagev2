@@ -1,5 +1,5 @@
 ---
-title: "106: A Reflexion on art and science of Chief of Staffs"
+title: "106: On Chief of Staffs, the art and science"
 date: 2023-08-27T14:30:00+08:00
 draft: false
 ---

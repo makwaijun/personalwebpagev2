@@ -1,5 +1,5 @@
 ---
-title: "s Thinking In Cycles"
+title: "Universal Frameworks: Thinking In Cycles"
 date: 2021-03-29T23:00:00+08:00
 draft: false
 ---

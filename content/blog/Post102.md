@@ -1,5 +1,5 @@
 ---
-title: "102: Universae Structurae 3: On Tattooes, and Thinking in cycles and systems"
+title: "102: Universal Frameworks 3: On Tattoos, and Thinking in cycles and systems"
 date: 2023-07-03T19:30:00+08:00
 draft: false
 ---
