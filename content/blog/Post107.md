@@ -4,7 +4,9 @@ date: 2023-10-01T19:30:00+08:00
 draft: false
 ---
 
+
 ### Preamble
+
 I've started to largely take each of these "-isms" continues to be a thematic way to think about matters philosophical. But as I write these "philosophical" posts, I often teeter on the moods of equal part disgust and equal part lascivious joy, for I currently pride myself in the "getting my hands dirty" phase grounded in reality and the world; while at the same time, I simply cannot help myself from digesting my thoughts and dumping these onto an online Canvas.
 
 Lest I forget these thoughts, or more worryingly, misinterpret the mental frameworks and clarity of thought in moments of duress when the thinking is most fogged.
