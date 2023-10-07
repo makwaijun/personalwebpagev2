@@ -1,5 +1,5 @@
 ---
-title: "105: That "oh-AI's-gonna -takeover-the-world post"
+title: "105: That "Oh, AI's-gonna -takeover-the-world post""
 date: 2023-07-09T20:30:00+08:00
 draft: false
 ---
