@@ -52,9 +52,13 @@ But it opens a large can of worms. Does being "hot", and in pursuit of a Sugar D
 #### Facets of work to consider
 
 As part of this series, that tackles the topic on a more philosophical perspective;
-Work for who? The self, the person, the family, the company, the society
 
-Work for what? Material and after needs are met, fulfilment. 
+Who do we work for?
+*The self, the person, the family, the company, the society*
+
+
+What do we work for?
+*Material and after needs are met, fulfilment. *
 
 Further reading: 
 https://plato.stanford.edu/entries/work-labor/
