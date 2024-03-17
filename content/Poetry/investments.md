@@ -1,7 +1,7 @@
 ---
 title: "Investments"
 date: 2020-07-05T13:46:29+08:00
-draft: false
+draft: true
 ---
 
 ### Portfolio

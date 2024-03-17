@@ -20,9 +20,9 @@ relativeURLs = true
 
 
 [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
+    identifier = "poetry"
+    name = "Poetry"
+    url = "/poetry/"
     weight = 130
 	
 	

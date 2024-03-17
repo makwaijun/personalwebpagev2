@@ -3,11 +3,11 @@ title: "102: Universal Frameworks 3: On Tattoos, and Thinking in cycles and syst
 date: 2023-07-03T19:30:00+08:00
 draft: false
 ---
-As I draw closer towards permanance and consistency, in accordance with the rightful or wrongful ossification of my beliefs; 
+As I draw closer towards permanance and consistency, a natural flow towards the rightful or wrongful ossification of my beliefs; 
 
 while at the same time, forseeing the inevitable curiosity and interest of my peers into the markings of the flesh;
 
-How does a man think of inscribing that on their inherited birthright of skin with conviction?
+How does one think with conviction, to inscribe a concept or symbol onto their inherited birthright?
  
 Principally, I feel strongly about two universal frameworks: of Cycles and Systems, though I largely approach this in a scientific and geometric pattern-spotting sorta of way, as opposed to the Buddhist Dharma-esque approach which indeeds captures such thinking too.
 
@@ -43,7 +43,7 @@ Naturally, I suppose my pursuit for discomfort zones has often times created an 
 
 ### The Theory of Systems:
 
-Also, in own rambly definition: 
+Also, in own off-the-cuff definition: 
 
 > Systems, as defined by non-linear complex networks of interrelated entities; best illustrated as a series of interconnected dots and lines
 
@@ -57,7 +57,7 @@ The Theory of systems is a good reminder of:
 
 #### Application:
 
-Again, I've used it to describe the interrelations of various universal frameworks in the past.
+I've used it to describe the interrelations of various universal frameworks in the past.
 
 Its a concept I've also applied to understand people better - what drives them to behave in a certain way? Thereasons could possibly be due to nearer term second or third order reasons; or fourth order theories on their childhood and upbringing. Some applied psychoanalysis if you will.
 

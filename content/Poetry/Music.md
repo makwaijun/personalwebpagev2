@@ -1,7 +1,7 @@
 ---
 title: "Music"
 date: 2020-05-04T22:31:36+08:00
-draft: false
+draft: True
 ---
 
 After being coerced into music lessons for the better part of my childhood years - I was glad to have found something of a musical spark post-highschool. Unfettered from laborious exams and the pretentious contemporary pieces, I was keen on playing music that I wanted to.
