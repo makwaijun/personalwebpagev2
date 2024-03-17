@@ -1,5 +1,6 @@
 ---
-title: "You're.So.Cute" sdate: 2024-03-17T14:00:00+08:00
+title: "You're.So.Cute" 
+date: 2024-03-17T14:00:00+08:00
 draft: false
 ---
 
