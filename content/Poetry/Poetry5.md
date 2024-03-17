@@ -40,22 +40,22 @@ They should believe, they should be compelled to know!
 
 Profound in substance, blind to compassion,
 
-A villain's truth is to fix a world in need of correction, 
+A villain's truth is to fix a world in need of correction.
 
-for the shroud of harmony is no longer fair, 
+For the music of harmony is no longer fair, 
 
 but a curtailment of speed and progress,
-of a utilitarian's care
+for a utilitarian's care.
 
 &nbsp; 
 
 Heroism is but to seek corroboration from the masses,
 
-Written superfluously by unjust kiss-asses.
+written superfluously by unjust kiss-asses.
 
 For whom is the ultimate judge, but oblivion and god,
 
-To smile at the devil, while the angels laud,
+to smile at the devil, while the angels laud.
 
 But care we not, for the majority lack will,
 

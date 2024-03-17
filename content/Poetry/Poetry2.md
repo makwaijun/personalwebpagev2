@@ -10,7 +10,7 @@ Unalarmed by movement, rustles in a jungle of warmth and pillows. Pillows and pe
 
 But I do not stir. 
 
-Home is the white noise as I lay there, body still. Bones fatigued, mind tired. Body disembodied from the soul. I could leave and never return.
+Home is the white noise as I lay there, body still. Bones fatigued, mind tired. A form disembodied from the soul. I could leave and never return.
 
 But I do not fear. 
 
@@ -18,7 +18,7 @@ Home is the silent sizzle and steam from the kitchen. Of material and immaterial
 
 But I do not hunger.
 
-Home is existing there, vulnerable,  without fear of judgment. A heart left unguarded on the hearth. Unpressured to awake from my dreams. To dream widely. To dream openly. 
+Home is the existence of being there, vulnerable,  without fear of judgment. A heart left unguarded on the hearth. Unpressured to awake from my dreams. To dream widely. To dream openly. 
 
 But dream on, I do.
 

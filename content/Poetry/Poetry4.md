@@ -4,6 +4,7 @@ date: 2024-03-17T14:00:00+08:00
 draft: false
 ---
 
+### I Bid Farewell,
 With best wishes; Good lucks; You will be fines. 
 
 The subject of memory, the consequence of time.
@@ -14,9 +15,9 @@ Heartwrought pacts written in lightness of dawn, that fade into dusk and sunk in
 
 &nbsp; 
 
-But today I pledge and today I honor
+But today I pledge and today I honor,
 
-the moments spent, the troubled pains 
+the moments spent, the troubled pains.
 
 These i somberly relish, not knowing the paths b'crossed again. 
 
@@ -26,7 +27,7 @@ Inked as short inscriptions into the annals of the mind.
 
 Old tales whispered from neural crevasses that none will ever find. 
 
-These I scrawl on sepia parchment with a heart's reticent duress. 
+These I scrawl on sepia parchment with a heart under reticent duress. 
 
 Succinct as it should be. Not a second more and not a moment less. 
 
