@@ -4,15 +4,15 @@ date: 2024-03-17T17:00:00+08:00
 draft: false
 ---
 
-We are but inquiring souls, adrift in the great cosmos
+We are, but inquiring souls, adrift in the great cosmos
 
-feeding on a diet of parented Wrongs and societal Rights;
+feeding on a diet of parented Wrongs and society's Rights;
 
-Yet born with a critical mind, a soul yearning for liberation,
+Yet born we are, with critical minds, souls yearning for liberation,
 
 In a world 
 
-where actions and choice are illusions,
+where actions and choice are but illusions,
 
 and in happenstance: Self-righteous delusion. 
 

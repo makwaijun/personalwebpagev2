@@ -44,9 +44,9 @@ What is right and wrong mulls the body and mind,
 
 with afflicted faculties blurred by the whims of whisky and wine.
 
-To tarry to the bar in reprieve with another drink?
+To tarry to the bar in reprieve for another drink?
 
-Or to close the mind and indulge in another's kink?
+Or to surrender to the moment and indulge in another's kink?
 
  &nbsp;
 
