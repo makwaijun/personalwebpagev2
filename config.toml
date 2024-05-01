@@ -32,8 +32,11 @@ relativeURLs = true
     url = "/resume/"
     weight = 140
 
- [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 125
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 150
+
+ # [[menu.main]] identifier = "tags" name = "Tags" url = "/tags/" weight = 125 
