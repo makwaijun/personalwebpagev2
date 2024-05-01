@@ -1,32 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    {{- partial "head.html" . -}}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&display=swap" rel="stylesheet">
     <title>Projects</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/projects.css">
 </head>
 <body>
-    {{- partial "header.html" . -}}
+    <header>
+        {{- partial "header.html" . -}}
+    </header>
 
     <main>
         <section class="projects">
             <h1>Projects</h1>
-            <div class="project-card">
-                <h2>Vinearth</h2>
-                <p>Import of Georgian Wine into Singapore</p>
-                <p>Set up in 2020, during the COVID-19 period.</p>
-                <a href="https://vinearth.com">Visit Vinearth</a>
-            </div>
+            <div class="project-grid">
+                <div class="project-card vinearth">
+                    <h2>Vinearth</h2>
+                    <p>Import of Georgian Wine into Singapore</p>
+                    <p>Set up in 2020, during the COVID-19 period.</p>
+                    <a href="https://vinearth.com">Visit Vinearth</a>
+                </div>
 
-            <div class="project-card">
-                <h2>Heat Stress</h2>
-                <p>Set up a tracker for Heatstress. Driven by interest in Climate Change Adaptation. A precursor to a follow on idea for the future. This represents the second pillar of my interests in Climate Change Adaptation.</p>
-                <a href="https://heatstress.sg">Learn more about heat stress and the status in Singapore here</a>
-            </div>
+                <div class="project-card">
+                    <h2>Heat Stress</h2>
+                    <p>Setting up a tracker for Heatstress. A precursor to a follow on idea for the future. This represents the second pillar of my interests in Climate Change Adaptation.</p>
+                    <a href="https://heatstress.sg">Learn more about heat stress and the status in Singapore here</a>
+                </div>
 
-            <div class="project-card">
-                <h2>Semp-Re</h2>
-                <p>Placeholder for a long term idea on Circular Economy consideration. This represents the first pillar of my interest in Climate Change mitigation, through consumption reduction.</p>
+                <div class="project-card">
+                    <h2>Semp-Re</h2>
+                    <p>Placeholder for a long term idea on Circular Economy consideration. This represents the first pillar of my interest in Climate Change mitigation, through consumption reduction.</p>
+                </div>
+
+                <div class="project-card">
+                    <h2>Placeholder Project</h2>
+                    <p>This is a placeholder project card for future projects or ideas.</p>
+                </div>
             </div>
         </section>
 
@@ -38,11 +49,13 @@
         </section>
     </main>
 
-    {{- partial "footer.html" . -}}
+    <footer>
+        {{- partial "footer.html" . -}}
+    </footer>
 
     <!-- Scripts -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="venn.js"></script>
-    <script src="main.js"></script>
+    <script src="js/venn.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>
