@@ -1,6 +1,6 @@
 ---
 title: "120: On Resilience: Institutions of Libraries and Companies"
-date: 2023-05-01T11:30:00+08:00
+date: 2024-05-01T11:30:00+08:00
 draft: false
 ---
 
