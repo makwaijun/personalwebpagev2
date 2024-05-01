@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-UK"
-title = "WJ's Website
+title = "WJ's Website"
 theme = "WJMinimo"
 relativeURLs = true
 
@@ -24,7 +24,6 @@ relativeURLs = true
     name = "Poetry"
     url = "/poetry/"
     weight = 130
-	
 	
 
 [[menu.main]]
