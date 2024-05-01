@@ -1,21 +1,47 @@
 <html>
 <head>
       {{- partial "head.html" . -}}
+      <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&display=swap" rel="stylesheet">
+      
+      <link rel="stylesheet" href="styles.css">
+      <link rel="stylesheet" href="{{ "index.css" | relURL }}">
 </head>
  
  <body>
 {{- partial "header.html" . -}}
 
-<div class="container text-center">
-  <div class="indextitle">
+<div class="container">
+    <div class="indextitle">
+        <h1>Introspectytes</h1>
+        <h4>Introspection in bytes</h4>
+    </div>
 
-  <h4>Introspections in Bytes</h4>
-  </div>
-  <div class="indexdesc">
-  <h4> <a href="about">Profile</a> | <a href="blog">Thought Journal</a> |  <a href="poetry">Poetry</a>| <a href="projects">Projects</a> </h4> 
-  </div>
+    <div class="indexsections">
+        <div class="indexsection">
+            <h2>Profile</h2>
+            <p>About Me</p>
+            <a href="about">Read More</a>
+        </div>
 
-</div> 
+        <div class="indexsection">
+            <h2>Thought Journal</h2>
+            <p>Personal thoughts and reflections.</p>
+            <a href="blog">Read More</a>
+        </div>
+
+        <div class="indexsection">
+            <h2>Poetry</h2>
+            <p>Creative Outlet.</p>
+            <a href="poetry">Read More</a>
+        </div>
+
+        <div class="indexsection">
+            <h2>Projects</h2>
+            <p>Ongoing Activites.</p>
+            <a href="projects">Read More</a>
+        </div>
+    </div>
+</div>
 <footer class="container-fluid text-center">
  {{- partial "footer.html" . -}}
 </footer>
