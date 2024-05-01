@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<header>
+        {{- partial "header.html" . -}}
+    </header>
+
+<body>
+    <header>
+        <h1>Projects</h1>
+        <!-- Add navigation or other header content here if needed -->
+    </header>
+
+    <section class="projects">
+        <div class="project-card">
+            <h2>Vinearth</h2>
+            <p>Import of Georgian Wine into Singapore</p>
+            <h3> The story </h3>
+            <p> Set up in 2020, during the COVID-19 period.  </p>
+            <a href="https://vinearth.com">Visit Vinearth</a>
+        </div>
+
+        <div class="project-card">
+            <h2>Heat Stress</h2>
+            <p>Set up a tracker for Heatstress. Driven by interest in Climate Change Adaptation. A precursor to a follow on idea for the future. This represents the second pillar of my interests in Climate Change Adaptation </p>
+            <a href="https://heatstress.sg">Learn more about heat stress and the status in Singapore here</a>
+        </div>
+
+        <div class="project-card">
+            <h2>Semp-Re</h2>
+            <p>Placeholder for a long term idea on Circular Economy consideration. This represents the first pillar of my interest in  Climate Change mitigation, through consumption reduction. </p>
+          
+        </div>
+
+
+    
+    </section>
+
+
+<section class="Skills">
+<div class="container text-center">
+        <h1>Work in progress segment on skills </h1>
+        <p>An alternate take on a domain experience and skills. The idea is to use Venn diagrams or nodes and connections to highlight interdependencies between experiences. currently trialling using D3 Visualisation tools, having trouble implementing it</p>
+    </div>
+
+
+    <!-- D3 Venn Diagram -->
+    <div id="container">
+        <h4>Skill Map</h4>
+        <p>Source library: <a href="http://www.benfrederickson.com/better-venn-diagrams/">Ben Frederickson</a></p>
+        <p>WIP: Hover for details</p>
+        <div id="venn_one"></div>
+        <script src="/js/venn.js"></script>
+        <script src="/js/CV_Venn.js"></script>
+        <style>
+            /* Tooltip styles go here */
+        </style>
+    </div>
+
+ </section>
+
+
+    <footer class="container-fluid text-center">
+        {{- partial "footer.html" . -}}
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="other-scripts.js"></script>
+
+
+
+
+
+
+    <footer>
+        <!-- Add footer content here if needed -->
+    </footer>
+</body>
+</html>
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <link rel="stylesheet" href="styles.css">
+    {{- partial "head.html" . -}}
+</head>
+<body>
+    
+
+    
+</body>
+</html>
+
+
+
+
+
+<!-- Underlying theory:
+<p> There are four big pillars of domains (top 25% of world). This could be things you have the most experience in/ way to best add value to the world. This creates a unique mix of capabilities to add value to the world. Roughly - it fulfils (i) Differentiated enough to be considered good enough professionally (Ii) The world will pay me for it</p>
+<p>Beneath these, there are X supporting blocks (above average, top 50%). These could be hobbies/ passion projects. ROughly- (i) I am above average with a good amount of certainty, (ii) Can hold intelligent and engaging conversations on this at my discretion, (iii) not easily paid for it, whether due to the nature of the work, or lack of formal capability.  </p>
+<p>Finally, there are certain areas that i Need to improve myself in, to be above average. Roughly (i) weaknesses i am aware of, (ii) useful, complementary and desirable things</p>
+
+--> 
+
+
+
+
+<!-- D3 Venn Diagram-->
+<!-- <script src="/js/venn.js"></script>
+
+ 
+<div id="container">
+<h4> Skill Map</h4>
+<p>Source library: <a href="http://www.benfrederickson.com/better-venn-diagrams/">Ben Federickson</a></p>
+<p>WIP: Hover for details</p>
+
+<div id="venn_one"></div>  -->
+<!-- https://bl.ocks.org/bessiec/986e971203b4b8ddc56d3d165599f9d0 -->
+<!-- https://buhrmann.github.io/ -->
+<!-- https://github.com/benfred/venn.js-->
+ 
+<!-- <script  src="/js/CV_Venn.js"></script> 
+
+<style>
+  .venntooltip {
+  font-size : 10px;
+  position: absolute;
+  text-align: center;
+  width: 128px;
+  height: 85px;
+  background: #333;
+  color: #fff;
+  padding: 2px;  
+  border: 0px;
+  border-radius: 8px;
+  opacity: 0;
+}
+</style>
+</div>
+</body> 
+
+--> 
+
+
+
+<!-- Footer -->
+<footer class="container-fluid text-center">
+  {{- partial "footer.html" . -}}
+ </footer>
+ </body>
+ </html>
+ 
