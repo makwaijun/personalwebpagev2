@@ -1,7 +1,7 @@
 baseURL = 'https://makwaijun.com/'
 languageCode = 'en-us'
 title = 'Introspections in Bytes'
-theme = 'WJHugo'
+theme = 'WJMinimo'
 
 [menu]
   [[menu.main]]
