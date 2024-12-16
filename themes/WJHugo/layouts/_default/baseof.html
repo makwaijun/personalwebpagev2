@@ -13,17 +13,14 @@
 </head>
 <body>
 <p class="p1"><span class="s1">&lt;!DOCTYPE html&gt;</span></p>
-<p class="p1"><span class="s1">&lt;html lang="{{ .Site.Language.Lang }}"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;head&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{- partial "head.html" . -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/head&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;body&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{- partial "header.html" . -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;main&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{- block "main" . }}{{- end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/main&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{- partial "footer.html" . -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/body&gt;</span></p>
+<p class="p1"><span class="s1">&lt;html&gt;</span></p>
+<p class="p1"><span class="s1">&lt;head&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;title&gt;{{ .Site.Title }}&lt;/title&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/head&gt;</span></p>
+<p class="p1"><span class="s1">&lt;body&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ block "main" . }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
+<p class="p1"><span class="s1">&lt;/body&gt;</span></p>
 <p class="p1"><span class="s1">&lt;/html&gt;</span></p>
 </body>
 </html>
