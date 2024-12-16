@@ -1,27 +1,65 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.7">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{{ define "main" }}</span></p>
-<p class="p1"><span class="s1">&lt;div class="container"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;article class="content"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;h1&gt;{{ .Title }}&lt;/h1&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ if .Date }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;time&gt;{{ .Date.Format "January 2, 2006" }}&lt;/time&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ .Content }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/article&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1">{{ end }}</span></p>
-</body>
-</html>
+{{ define "main" }}
+<div class="container">
+  <h1 class="mt-5">{{ .Title | markdownify}}</h1>
+
+  {{ if .Params.Subtitle }}
+    <h2 class="font-weight-light font-italic mb-3">{{ .Params.Subtitle | markdownify }}</h2>
+  {{ end }}
+
+  <p class="text-muted mt-3">
+    <a class="text-muted" href="{{ .Permalink }}">Published {{ .Date.Format "January 2, 2006"  }} |</a>
+
+    {{ range .Params.tags }}
+      <a class="text-muted" href="{{ "/tags/" | relURL }}{{ . | urlize }}">#{{ . }}</a>
+    {{ end }}
+  </p>
+
+  <article class="article mt-5">
+    {{ .Content }}
+  </article>
+</div>
+
+{{ if or .Next .Prev }}
+
+  <div class="Nextread bg-light py-5">
+    <div class="container">
+      <h4 class="text-center">Read next</h4>
+      <div class="row">
+        <div class="col-md-6 text-center">
+          {{ if .Prev }}
+            Previous Post:
+            <a href="{{ .Prev.URL | relURL}}">{{ .Prev.Title | markdownify }}</a>
+          {{ end }}
+        </div>
+        <div class="col-md-6 text-center">
+          {{ if .Next }}
+            Next Post:
+            <a href="{{ .Next.URL | relURL }}">{{ .Next.Title | markdownify }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  
+{{ end }}
+<hr>
+<!--{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ with $related }}
+<div class="container mt-5">
+  <h2 class="text-center">See also</h2>
+  <div class="row">
+  	{{ range . }}
+      <div class="col-md mb-3">
+        <p class="lead mb-0"><a class="text-body" href="{{ .RelPermalink }}">{{ .Title | markdownify}}</a></p>
+
+        {{ if .Params.Subtitle }}
+          <p class="lead font-italic mb-0">{{ .Params.Subtitle | markdownify }}</p>
+        {{ end }}
+        <p class="font-weight-light mt-3">{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}" class="btn btn-primary">Read more</a>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}-->
+
+{{ end }}
