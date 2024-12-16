@@ -1,0 +1,6 @@
+name = "WJHugo"
+license = "MIT"
+licenselink = "https://github.com/yourusername/WJHugo/blob/master/LICENSE"
+description = "Custom Theme"
+homepage = "https://github.com/yourusername/WJHugo"
+min_version = "0.80.0"

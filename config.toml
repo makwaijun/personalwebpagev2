@@ -1,42 +1,26 @@
-baseURL = "/"
-languageCode = "en-UK"
-title = "WJ's Website"
-theme = "WJMinimo"
-relativeURLs = true
+baseURL = 'https://makwaijun.com/'
+languageCode = 'en-us'
+title = 'Introspections in Bytes'
+theme = 'WJHugo'
 
 [menu]
-
   [[menu.main]]
-    identifier = "about"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 100
-
-   [[menu.main]]
-    identifier = "blog"
+    weight = 2
+  [[menu.main]]
     name = "Blog"
     url = "/blog/"
-    weight = 120
-
-
-[[menu.main]]
-    identifier = "poetry"
+    weight = 3
+  [[menu.main]]
     name = "Poetry"
     url = "/poetry/"
-    weight = 130
-	
-
-[[menu.main]]
-    identifier = "resume"
-    name = "Resume"
-    url = "/resume/"
-    weight = 140
-
-
-[[menu.main]]
-    identifier = "projects"
+    weight = 4
+  [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 150
-
- # [[menu.main]] identifier = "tags" name = "Tags" url = "/tags/" weight = 125 
+    weight = 5

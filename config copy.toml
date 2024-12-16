@@ -1,0 +1,42 @@
+baseURL = "/"
+languageCode = "en-UK"
+title = "WJ's Website"
+theme = "WJMinimo"
+relativeURLs = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 100
+
+   [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 120
+
+
+[[menu.main]]
+    identifier = "poetry"
+    name = "Poetry"
+    url = "/poetry/"
+    weight = 130
+	
+
+[[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 140
+
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 150
+
+ # [[menu.main]] identifier = "tags" name = "Tags" url = "/tags/" weight = 125 
