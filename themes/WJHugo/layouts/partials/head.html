@@ -7,33 +7,31 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2487.7">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #191c1f; -webkit-text-stroke: #191c1f}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #191c1f; -webkit-text-stroke: #191c1f; min-height: 15.0px}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #131518; -webkit-text-stroke: #131518}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #131518; -webkit-text-stroke: #131518; min-height: 14.0px}
     span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">{{ partial "meta" . }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{ $opts := dict "targetPath" "style.css" "enableSourceMap" true }}</span></p>
-<p class="p1"><span class="s1">{{ $style := resources.Get "sass/main.scss" | toCSS $opts | minify | fingerprint }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{ if not .Site.IsServer }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ template "_internal/google_analytics_async.html" . }}</span></p>
-<p class="p1"><span class="s1">{{ end }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{ with .OutputFormats.Get "RSS" }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ printf `&lt;link rel="%s" type="%s" href="%s" title="%s" /&gt;` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}</span></p>
-<p class="p1"><span class="s1">{{ end }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{ if .Params.math }}{{ partial "math.html" . }}{{ end }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{ if .Params.canonical }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;link rel="canonical" href="{{ .Params.canonical }}"&gt;</span></p>
-<p class="p1"><span class="s1">{{ end }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{ range .AlternativeOutputFormats -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ printf `&lt;link rel="%s" type="%s" href="%s" title="%s" /&gt;` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}</span></p>
-<p class="p1"><span class="s1">{{ end -}}</span></p>
+<p class="p1"><span class="s1">&lt;head&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;meta charset="utf-8"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{/* Title Management */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;title&gt;{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}&lt;/title&gt;</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{/* Meta Tags */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ with .Site.Params.author }}&lt;meta name="author" content="{{ . }}"&gt;{{ end }}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{/* Styles */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;link rel="stylesheet" href="{{ "css/style.css" | relURL }}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"&gt;</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{/* RSS and Alternates */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ range .AlternativeOutputFormats -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ printf `&lt;link rel="%s" type="%s" href="%s" title="%s" /&gt;` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end -}}</span></p>
+<p class="p1"><span class="s1">&lt;/head&gt;</span></p>
 </body>
 </html>
