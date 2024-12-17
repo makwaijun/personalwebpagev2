@@ -1,0 +1,52 @@
+
+  /*index*/
+  @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,200);
+
+
+#mainNav.is-fixed {
+  /* when the user scrolls down, we hide the header right above the viewport */
+  position: fixed;
+;
+}
+#mainNav.is-visible {
+  /* if the user changes the scrolling direction, we show the header */
+  transform: translate3d(0, 100%, 0);
+}
+
+/*about page*/
+.myimg{
+  border-radius: 10%;
+  padding: 20px;
+}
+
+.aboutme{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Raleway;
+    color: black;   
+    text-align: center;
+
+}
+
+.whitetext {
+  background-color: black;
+  color: white;
+}
+
+.graytext {
+ 
+  color: gray;
+}
+
+/*footer*/
+.social {
+  padding: 0;
+  list-style: none;
+}
+
+.social > li {
+  display: inline-block;
+  padding-right: 1em; 
+  color: darkslategray;
+}
+

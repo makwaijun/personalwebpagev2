@@ -1,19 +1,44 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.7">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-  </style>
+      {{- partial "head.html" . -}}
+      <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="css/index.css">
 </head>
-<body>
-<p class="p1"><span class="s1">{{ define "main" }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;h1&gt;TEST HOMEPAGE&lt;/h1&gt;</span></p>
-<p class="p1"><span class="s1">{{ end }}</span></p>
-</body>
+ 
+ <body>
+{{- partial "header.html" . -}}
+
+<div class="container">
+    <div class="indextitle">
+        <h1>Introspections in Bytes</h1>
+        <h2>Wai Jun's Website</h2>
+    </div>
+
+    <div class="indexsections">
+        <div class="indexsection">
+            <a href="about">Profile</a>
+            <p>About me</p>
+        </div>
+
+        <div class="indexsection">
+            <a href="blog">Thought Journal</a>
+            <p>Personal thoughts and reflections</p>
+        </div>
+
+        <div class="indexsection">
+            <a href="poetry">Poetry</a>
+            <p>Creative outlet</p>
+        </div>
+
+        <div class="indexsection">
+            <a href="projects">Projects</a>
+            <p>Ongoing Activities</p>
+        </div>
+    </div>
+</div>
+<footer class="container-fluid text-center">
+ {{- partial "footer.html" . -}}
+</footer>
 </html>
+
+

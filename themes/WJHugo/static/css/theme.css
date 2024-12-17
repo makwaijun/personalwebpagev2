@@ -1,0 +1,56 @@
+
+  /*index*/
+  @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,200);
+
+/* Colour schema
+#cfb093
+#013567
+#1b6bb8
+#e1e3e5
+#fdfdfd
+*/
+.indexdesc {
+  text-decoration: none;  
+  font-family: Raleway;
+    color: #013567;
+    text-align: center;
+    margin-bottom: 50px;
+   
+      }
+
+.indextitle { 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Raleway;
+    color: #013567;   
+    text-align: center;
+}
+
+#mainNav.is-fixed {
+  /* when the user scrolls down, we hide the header right above the viewport */
+  position: fixed;
+;
+}
+#mainNav.is-visible {
+  /* if the user changes the scrolling direction, we show the header */
+  transform: translate3d(0, 100%, 0);
+}
+
+/*about page*/
+.myimg{
+  border-radius: 60%;
+  padding: 20px;
+}
+
+/*footer*/
+.social {
+  padding: 0;
+  list-style: none;
+}
+
+.social > li {
+  display: inline-block;
+  padding-right: 1em; 
+  color: #013567;
+}
+
