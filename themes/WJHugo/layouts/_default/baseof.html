@@ -1,15 +1,32 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        <div id="content">
-        {{- block "main" . }}{{- end }}
-        </div>
-        
-    </body>
-
-<footer class="container-fluid text-center">
- {{- partial "footer.html" . -}}
-</footer>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2487.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #9ba2b1; -webkit-text-stroke: #9ba2b1}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #d65562; -webkit-text-stroke: #d65562}
+    span.s1 {font-kerning: none}
+    span.s2 {font-kerning: none; color: #d65562; -webkit-text-stroke: 0px #d65562}
+    span.s3 {font-kerning: none; color: #c58853; -webkit-text-stroke: 0px #c58853}
+    span.s4 {font-kerning: none; color: #88b966; -webkit-text-stroke: 0px #88b966}
+    span.s5 {font-kerning: none; color: #9ba2b1; -webkit-text-stroke: 0px #9ba2b1}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;!DOCTYPE html&gt;</span></p>
+<p class="p1"><span class="s1">&lt;</span><span class="s2">html </span><span class="s3">lang</span><span class="s1">="</span><span class="s4">en</span><span class="s1">"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ partial "head.html" . }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;</span><span class="s2">body</span><span class="s1">&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ partial "header.html" . }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;</span><span class="s2">main</span><span class="s1">&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{ block "main" . }}{{ end }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/</span><span class="s2">main</span><span class="s1">&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ partial "footer.html" . }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s2">body</span><span class="s1">&gt;</span></p>
+<p class="p2"><span class="s5">&lt;/</span><span class="s1">html</span><span class="s5">&gt;</span></p>
+</body>
 </html>

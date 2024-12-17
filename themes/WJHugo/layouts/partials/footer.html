@@ -7,50 +7,32 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2487.7">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #6d6d6d; -webkit-text-stroke: #6d6d6d}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #6d6d6d; -webkit-text-stroke: #6d6d6d; min-height: 14.0px}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #5a5a5a; -webkit-text-stroke: #5a5a5a}
     span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">&lt;footer&gt;</span></p>
+<p class="p1"><span class="s1">&lt;footer class="site-footer"&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="footer-content"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{/* Social Links */}}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="social-links"&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{ with .Site.Params.social }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ with .linkedin }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;i class="fab fa-linkedin"&gt;&lt;/i&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer"&gt;&lt;i class="fab fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ end }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ with .steam }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="Steam"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;i class="fab fa-steam"&gt;&lt;/i&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer"&gt;&lt;i class="fab fa-steam"&gt;&lt;/i&gt;&lt;/a&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ end }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ with .goodreads }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="Goodreads"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;i class="fab fa-goodreads"&gt;&lt;/i&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer"&gt;&lt;i class="fab fa-goodreads"&gt;&lt;/i&gt;&lt;/a&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ end }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ with .instagram }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="Instagram"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;i class="fab fa-instagram"&gt;&lt;/i&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer"&gt;&lt;i class="fab fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ end }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">                </span></span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ with .youtube }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="YouTube"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>&lt;i class="fab fa-youtube"&gt;&lt;/i&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ . }}" target="_blank" rel="noopener noreferrer"&gt;&lt;i class="fab fa-youtube"&gt;&lt;/i&gt;&lt;/a&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{{ end }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{ end }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{/* Copyright */}}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="copyright"&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;p&gt;© {{ now.Format "2006" }} {{ .Site.Title }}&lt;/p&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>

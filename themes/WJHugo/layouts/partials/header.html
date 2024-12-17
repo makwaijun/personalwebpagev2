@@ -7,33 +7,33 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2487.7">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; font: 12.0px Times; color: #0000e9}
-    p.p2 {margin: 0.0px 0.0px 0.0px 36.0px; text-indent: -36.0px; font: 12.0px Times; color: #0000e9; min-height: 14.0px}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #88b966; -webkit-text-stroke: #88b966}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #9ba2b1; -webkit-text-stroke: #9ba2b1}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #c58853; -webkit-text-stroke: #c58853}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #d65562; -webkit-text-stroke: #d65562}
+    span.s1 {font-kerning: none; color: #9ba2b1; -webkit-text-stroke: 0px #9ba2b1}
+    span.s2 {font-kerning: none; color: #d65562; -webkit-text-stroke: 0px #d65562}
+    span.s3 {font-kerning: none; color: #c58853; -webkit-text-stroke: 0px #c58853}
+    span.s4 {font-kerning: none}
+    span.s5 {font-kerning: none; color: #88b966; -webkit-text-stroke: 0px #88b966}
   </style>
 </head>
 <body>
-<p class="p1">{{ $currentPage := . }}</p>
-<p class="p1">&lt;header&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;div class="header-content"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>{{/* Site Title Section */}}</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;a href="{{ "/" | relURL }}" class="site-title"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>&lt;h1&gt;{{ .Site.Title }}&lt;/h1&gt;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>{{ with .Site.Params.subtitle }}</p>
-<p class="p1"><span class="Apple-converted-space">                </span>&lt;p&gt;{{ . }}&lt;/p&gt;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>{{ end }}</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;/a&gt;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>{{/* Navigation */}}</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;nav&gt;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>{{ range .Site.Menus.main }}</p>
-<p class="p1"><span class="Apple-converted-space">                </span>{{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}</p>
-<p class="p1"><span class="Apple-converted-space">                </span>{{ $active = or $active (eq $currentPage.RelPermalink .URL) }}</p>
-<p class="p1"><span class="Apple-converted-space">                </span>&lt;a href="{{ .URL }}" {{ if $active }}class="active"{{ end }}&gt;</p>
-<p class="p1"><span class="Apple-converted-space">                    </span>{{ .Name }}</p>
-<p class="p1"><span class="Apple-converted-space">                </span>&lt;/a&gt;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>{{ end }}</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;/nav&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</p>
-<p class="p1">&lt;/header&gt;</p>
+<p class="p1"><span class="s1">&lt;</span><span class="s2">nav </span><span class="s3">class</span><span class="s1">="</span><span class="s4">site-nav</span><span class="s1">"&gt;</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">    </span>&lt;a href="{{ "/" | relURL }}"&gt;Home&lt;/</span><span class="s2">a</span><span class="s4">&gt;</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">    </span>{{ $currentPage := . }}</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">    </span>{{ range .Site.Menus.main }}</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">        </span>{{ if not (eq .Identifier "tags") }}</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>&lt;</span><span class="s2">a </span><span class="s4">href</span><span class="s1">="</span><span class="s5">{{ .URL }}</span><span class="s1">"</span><span class="s2"> </span><span class="s4">{{</span><span class="s2"> </span><span class="s4">if</span><span class="s2"> </span><span class="s4">$currentPage.IsMenuCurrent</span><span class="s2"> </span><span class="s4">"main"</span><span class="s2"> </span><span class="s4">.</span><span class="s2"> </span><span class="s4">}}class</span><span class="s1">="</span><span class="s5">active</span><span class="s1">"</span><span class="s4">{{</span><span class="s2"> </span><span class="s4">end</span><span class="s2"> </span><span class="s4">}}</span><span class="s1">&gt;{{ .Name }}&lt;/</span><span class="s2">a</span><span class="s1">&gt;</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">        </span>{{ else }}</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">            </span>&lt;</span><span class="s2">a </span><span class="s3">href</span><span class="s4">="</span><span class="s5">{{ .URL }}</span><span class="s4">"&gt;{{ .Name }}&lt;/</span><span class="s2">a</span><span class="s4">&gt;</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">            </span>{{ range $name, $taxonomy := $currentPage.Site.Taxonomies.tags }}</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">                </span>{{ with $.Site.GetPage (printf "/tags/%s" $name) }}</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">                    </span>&lt;</span><span class="s2">a </span><span class="s3">href</span><span class="s4">="</span><span class="s5">{{ .Permalink }}</span><span class="s4">"</span><span class="s2"> </span><span class="s3">class</span><span class="s4">="</span><span class="s5">tag-link</span><span class="s4">"&gt;{{ $name }}&lt;/</span><span class="s2">a</span><span class="s4">&gt;</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">                </span>{{ end }}</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">            </span>{{ end }}</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">        </span>{{ end }}</span></p>
+<p class="p2"><span class="s4"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
+<p class="p4"><span class="s1">&lt;/</span><span class="s4">nav</span><span class="s1">&gt;</span></p>
 </body>
 </html>
