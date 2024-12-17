@@ -2,6 +2,7 @@ baseURL = 'https://makwaijun.com/'
 languageCode = 'en-us'
 title = 'Introspections in Bytes'
 theme = 'WJHugo'
+copyright = "© 2020-2024, Wai Jun Mak"
 
 [menu]
   [[menu.main]]
@@ -24,3 +25,11 @@ theme = 'WJHugo'
     name = "Projects"
     url = "/projects/"
     weight = 5
+
+
+[Social]
+linkedin = "your-linkedin-url"
+steam = "your-steam-url"
+goodreads = "your-goodreads-url"
+instagram = "your-instagram-url"
+youtube = "your-youtube-url"
