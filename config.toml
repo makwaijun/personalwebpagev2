@@ -1,7 +1,7 @@
 baseURL = 'https://makwaijun.com/'
 languageCode = 'en-us'
 title = 'Introspections in Bytes'
-theme = 'WJHugo'
+theme = 'WJMinimo'
 copyright = "© 2020-2024, Wai Jun Mak"
 
 [menu]
