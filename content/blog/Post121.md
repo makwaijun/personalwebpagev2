@@ -1,5 +1,5 @@
 ---
-title: "121: On Command: Thoughts on being a Capt"
+title: "121: On Command: Reflection on leading as a Captain"
 date: 2024-11-10T18:30:00+08:00
 draft: false
 ---
