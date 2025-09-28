@@ -5,39 +5,33 @@ draft: false
 ---
 
 ### I Bid Farewell,
-With best wishes; Good lucks; You will be fines. 
+With "best wishes"; "Good lucks"; "You will be fines".  
+The subject of memory, the consequence of time.  
 
-The subject of memory, the consequence of time.
+To have grown up with the world, heartstrings tugged afar.  
+Heartwrought pacts written in greetings of morn,  
+that fade into dusk and sunk into muddy tar.  
 
-To have grown up with the world, heartstrings tugged afar. 
 
-Heartwrought pacts written in lightness of dawn, that fade into dusk and sunk into muddy tar.
+But today I pledge and today I honor,  
+the moments spent, the troubled pains.  
+These I somberly relish,  
+not knowing the paths b'crossed again.  
 
-&nbsp; 
+Inked as short inscriptions  
+into the annals of the mind.  
+Old tales whispered from neural crevasses  
+that none will ever find.  
 
-But today I pledge and today I honor,
+These I scrawl on sepia parchment  
+with a heart under reticent duress.  
+Succinct as it should be.  
+Not a second more and not a moment less.  
 
-the moments spent, the troubled pains.
+Til we meet again at that wedding or funeral.  
+'Tis hard to wish for the next  
+serendipitous travel.  
 
-These i somberly relish, not knowing the paths b'crossed again. 
-
-&nbsp; 
-
-Inked as short inscriptions into the annals of the mind.
-
-Old tales whispered from neural crevasses that none will ever find. 
-
-These I scrawl on sepia parchment with a heart under reticent duress. 
-
-Succinct as it should be. Not a second more and not a moment less. 
-
-&nbsp; 
-
-Til we meet again at that wedding or the funeral. 
-
-Tis hard to wish for the next
-
-serendipitous travel.
 
 ---
 

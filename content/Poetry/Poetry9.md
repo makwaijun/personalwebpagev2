@@ -1,58 +1,51 @@
 ---
 title: "The Chicken in the Gutter"
 date: 2024-11-10T18:10:00+08:00
-draft: false
+draft: true
 ---
 
-I jogged along a well built path - music accompanying my ears.
+I jogged along a well built path   
+(music accompanying my ears).  
+A path paved in a park   
+(natured and forested);  
 
-A path paved in a park - natured and forested;
+But I noticed a loud cluck,  
+(from the right)  
+and jogged past a  
+rooster, a hen, a hen,  
+(with chicks beside).  
 
-But i noticed a loud cluck, from the right
+My brain wandered to consider:  
+(as it does)
 
-and jogged past a
+---
 
-rooster, a hen, a hen, with chicks beside.
+What if the chicken fell into the gutter: 
 
-&nbsp;
+Is it prisoner trapped,
+of its own mistakes,  
+Or perhaps chickens help each other out.  
 
-My brain wandered to consider
+---
 
-What if the Chicken fell into the gutter?
+What if the rain came:  
 
-Can it can fly out by itself? 
+Like tides high and low,  
+yellow leaves become a muddy flow,  
+to drown or survive as poultry.  
 
-A prisoner of its own mistakes, perhaps 
-chickens help each other out
+Unrealising the immidnent doom,  
+like the slow dread  
+of being locked out of a room.  
 
-&nbsp;
+---
 
+Perhaps we too,  
+can only look out at the gutter  
+and pray it doesn't rain.  
 
-What if the rain came:
+As my legs jog step by step,  
+the chicken takes a short flight.  
 
-Like tides high and low
-
-Yellow leaves become a muddy flow
-
-To drown or survive as poultry
-
-
-Unrealising a timely doom
-
-The slow dread
-
-Of being locked out of a room
-
-&nbsp;
-
-Perhaps we too,
-
-Can only look out at the gutter
-
-And pray it doesn't rain 
-
-As my legs jog step by step,
-
-the chicken takes a short flight.
 
 *Mood: Out for a jog in west coast park, on a weekend afternoon*
