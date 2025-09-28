@@ -5,9 +5,11 @@ draft: false
 ---
 
 Breathe
-</br> for Oxygen's sweet carress
-</br> through a hollow sinus
-</br> its hallowed chambers sacrosanct;
+
+for Oxygen's sweet carress
+through a hollow sinus
+
+its hallowed chambers sacrosanct;
 </br> that no medicine, no pills, can absolve
 </br> To instead pray, i pray
 
