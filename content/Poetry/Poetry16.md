@@ -1,5 +1,5 @@
 ---
-title: "16. The non-Artiste's Art"
+title: "16 The non-Artiste's Art"
 date: 2025-09-28T12:00:00+08:00
 draft: false
 ---

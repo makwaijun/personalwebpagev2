@@ -1,5 +1,5 @@
 ---
-title: "18. Call"
+title: "18 Call"
 date: 2025-09-28T13:00:00+08:00
 draft: false
 ---
@@ -12,7 +12,7 @@ In a bonfire of passion
 You don't call the Devil  
 to negotiate your plight  
 but stand firm on life's lessons  
-Taught of fear and pain  
+Taught by fear and pain  
 
 You don't call God  
 but the ones who matter  

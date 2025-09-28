@@ -1,5 +1,5 @@
 ---
-title: "15. In The Twilight Quiet"
+title: "15 In The Twilight Quiet"
 date: 2025-09-28T11:00:00+08:00
 draft: false
 ---

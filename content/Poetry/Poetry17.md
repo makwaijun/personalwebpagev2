@@ -1,5 +1,5 @@
 ---
-title: "17. To the Next Morrow"
+title: "17 To the Next Morrow"
 date: 2025-09-28T12:30:00+08:00
 draft: false
 ---
@@ -33,7 +33,7 @@ Who did consider and conclude
 that, for the price weighed in tears,  
 And the faults well considered,  
 
-A claim staked in my being  
+A claim has staked in my partial being  
 but not yet my entirety.  
 
 

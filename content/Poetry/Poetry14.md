@@ -1,5 +1,5 @@
 ---
-title: "14. A Walk in a Suzhou Garden"
+title: "14 A Walk in a Suzhou Garden"
 date: 2025-09-28T10:00:00+08:00
 draft: false
 ---
@@ -15,4 +15,4 @@ Laughter with love
 The simplicity of coupleship  
 Basked in warmth from above  
 
-*Written*
+*Written in a Suzhou garden with a university friend and his girlfriend, Summer (june) 2025*

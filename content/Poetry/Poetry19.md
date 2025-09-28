@@ -1,6 +1,6 @@
 ---
-title: "19. The Rain and The Rush"
-date: 2025-09-28T14:0:00+08:00
+title: "19 The Rain and The Rush"
+date: 2025-09-28T14:00:00+08:00
 draft: false
 ---
 
@@ -20,9 +20,4 @@ Never ceases to amaze
 Never ceases to destroy  
 when the rain flowed horizontal  
 Filled with energy.  
-Feeling alive.  
-
-
-
-
-
+Feeling alive.
