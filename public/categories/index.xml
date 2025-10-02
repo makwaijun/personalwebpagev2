@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mak Wai Jun</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Mak Wai Jun</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-UK</language>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Categories on Introspections in Bytes</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Introspections in Bytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2020-2024, Wai Jun Mak</copyright>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

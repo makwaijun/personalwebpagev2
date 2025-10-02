@@ -1,23 +1,87 @@
 {{ define "main" }}
-{{ $dateFormat := default "Jan 2" (index .Site.Params "date_format") }}
-{{ $.Scratch.Set "lastYear" ""}}
-<div class="container">
-  <h1 class="text-center">{{ .Type | humanize}}</h1>
-  {{ range .Pages }}
-    {{ $year := .Date.Year }}
-    {{ $lastYear := $.Scratch.Get "lastYear"}}
-    <div class="row mt-2">
-      <div class="d-none d-sm-block col-sm-2 mt-auto offset-sm-2 text-right">
-        <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-      </div>
-      <div class="col">
-        {{ if ne $year $lastYear }}
-          <p class="text-muted mt-5">{{ $year }}</p>
-          {{ $.Scratch.Set "lastYear" $year }}
-        {{ end }}
-        <a class="text-body" href="{{ .URL | relURL }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
-      </div>
-    </div>
+
+<section class="container py-5" id="main">
+
+  <!-- Header row -->
+  <div class="d-flex align-items-center justify-content-between mb-3">
+    <h1 class="mb-0">Blog</h1>
+    {{ with .OutputFormats.Get "RSS" }}
+      <a class="btn btn-outline-secondary btn-sm" href="{{ .RelPermalink }}">RSS</a>
+    {{ end }}
+  </div>
+
+  {{ with .Params.description }}
+    <p class="text-muted mb-4">{{ . }}</p>
   {{ end }}
-</div>
+
+  <!-- Optional featured post -->
+  {{ $featured := first 1 (where .Pages "Params.featured" true) }}
+  {{ with $featured }}
+    {{ $p := index . 0 }}
+    <article class="card border-0 shadow-sm mb-4">
+      <div class="card-body">
+        <span class="badge badge-dark mb-2">Featured</span>
+        <h2 class="h3 mb-2">
+          <a class="text-body" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+        </h2>
+        <p class="text-muted small mb-2">
+          {{ $p.Date.Format "Jan 2, 2006" }} · {{ $p.ReadingTime }} min read
+          {{ with $p.Params.tags }}
+            · {{ range $i, $t := . }}
+              {{ if $i }}, {{ end }}
+              <a class="text-muted" href="{{ (printf "/tags/%s/" $t | urlize) | relURL }}">#{{ $t }}</a>
+            {{ end }}
+          {{ end }}
+        </p>
+        <p class="mb-0">
+          {{ with $p.Params.description }}{{ . }}
+          {{ else }}{{ $p.Summary | plainify }}{{ end }}
+        </p>
+      </div>
+    </article>
+  {{ end }}
+
+  <!-- Paged list (only on section/list pages) -->
+  {{ if .IsNode }}
+    {{ $pages := where .Pages "Params.featured" "ne" true }}
+    {{ $p := .Paginate ($pages.ByDate.Reverse) ( or .Site.Params.blog_paginate 10 ) }}
+
+    {{ range $p.Pages }}
+      <article class="card border-0 shadow-sm mb-3">
+        <div class="card-body">
+          <h2 class="h4 mb-2">
+            <a class="text-body" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+
+          <p class="text-muted small mb-2">
+            {{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} min read
+            {{ with .Params.tags }}
+              · {{ range $i, $t := . }}
+                {{ if $i }}, {{ end }}
+                <a class="text-muted" href="{{ (printf "/tags/%s/" $t | urlize) | relURL }}">#{{ $t }}</a>
+              {{ end }}
+            {{ end }}
+            {{ if .Draft }} · <span class="badge badge-warning">Draft</span>{{ end }}
+          </p>
+
+          <p class="mb-0">
+            {{ with .Params.description }}{{ . }}
+            {{ else }}{{ .Summary | plainify }}
+            {{ end }}
+          </p>
+        </div>
+      </article>
+    {{ end }}
+
+    <!-- Pagination -->
+    <nav aria-label="Pagination" class="mt-4">
+      {{ template "_internal/pagination.html" . }}
+    </nav>
+  {{ else }}
+    <!-- Fallback for single pages (defensive) -->
+    {{ .Content }}
+  {{ end }}
+
+</section>
+
 {{ end }}

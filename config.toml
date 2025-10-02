@@ -5,10 +5,7 @@ theme = 'WJMinimo'
 copyright = "© 2020-2024, Wai Jun Mak"
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+  
   [[menu.main]]
     name = "About"
     url = "/about/"
@@ -26,6 +23,30 @@ copyright = "© 2020-2024, Wai Jun Mak"
     url = "/projects/"
     weight = 5
 
+[params]
+  author = "Wai Jun Mak"
+
+  [[params.social]]
+    name = "Steam"
+    url  = "https://steamcommunity.com/profiles/76561197988431305"
+    icon = "fab fa-steam"
+
+  [[params.social]]
+    name = "Instagram"
+    url  = "https://www.instagram.com/risottogeek/"
+    icon = "fab fa-instagram"
+
+  [[params.social]]
+    name = "LinkedIn"
+    url  = "https://www.linkedin.com/in/wai-jun-mak-1b401868?originalSubdomain=sg"
+    icon = "fab fa-linkedin"
+
+  [[params.social]]
+    name = "Goodreads"
+    url  = "https://www.goodreads.com/user/show/"
+    icon = "fab fa-goodreads"
+
+  blog_paginate = 10            # blog page size (used by list.html)
 
 [Social]
 linkedin = "your-linkedin-url"
@@ -33,3 +54,5 @@ steam = "your-steam-url"
 goodreads = "your-goodreads-url"
 instagram = "your-instagram-url"
 youtube = "your-youtube-url"
+
+paginate = 10                   # global fallback for other sections

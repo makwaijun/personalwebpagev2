@@ -1,49 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-      {{- partial "head.html" . -}}
-</head>
+{{ define "main" }}
 
-<body>
-{{- partial "header.html" . -}}
+<link rel="stylesheet" href="{{ "css/about.css" | relURL }}"/>
 
-<link rel="stylesheet" href="/css/about.css"/>
+<section class="container py-5" id="main">
+  <h1 class="text-center mb-5">About Me</h1>
 
+  <!-- Hero row -->
+  <div class="row align-items-center mb-5">
+    <div class="col-md-5 mb-4 mb-md-0 text-center">
+      <img
+        src="{{ "img/me.jpg" | relURL }}"
+        alt="Wai Jun by the sea"
+        class="img-fluid rounded shadow-sm"
+        height="300"
+      >
+    </div>
 
-<div class="container text-center">
-  <h1>About Me</h1>
+    <div class="col-md-7">
+      <h3>The Person</h3>
+      <p>I'm a <a href="{{ "/blog/post4/" | relURL }}">confused Singaporean</a> striving to learn widely and apply deeply. Theory is great but <strong>skin-in-the-game</strong> is better.
+      I stray away from viewing the world in <span class="whitetext">black or white</span>. <span class="graytext">Living in the gray</span> sits right with me. Given the ambiguity, I value having a set of broad principles to guide my thinking.</p>
+
+      <p>I consider myself a generalist with the ambition to be above average in a unique mix of domains.</p>
+      <p>I'm happiest when I discover a new “theory” that reframes the world — a small step-change in how I think.</p>
+      <p>These days I graze on current affairs, general knowledge, and the occasional meme.</p>
+
+      <h3 class="mt-4">The Site</h3>
+      <p>This project is a node of interconnecting thoughts and interests — part diary, part time capsule, part contemplation.</p>
+    </div>
   </div>
-<!-- start about me -->
-  <div class="container aboutme">
-		<div class="row">
-				<div class="col-md-6 text-right">
-        <img src="/img/me.jpg" alt="WJpic" class="myimg" height="300" align="right">
+
+  <!-- Quick facts (nice scannable block) -->
+  <div class="row mb-5">
+    <div class="col-md-10 col-lg-8 mx-auto">
+      <div class="card border-0 shadow-sm">
+        <div class="card-body">
+          <div class="row">
+            <div class="col-sm-6 mb-2"><strong>Based in:</strong> Singapore</div>
+            <div class="col-sm-6 mb-2"><strong>Focus now:</strong> Friends, family, material science to product ideas, writing, leadership and management</div>
+            <div class="col-sm-6 mb-2"><strong>Email:</strong> <a href="mailto:mak.waijun@gmail.com">mak.waijun@gmail.com</a></div>
+            <div class="col-sm-6 mb-2"><strong>CV:</strong> <a href="{{ "/files/WaiJunMak-CV.pdf" | relURL }}">Download (PDF)</a></div>
+          </div>
         </div>
-				<div class="col-md-6 text-left">
-        <h3>The Person</h3>
-				<p>I'm a <a href="https://www.makwaijun.com/blog/post4/">confused Singaporean</a> striving to learn widely and apply deeply. Inclined to the former, struggling with the latter. Theory is great but <b>skin-in-the-game</b> is better. 
-        I stray away from viewing the world in <span class="whitetext">black or white</span> . <span class="graytext">Living in the gray</span> sits right with me. Given the ambiguity, I value having a set of broad principles to guide my thinking.</p>
-        <p> I consider myself a generalist, with the ambition to be above average in a unique mix of domains. </p> 
-        <p> I am at my happiest when I find a new "theory" to better understand the world. Something similar to a "step-change" in my thinking </p>
-        <p> You can find me feeding on a diet of current affairs, general knowledge, memes and reddit.</p>
-       <h3>The Site</h3>
-        <p> This personal (web) project aims to be a node of interconnecting thoughts and interests. Part diary, part time capsule, part contemplation.</p>
-        <br>
-				</div>
-			
-			<!-- end row about -->
-		</div>
-
-    <div class="row updates">
-      <p> Latest Netflix recommendation is: <a href="https://en.wikipedia.org/wiki/A_Sun_(film)"> A Sun </a><p>
-
-		<!-- end container about -->
+      </div>
+    </div>
   </div>
-  <!-- elements adapted from https://codepen.io/shvvffle/pen/bwpAEm.   thank you! -->
+  <section class="container my-5">
+    <h3 class="text-center mb-4">Timeline</h3>
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+          <h5>2025 – Present</h5>
+          <p>Exploring hydrogen innovation, material science, and creation over consumption; second Graduate studies in nanotechnology and materials science; while growing industries, surfing!</p>
+        </div>
+      </div>
+  
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+          <h5>2021 – 2024</h5>
+          <p>An era marked by learning to be a Chief of Staff, stepping up in military responsibility, obsession with Napoleon's marshals, seeding interest into material science, got into writing and poetry</p>
+        </div>
+      </div>
+  
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+          <h5>2017 – 2020</h5>
+          <p>Early career building, developed a desire to framework everything, loved macro stuff like development economics, complexity science, sustainability and geopolitics</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
 
-<!-- Footer -->
-  <footer class="container-fluid text-center">
- {{- partial "footer.html" . -}}
-</footer>
-</body>
-</html>
+  <!-- Updates / now -->
+  <div class="row">
+    <div class="col-md-10 col-lg-8 mx-auto">
+      <p class="text-muted">
+        Latest Media Consumption Obsession: <a href="https://en.wikipedia.org/wiki/A_Sun_(film)">TBC</a>
+      </p>
+    </div>
+  </div>
+
+</section>
+
+{{ end }}

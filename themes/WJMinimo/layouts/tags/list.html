@@ -30,7 +30,7 @@
             <p class="text-muted mt-5">{{ $year }}</p>
             {{ $.Scratch.Set "lastYear" $year }}
           {{ end }}
-          <a class="text-body" href="{{ .URL | relURL }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
+          <a class="text-body" href="{{ .RelPermalink }}">{{ .Title }}</a>
         </div>
       </div>
     {{ end }}

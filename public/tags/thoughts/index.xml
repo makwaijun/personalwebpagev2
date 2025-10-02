@@ -1,38 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thoughts on Mak Wai Jun</title>
-    <link>/tags/thoughts/</link>
-    <description>Recent content in thoughts on Mak Wai Jun</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-UK</language>
-    <lastBuildDate>Sun, 31 May 2020 21:20:10 +0800</lastBuildDate>
-    
-	<atom:link href="/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Thoughts on Introspections in Bytes</title>
+    <link>http://localhost:1313/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Introspections in Bytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2020-2024, Wai Jun Mak</copyright>
+    <lastBuildDate>Mon, 11 Jul 2022 18:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>69: Hobbies 1</title>
+      <link>http://localhost:1313/blog/post69/</link>
+      <pubDate>Mon, 11 Jul 2022 18:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post69/</guid>
+      <description>&lt;p&gt;(Sunday, 1000)&#xA;As I lay out by the beach today, crisping away in the sun. I have started to write again, a feeble attempt to catch up on the never ending backlog of ideas, thoughts and reflections.&lt;/p&gt;&#xA;&lt;p&gt;While gorging myself on breakfast though - I read &lt;a href=&#34;https://on.ft.com/3c1PeYE&#34;&gt;On the Tyranny of Having a Hobby&lt;/a&gt; by one Rosa Lyster. Well written, with a satirical tone of seriousness, about how something less serious should be indeed taken more seriously. Fantastically amusing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>67: Life 2 - On a Scale of 1 to Happy</title>
+      <link>http://localhost:1313/blog/post67/</link>
+      <pubDate>Mon, 11 Jul 2022 16:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post67/</guid>
+      <description>&lt;p&gt;I met a good friend one night for dinner.&lt;/p&gt;&#xA;&lt;p&gt;We were weary of work. A tired Friday night. And as commiserating souls do, we spoke about happiness. He asked &amp;ldquo;one a scale of 1 to 10, how happy are you?&lt;/p&gt;&#xA;&lt;p&gt;I paused and reflected, as one does facing a question of such gravity.&lt;/p&gt;&#xA;&lt;p&gt;And I felt that I went a 4/5 to an 8 in two years.&lt;/p&gt;&#xA;&lt;h4 id=&#34;1-finding-the-north-star&#34;&gt;1. Finding the North Star&lt;/h4&gt;&#xA;&lt;p&gt;Clarity on purpose and meaningful work - but through a few bouts of introspection, I had essentially found a desire to find work that is mission-driven,&#xA;Sustainability, currently, fell nicely within both of these segments. I drilled down further, as I had written in my career post, on the intersection between Hardware, Technology and Sustainability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>66: Life 1 - On Peace, Spirituality and Religion</title>
+      <link>http://localhost:1313/blog/post66/</link>
+      <pubDate>Mon, 16 May 2022 22:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post66/</guid>
+      <description>&lt;p&gt;Its time for&amp;hellip;yet another post on existence and being! A more reflective/philosophical post (ugh love these sort of things over drinks).&lt;/p&gt;&#xA;&lt;p&gt;What is the meaning of life? perhaps not meaning per se - but something more deliberate. I recall one of my earlier posts, &lt;a href=&#34;https://www.makwaijun.com/blog/post15/&#34;&gt;focused on survivalism &lt;/a&gt;and the like. But after some light brushes with religion, I had started thinking again around this topic.&lt;/p&gt;&#xA;&lt;p&gt;I first feel that there is an innate struggle of man to overcome our animalistic survival instincts in favour of peace and acceptance. But what do we accept? Are what we accept objective truths or subjective perceptions? We, do afterall, live in a rather gray, asymmetric world. There are inumberable things to do and not do, and things unanswerable that a mortal lifespan will struggle to answer. But are some of these questions right or necessary?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Intolerance of Intolerance</title>
+      <link>http://localhost:1313/blog/post6/</link>
+      <pubDate>Mon, 07 Sep 2020 23:41:45 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post6/</guid>
+      <description>&lt;h3 id=&#34;tldr&#34;&gt;TLDR;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I live by a belief system of living in the gray. Nothing can ever be linearly explained. There are complex reasons and interrelations behind everything. It has made me more tolerant of different views, as I seek to understand both sides of an argument.&lt;/li&gt;&#xA;&lt;li&gt;This belief system crumbles when I come across an extremist view. I can&amp;rsquo;t tolerate this.&lt;/li&gt;&#xA;&lt;li&gt;This leads to a paradox: Can a belief system promoting tolerance coexist with one is unable to tolerate intolerance?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-background&#34;&gt;The Background&lt;/h3&gt;&#xA;&lt;p&gt;One of my core beliefs that came out of my lessons in Systems Thinking (reminder to tag/link here) was that the world can never be depicted in &lt;em&gt;black&lt;/em&gt; or &lt;em&gt;white&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On Politics, Hype and Decision-making</title>
+      <link>http://localhost:1313/blog/post10/</link>
+      <pubDate>Sat, 11 Jul 2020 20:00:28 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post10/</guid>
+      <description>&lt;h4 id=&#34;tldr&#34;&gt;TLDR;&lt;/h4&gt;&#xA;&lt;p&gt;Part 1:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;General elections in Singapore this year has activated a broader political conciousness.&lt;/li&gt;&#xA;&lt;li&gt;This is a good thing.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Part 2:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I abhor hype. But I am keen to open my mind to contrarian views to challenge my thinking on this.&lt;/li&gt;&#xA;&lt;li&gt;I appreciate its potential to create a positive impact (if not abused)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I decided to combine a draft blog post I had been mulling over with a very timely and topical issue here in Singapore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On Bikes and the Diminishing Returns of Innovation</title>
+      <link>http://localhost:1313/blog/post11/</link>
+      <pubDate>Wed, 24 Jun 2020 21:00:48 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post11/</guid>
+      <description>&lt;h3 id=&#34;tldr&#34;&gt;TLDR;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Goods and services now accessible by everyday consumers are of extremely good quality.&lt;/li&gt;&#xA;&lt;li&gt;The impact of innovation faces marginal returns in both supply (ability of the manufacturer to innovate) and demand (ability of the consumer to adopt new innovations)&lt;/li&gt;&#xA;&lt;li&gt;Still, consumers like to splurge a little on quality products. #feelsgood.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The circuit breaker has been a time of both contemplation and new hobbies.&lt;/p&gt;&#xA;&lt;p&gt;As one of the few permissible outdoor activities, I have begun a habit to run more in the nearby park and dusted off the old family bike (Ladies bike; my sister&amp;rsquo;s) to feel the wind in my hair, the rush of nature&amp;hellip; whilst being legally compliant of course.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>On Identity, Citizenship &amp; Belonging</title>
-      <link>/blog/post4/</link>
+      <link>http://localhost:1313/blog/post4/</link>
       <pubDate>Sun, 31 May 2020 21:20:10 +0800</pubDate>
-      
-      <guid>/blog/post4/</guid>
-      <description>In my last post, I had a notion about whether patriotism can exist in metropolises.
-The obvious counterpoint is Hong Kong. A raw demonstration of fighting for one&amp;rsquo;s survival.
-Were these for individual reasons? A manifestation of youth unrest? Those seeking to protect what is familiar and the current way of life? I am not sure.
-In any case, it did set the scene for a contemplation about my own identity.</description>
+      <guid>http://localhost:1313/blog/post4/</guid>
+      <description>&lt;h4 id=&#34;tldr&#34;&gt;TLDR;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I ramble about my early life and how it has confused / shaped my identity;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;In my last post, I had a notion about whether patriotism can exist in metropolises.&lt;/p&gt;&#xA;&lt;p&gt;The obvious counterpoint is Hong Kong. A raw demonstration of fighting for one&amp;rsquo;s survival.&lt;/p&gt;&#xA;&lt;p&gt;Were these for individual reasons? A manifestation of youth unrest? Those seeking to protect what is familiar and the current way of life? I am not sure.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Raison D&#39;etre</title>
-      <link>/blog/post1/</link>
+      <link>http://localhost:1313/blog/post1/</link>
       <pubDate>Sun, 03 May 2020 18:31:36 +0800</pubDate>
-      
-      <guid>/blog/post1/</guid>
-      <description>The blog is born If what I do is common - I tend to read the latest few posts and first post when visiting a new blog. So I hope dear reader, to make this count.
-It took the better part of one and a half-ish days over the long weekend to get this up and running.
-I had been mulling for a long time on having my own personal website.</description>
+      <guid>http://localhost:1313/blog/post1/</guid>
+      <description>&lt;h4 id=&#34;tldr&#34;&gt;TLDR;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A digital identity is critical in this day and age, but it is often too easy to lose control of it.&lt;/li&gt;&#xA;&lt;li&gt;Instead, we should take control of our own digital narrative by designing and customising a personal website.&lt;/li&gt;&#xA;&lt;li&gt;I explain how I did so.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;conception&#34;&gt;Conception&lt;/h4&gt;&#xA;&lt;p&gt;If what I do is common - I tend to read the latest few posts and first post when visiting a new blog. So I hope dear reader, to make this count.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

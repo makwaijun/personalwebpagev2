@@ -2,18 +2,27 @@
   /*index*/
   @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,200);
 
+/* Colour schema
+#cfb093
+#013567
+#1b6bb8
+#e1e3e5
+#fdfdfd
+*/
 .indexdesc {
-    font-family: Raleway;
-    color: darkslategray;
+  text-decoration: none;  
+  font-family: Raleway;
+    color: #013567;
     text-align: center;
     margin-bottom: 50px;
+   
       }
 
 .indextitle { 
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: Raleway;
-    color: darkslategray;   
+    color: #013567;   
     text-align: center;
 }
 
@@ -27,17 +36,41 @@
   transform: translate3d(0, 100%, 0);
 }
 
+/*about page*/
+.myimg{
+  border-radius: 60%;
+  padding: 20px;
+}
+
 /*footer*/
+.site-footer { letter-spacing:.2px; }
+.footer-sep { border-color: rgba(255,255,255,.15); }
+.footer-icon { color: rgba(255,255,255,.8); transition: transform .15s ease, color .15s ease; }
+.footer-icon:focus, .footer-icon:hover { color:#fff; transform: translateY(-1px); outline: none; }
+.footer-icon:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+.site-footer a.text-muted:hover { color:#e6e6e6 !important; }
+.footer-icon { opacity:.85; }
+.footer-icon:hover, .footer-icon:focus { opacity:1; transform: translateY(-1px); }
+.footer-social .fa-lg { width:1.25em; text-align:center; }
 
-.social {
-  padding: 0;
-  list-style: none;
+/*navbar header*/
+.navbar { letter-spacing:.2px; }
+.navbar .nav-link { opacity:.85; transition: opacity .15s ease, color .15s ease; }
+.navbar .nav-link:hover, .navbar .nav-link:focus { opacity:1; text-decoration: none; }
+.navbar .nav-item.active > .nav-link { opacity:1; border-bottom: 2px solid rgba(255,255,255,.75); padding-bottom:.3rem; }
+
+.dropdown-menu { font-size: 0.95rem; }
+.dropdown-item { padding: .5rem .9rem; }
+.dropdown-item:hover { background: rgba(0,0,0,.05); }
+
+@media (max-width: 991.98px){
+  /* Larger tap targets on mobile */
+  .navbar .nav-link { padding-top:.75rem; padding-bottom:.75rem; }
 }
 
-.social > li {
-  display: inline-block;
-  padding-right: 1em; 
-  color: darkslategray;
-}
-
-
+/* Blog list polish */
+#main .card { border-radius: .75rem; }
+#main .card-body { padding: 1.25rem 1.25rem; }
+#main h2 a { text-decoration: none; }
+#main h2 a:hover { text-decoration: underline; }
+.badge { letter-spacing: .2px; }

@@ -1,18 +1,38 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.7">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 15.0px 'Helvetica Neue'; color: #dfdfdb; -webkit-text-stroke: #dfdfdb; background-color: #20201d}
-    span.s1 {font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{{ if .Site.Copyright }} {{ .Site.Copyright | safeHTML }} {{ else }} {{ "© 2020, Wai Jun Mak" | safeHTML }} {{ end }} </span></p>
-<p class="p1"><span class="s1">Built with Hugo, Bootstrap, deployed on Netlify, enhancements assisted by ClaudeAI since 2024</span></p>
-</body>
-</html>
+<footer class="site-footer bg-dark text-light mt-5 pt-5 pb-4">
+  <div class="container">
+
+    <!-- Row 1: CTA + Socials -->
+    <div class="d-flex flex-column flex-md-row align-items-center justify-content-between gap-3 mb-3">
+      <div>
+        <h6 class="mb-1">Say Hi</h6>
+        <a class="btn btn-outline-light btn-sm"
+           href="mailto:mak.waijun@gmail.com" aria-label="Email Wai Jun">Email me</a>
+      
+      </div>
+
+      <nav class="footer-social d-flex align-items-center">
+        {{ range .Site.Params.social }}
+          <a class="footer-icon ml-3" href="{{ .url }}" target="_blank" rel="noopener"
+             aria-label="{{ .name }}"><i class="{{ .icon }} fa-lg"></i></a>
+        {{ end }}
+      </nav>
+    </div>
+
+    <hr class="footer-sep my-3">
+
+    <!-- Row 2: Small print -->
+    <div class="d-flex flex-column flex-md-row align-items-center justify-content-between small text-muted">
+      <div>
+        © 2020–{{ now.Year }} {{ .Site.Params.author }} ·
+        Built with Hugo & Bootstrap · Deployed on Netlify
+        {{ if ne .Lastmod .Date }} · Updated {{ .Lastmod.Format "Jan 2, 2006" }}{{ end }}
+      </div>
+
+      <div class="mt-2 mt-md-0">
+        <a class="text-muted mr-3" href="{{ "/privacy/" | relURL }}">Privacy</a>
+        <a class="text-muted" href="{{ "/sitemap.xml" | relURL }}">Sitemap</a>
+      </div>
+    </div>
+
+  </div>
+</footer>

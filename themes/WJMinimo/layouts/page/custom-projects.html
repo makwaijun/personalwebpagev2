@@ -1,58 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "css/projects.css" | relURL }}">
-    <title>Projects</title>
-</head>
-<body>
-        {{- partial "header.html" . -}}
-    <main>
-        <section class="projects">
-            <h1>Projects</h1>
-            <div class="project-grid">
-                <div class="project-card vinearth">
-                    <h2>Vinearth</h2>
-                    <p>Import of Georgian Wine into Singapore</p>
-                    <p>Set up in 2020, during the COVID-19 period.</p>
-                    <a href="https://vinearth.com">Visit Vinearth</a>
-                </div>
+{{ define "main" }}
 
-                <div class="project-card">
-                    <h2>Heat Stress</h2>
-                    <p>Setting up a tracker for Heatstress. A precursor to a follow on idea for the future. This represents the second pillar of my interests in Climate Change Adaptation.</p>
-                    <a href="https://heatstress.sg">Learn more about heat stress and the status in Singapore here</a>
-                </div>
+<link rel="stylesheet" href="{{ "css/projects.css" | relURL }}">
 
-                <div class="project-card">
-                    <h2>Semp-Re</h2>
-                    <p>Placeholder for a long term idea on Circular Economy consideration. This represents the first pillar of my interest in Climate Change mitigation, through consumption reduction.</p>
-                </div>
+<section class="projects container py-5" id="main">
+  <h1 class="mb-4 text-center">Projects</h1>
 
-                <div class="project-card">
-                    <h2>Placeholder Project</h2>
-                    <p>This is a placeholder project card for future projects or ideas.</p>
-                </div>
-            </div>
-        </section>
+  <div class="project-grid">
+    <div class="project-card vinearth">
+      <h2>Vinearth</h2>
+      <p>Import of Georgian Wine into Singapore</p>
+      <p>Set up in 2020, during the COVID-19 period.</p>
+      <a href="https://vinearth.com" target="_blank" rel="noopener">Visit Vinearth</a>
+    </div>
 
-        <section class="skills">
-            <h2>Work in Progress: Skills</h2>
-            <p>An alternate take on domain experience and skills. The idea is to use Venn diagrams or nodes and connections to highlight interdependencies between experiences. Currently trialling using D3 Visualization tools, having trouble implementing it.</p>
-            <!-- Placeholder for D3 Venn Diagram -->
-            <div id="venn-diagram"></div>
-        </section>
-    </main>
+    <div class="project-card">
+      <h2>Heat Stress</h2>
+      <p>Setting up a tracker for Heatstress. A precursor to a follow-on idea. Represents the second pillar of my interests in Climate Change Adaptation.</p>
+      <a href="https://heatstress.sg" target="_blank" rel="noopener">Learn more</a>
+    </div>
 
-    <footer class="container-fluid text-center">
-        {{- partial "footer.html" . -}}
-       </footer>
+    <div class="project-card">
+      <h2>Semp-Re</h2>
+      <p>Placeholder for a long-term idea on Circular Economy. Represents the first pillar of my interest in Climate Change mitigation, through consumption reduction.</p>
+    </div>
 
-    <!-- Scripts -->
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="js/venn.js"></script>
-    <script src="js/main.js"></script>
-</body>
-</html>
+    <div class="project-card">
+      <h2>Placeholder Project</h2>
+      <p>This is a placeholder for future projects or ideas.</p>
+    </div>
+  </div>
+</section>
+
+<section class="skills container py-5">
+  <h2>Work in Progress: Skills</h2>
+  <p>An alternate take on domain experience and skills. The idea is to use Venn diagrams or nodes to highlight interdependencies between experiences. Currently trialling D3 Visualization tools.</p>
+  <div id="venn-diagram"></div>
+</section>
+
+{{ end }}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Introspections in Bytes</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on Introspections in Bytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2020-2024, Wai Jun Mak</copyright>
+    <lastBuildDate>Sat, 26 Feb 2022 11:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>60: On Love and War</title>
+      <link>http://localhost:1313/blog/post60/</link>
+      <pubDate>Sat, 26 Feb 2022 11:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post60/</guid>
+      <description>&lt;p&gt;Hectic and busy as of late, with both work and personal.&lt;/p&gt;&#xA;&lt;h3 id=&#34;on-love&#34;&gt;On Love&lt;/h3&gt;&#xA;&lt;p&gt;Specifically, it has been celebratory time with the family - a big milestone / event happening for closed loved ones. Indeed, while there were some tragedies earlier in the year - with the old, comes the new, and so the cycle continues…&lt;/p&gt;&#xA;&lt;p&gt;But in the pursuit of truth and overarching frameworks - Love is one of those everlasting mysteries, like life, art, and what goes into mcnuggets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>55: Obligatory 2022 Post - Frameworks for calibrating the Compass of Life</title>
+      <link>http://localhost:1313/blog/post55/</link>
+      <pubDate>Mon, 10 Jan 2022 11:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post55/</guid>
+      <description>&lt;p&gt;Semi-obligatory, but nonetheless important to just privately . As I type this, I am currently in between an old job and new one, carving out a momentary pause for reflection. &amp;hellip;and weakly attempting to clear 19 blog posts in the backlog. Trying out &lt;a href=&#34;https://www.zettlr.com/&#34;&gt;Zettlr&lt;/a&gt; instea of Typora, as the latter has launched with a subscription fee. Moving forward, I will label the post number in the header… technically this is my 43rd file, but it seems that my numbering had missed a chunk of post 20-somethings and its gone a bit off the rails. Oh well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On a 2020 Retrospection and what Makes Me, Me</title>
+      <link>http://localhost:1313/blog/post26/</link>
+      <pubDate>Sun, 27 Dec 2020 23:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/post26/</guid>
+      <description>&lt;h4 id=&#34;tldr&#34;&gt;TLDR;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I talk about major events that happened to me this year;&lt;/li&gt;&#xA;&lt;li&gt;On the topic of major events, some are more major than others, and have a long-lasting impact on your life&amp;rsquo;s trajectory;&lt;/li&gt;&#xA;&lt;li&gt;I talk about and take stock of such events in the past decade of my life.&lt;/li&gt;&#xA;&lt;li&gt;I roughly list some objectives for 2021.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2020---what-a-year&#34;&gt;2020 - What a Year&lt;/h3&gt;&#xA;&lt;p&gt;With the year drawing to a close, I thought I might - as fashionable as it is - do a quick retrospection for 2020.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

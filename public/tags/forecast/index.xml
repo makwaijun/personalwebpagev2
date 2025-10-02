@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>forecast on Mak Wai Jun</title>
-    <link>/tags/forecast/</link>
-    <description>Recent content in forecast on Mak Wai Jun</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-UK</language>
+    <title>Forecast on Introspections in Bytes</title>
+    <link>http://localhost:1313/tags/forecast/</link>
+    <description>Recent content in Forecast on Introspections in Bytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2020-2024, Wai Jun Mak</copyright>
     <lastBuildDate>Sat, 30 May 2020 21:23:18 +0800</lastBuildDate>
-    
-	<atom:link href="/tags/forecast/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/forecast/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thoughts on the Hong Kong Crisis</title>
-      <link>/blog/post3/</link>
+      <title>On the Hong Kong Crisis</title>
+      <link>http://localhost:1313/blog/post3/</link>
       <pubDate>Sat, 30 May 2020 21:23:18 +0800</pubDate>
-      
-      <guid>/blog/post3/</guid>
-      <description>Keeping Momentum Its been a while.
-I should maintain a steady cadence to blogging.
-But perhaps I should also let the process take its natural course.
-Recent news triggered a short reaction. Specifically on&amp;hellip;.
-Hong Kong The place renders an odd feeling in me.
-I am, and fully identify as being Singaporean (perhaps an idea worth exploring in future posts) in citizenship, but I am half-Hong Konger in blood. I am also perhaps Hong Kong-er in name (canto surname, canto spelling) I have only been there twice in my life.</description>
+      <guid>http://localhost:1313/blog/post3/</guid>
+      <description>&lt;h4 id=&#34;tldr&#34;&gt;TLDR;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hong Kong is on a long-term structural decline;&lt;/li&gt;&#xA;&lt;li&gt;It is not in China&amp;rsquo;s interest to save it;&lt;/li&gt;&#xA;&lt;li&gt;I find this sad.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;my-connection-with-hong-kong&#34;&gt;My connection with Hong Kong&lt;/h4&gt;&#xA;&lt;p&gt;The place renders an odd feeling in me.&lt;/p&gt;&#xA;&lt;p&gt;I am, and fully identify as being Singaporean (perhaps an idea worth exploring in future posts) in citizenship, but I am half-Hong Konger in blood. I am also perhaps Hong Kong-er in name (canto surname, canto spelling)&#xA;I have only been there twice in my life. And my cantonese is terrible.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
