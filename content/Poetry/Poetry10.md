@@ -9,9 +9,12 @@ A bastardised reversal
 and refusal to minimise pain.
 
 I flirt wildly with the precipice,  
-never far from the discomfort zone
+never far from the discomfort zone.   
 
 Its to Grow,  
 the voice says.  
 But at what point does something give.  
 At what point does something take.
+
+
+*reflections on the growth mindset. Not without its challenges*

@@ -7,17 +7,24 @@ draft: false
 Grey smattered sky,  
 Howling, blowing  
 waves crashing,  
-Palm leaves snapping.  
-Tough and sinewy.  
+Palm leaves snapping. 
 
-Colossal structures cracked.  
-But I embrace its sharp spittle  
+ 
+Trunks tough and sinewy.  
+It's colossal structures cracked.  
+ 
+But I embrace 
+the sky's sharp spittle  
 as a timely reminder,  
 That I  
 
-In the awe of nature, that nature  
+In the awe of nature, THAT nature  
 Never ceases to amaze  
 Never ceases to destroy  
+
 when the rain flowed horizontal  
-Filled with energy.  
+Saturated with energy.  
 Feeling alive.
+
+
+*Written in my first trip after Covid in Sabah, July 2022. Stormy times*

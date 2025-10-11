@@ -32,6 +32,6 @@ Not of a chest laden with gold
 Instead weighed down  
 by the conscience  
 Of others' and my own,  
-As I wish for this night to end  
 
-And for a tomorrow to never start  
+As I wish for this night to end  
+And for tomorrow to never start  

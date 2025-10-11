@@ -10,8 +10,8 @@ Free of judgement and necessity.
 Unbounded and Unrestrained.  
 
 Art for strife, or Art for mood,  
-or a thirst to slake.  
-Free, except for the cost of being human.  
+or a creative thirst to slake.  
+Free, for the price of being human.  
 Uncertain and Uncontained.  
 
 

@@ -8,13 +8,13 @@ draft: false
 With "best wishes"; "Good lucks"; "You will be fines".  
 The subject of memory, the consequence of time.  
 
-To have grown up with the world, heartstrings tugged afar.  
+To have grown up across the world, heartstrings tugged afar.  
 Heartwrought pacts written in greetings of morn,  
-that fade into dusk and sunk into muddy tar.  
+that fade into dusk and drift into muddy tar.   
 
 
 But today I pledge and today I honor,  
-the moments spent, the troubled pains.  
+the moments spent, the shared pains.  
 These I somberly relish,  
 not knowing the paths b'crossed again.  
 
@@ -35,4 +35,4 @@ serendipitous travel.
 
 ---
 
-*Commentary: on meeting a really old school friend, who I was very unlikely to meet again. Expresses a general sombreness of having close friends living abroad*
+*Commentary: on meeting a really old school friend, who I was very unlikely to meet again. Expresses a general sombreness of having close friends living abroad, and the brevity of reconnecting*

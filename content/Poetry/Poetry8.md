@@ -5,19 +5,19 @@ draft: false
 ---
 
 Coasting along  
-Bumps on the road
+Bumps on the road   
 
 Dewa
 
 What's next will come.  
-With its worries and woes
+With its worries and woes  
 
-On the road, straight.  
-and remains true
+On the road, straight    
+and, remaining true.  
 
 Dewa
 
 What will come,   
-Will come
+Will come.  
 
 *Mood: 2023, business travel, on the way to Pudong airport, solo*

@@ -28,8 +28,10 @@ suppressing the innate lust,
 searching for the appropriate response and answer  
 while the tension and time ticks.  
 
-A flame of passion melts the wax of discipline,  
-First a burn, then a scorch,  
+---
+
+A flame of passion melting the wax, stoic,  
+First a simmer, then a burn,  
 down to the wick.  
 
 What is right and wrong mulls the body and mind,  
@@ -40,10 +42,10 @@ To tarry to the bar in reprieve for another drink?
 Or to surrender to the moment  
 and indulge in another's kink?  
 
-In the candle-smoke, I suffocate  
-as a stoic discipline walls me in.  
-
+In the candle-smoke, I suffocate.
+Clouds of discipline wall me in,
 A prisoner of my own irrational morality.  
+
 As my kingsized bed greets me  
 the next morning, empty.  
 
@@ -51,5 +53,5 @@ the next morning, empty.
 ---
 
 
-*Commentary:  Based on a Mood in 2023, during a clubbing night out*
+*Commentary:  Based on a moment in 2023, during a clubbing night out. *
 <!-- "The dick thinks I'm a dick; a reference to a teenager screaming inside me", in the first draft which i thought it was funny, but probably ruins the tone. -->

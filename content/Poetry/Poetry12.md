@@ -7,11 +7,16 @@ draft: false
 Waking at just the right time and place  
 Focused on enjoying the moment  
 Not tarrying or rushing  
-Embracing rest and nestled in the wholeness of its sweetness  
+Embracing rest and nestled in its sweetness.  
 
-Fighting off the creeping pressure to REM  
-But remember I don't. And I don't dream.  
+Fighting off the creeping pressure to descend.  
+But remember I don't. And neither do I dream.  
+Instead, 
 I think thoughtfully  
 But in a boozy clouded way  
-I don't slumber.  
+Not to slumber,  
 But feel the texture of the bed.  
+
+
+
+*Context: A short love letter to napping*

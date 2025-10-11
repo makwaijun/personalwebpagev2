@@ -6,10 +6,10 @@ draft: false
 
 
 I watched an old man play Bejeweled  
-for his first time.  
+for the first time.  
 
-Peered through the gap in between the two airplane seats,  
-through half-closed eyelids,  
+I peered through the gap in between the two airplane seats,  
+through half-closed eyelids,   
 as I drifted and lulled between consciousness  
 and a half-awake mind.  
 
@@ -18,21 +18,25 @@ and a half-awake mind.
 Like a voyeur peering through a window  
 into the human phenomenon of encounter and discovery,  
 
-His leathery hands waved over the touchscreen,  
-to commence, entranced with wonder  
-through his foreign eyes,  
-that saw not the language  
-but symbols and shapes.  
-
+As I watched,  
+His leathery hands wave over the touchscreen,  
+to commence, entranced with wonder.  
 Wrinkled fingers manoeuvred deftly,  
 guided by blind intuition,  
 
-As they traced over the jewels   
+and not  
+through his foreign eyes,  
+which saw not the language  
+but mere symbols and shapes.  
+
+
+
+They traced over the jewels   
 — blue blue orange —  
 down a column  
 to no avail,  
 
-And green green purple  
+-green green purple-  
 across a row  
 to no success.  
 
@@ -41,44 +45,46 @@ to no gain.
 
 ---
 
-As I quietly wished for his realisation  
+I quietly wished for his realisation  
 of the goal  
-to reach the fabled
+to reach the fabled  
 three-in-a-row.  
 
-I lament the subtle arrows and hints never seen,  
+I, breathe held, watched the subtle hints never seen,  
+the clues never noticed     
 and in the end,  
 the pattern never spotted.  
 
-But just as efficiently and gently did the fingers move.  
+But just as efficiently and gently did the fingers move,  
 Did they too, glide over to the menu  
 and so,  
 left the game.  
 
 Pointless,  
-and trophy-less in knowledge.  
+and trophy-less.  
+Defeated but not forgotten.
 
 ---
 
-My eyes roll back into their shades,  
+My eyes rolled back into their shades,  
 and I pondered sadly  
 whether we learn slower,  
-and learn less as we age.  
+and less as we age.  
 
-Oh, the futility to learn something  
-that didn't need to be  
+Oh, I lamented,  
+the futility to learn something  
+that didn't bore no consequence  
 (twas just a game).  
 
-Or perhaps there is just a satisfaction  
-in knowing or unknowing,  
-in the attempt and trial,  
-without the final point in mind.  
+Or perhaps satisfaction  
+can be borne from the  
+ knowing or unknowing,  
+the attempt and trial,  
+without no point in mind.  
 
 And of those benign minutes  
-of passed flight time.  
-Is not a bad thing.  
-
-Is it?  
+of passed flight time:  
+It wasn't so bad.
 
 
-*Background: written on a work trip from Shanghai to Hamburg, over the long leg of the flight. October 2024*
+*Background: written on a work trip from Shanghai to Hamburg, over the long leg of the flight. October 2024. I stared at that guy's screen for far too long*
