@@ -1,6 +1,6 @@
 ---
 title: "20 Heart Beats 93"
-date: 2025-10-25T14:00:00+08:00
+date: 2025-10-25T14:00:00+03:00
 draft: false
 ---
 
