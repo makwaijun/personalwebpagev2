@@ -1,37 +1,96 @@
 {{ define "main" }}
 <div class="container py-5">
 
-  <h1>Learning, building, and reflecting.</h1>
+  <!-- Hero -->
+  <div class="mb-5">
+    <h1>Understanding the World, and Myself</h1>
+    <p class="lead">
+      I write to connect ideas across economics, sustainability, career, and philosophy into
+      frameworks I can actually use. This is the working notebook — essays, poetry, and projects for inquisitive minds, myself and my future children.
+    </p>
+  </div>
 
-  <p>This is my digital library—a collection of essays, projects, and poetry exploring leadership, technology, and the pursuit of understanding ourselves and the world.</p>
+  <!-- Start Here: featured essays -->
+  {{ $blogSection := .Site.GetPage "section" "blog" }}
+  {{ $featuredEssays := slice }}
+  {{ if $blogSection }}
+    {{ $featuredEssays = first 3 (where $blogSection.Pages "Params.featured" true) }}
+    {{ if lt (len $featuredEssays) 1 }}
+      {{ $featuredEssays = first 3 $blogSection.Pages.ByDate.Reverse }}
+    {{ end }}
+  {{ end }}
 
-  <h2>Featured Writing</h2>
-  <p><strong>Placeholder Essay</strong></p>
-  <p>A selected essay from my thought journal.</p>
-  <p><a href="/blog/">Read writing &rarr;</a></p>
+  {{ with $featuredEssays }}
+  <section class="mb-5">
+    <h2 class="h4 mb-3">Start Here</h2>
+    <div class="row">
+      {{ range . }}
+      <div class="col-md-4 mb-4">
+        <h3 class="h5"><a class="text-body" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="text-muted small mb-1">
+          {{ .ReadingTime }} min read
+          {{ with .Params.tags }}
+            · {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a class="text-muted" href="{{ (printf "/tags/%s/" $t | urlize) | relURL }}">#{{ $t }}</a>{{ end }}
+          {{ end }}
+        </p>
+        <p class="mb-0">
+          {{ with .Params.description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 120 }}{{ end }}
+        </p>
+      </div>
+      {{ end }}
+    </div>
+    <a href="/blog/">Read all essays &rarr;</a>
+  </section>
+  {{ end }}
 
-  <h2>Current Focus</h2>
-  <ul>
-    <li>Building industrial technology businesses</li>
-    <li>Personal AI systems</li>
-    <li>Leadership</li>
-    <li>Korean language and culture</li>
-    <li>Long-form writing</li>
-  </ul>
+  <!-- Explore by theme -->
+  <section class="mb-5">
+    <h2 class="h4 mb-3">Explore by Theme</h2>
+    <p>
+      {{ $themes := slice "economics" "philosophy" "sustainability" "career" "government" "energy" "current-affairs" "decision-making" }}
+      {{ range $i, $t := $themes }}
+        <a class="badge badge-light border mr-1 mb-1 p-2" href="{{ (printf "/tags/%s/" $t | urlize) | relURL }}">#{{ $t }}</a>
+      {{ end }}
+    </p>
+    <a href="/tags/">See all topics &rarr;</a>
+  </section>
 
-  <h2>Featured Project</h2>
-  <p><strong>Placeholder Project</strong></p>
-  <p>A project that represents what I enjoy building.</p>
-  <p><a href="/projects/">View projects &rarr;</a></p>
+  <!-- Featured Poetry -->
+  {{ $poetrySection := .Site.GetPage "section" "poetry" }}
+  {{ $featuredPoem := "" }}
+  {{ if $poetrySection }}
+    {{ $fp := first 1 (where $poetrySection.Pages "Params.featured" true) }}
+    {{ if lt (len $fp) 1 }}
+      {{ $fp = first 1 $poetrySection.Pages.ByDate.Reverse }}
+    {{ end }}
+    {{ if gt (len $fp) 0 }}{{ $featuredPoem = index $fp 0 }}{{ end }}
+  {{ end }}
 
-  <h2>Featured Poetry</h2>
-  <p><strong>Placeholder Poem</strong></p>
-  <p>A poem that captures a meaningful reflection.</p>
-  <p><a href="/poetry/">Read poetry &rarr;</a></p>
+  {{ with $featuredPoem }}
+  <section class="mb-5">
+    <h2 class="h4 mb-3">Featured Poetry</h2>
+    <h3 class="h5"><a class="text-body" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p class="font-italic mb-2">{{ .Summary | truncate 160 }}</p>
+    <a href="/poetry/">Read more poetry &rarr;</a>
+  </section>
+  {{ end }}
 
-  <h2>About</h2>
-  <p>I write about leadership, technology, travel, relationships, and the attempt to live thoughtfully.</p>
-  <p><a href="/about/">About me &rarr;</a></p>
+  <!-- Featured Project -->
+  <section class="mb-5">
+    <h2 class="h4 mb-3">Featured Project</h2>
+    <h3 class="h5"><a class="text-body" href="https://vinearth.com" target="_blank" rel="noopener">Vinearth</a></h3>
+    <p class="mb-2">Import of Georgian wine into Singapore, set up in 2020 during COVID-19</p>
+    <a href="/projects/">View all projects &rarr;</a>
+  </section>
+
+  <!-- About / connect -->
+  <section>
+    <h2 class="h4 mb-3">About</h2>
+    <p>
+      Currently between Shanghai and Singapore
+    </p>
+    <a href="/about/">About me &rarr;</a>
+  </section>
 
 </div>
 {{ end }}

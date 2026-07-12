@@ -18,80 +18,60 @@
 
     <div class="col-md-7">
       <h3>The Person</h3>
-      <p>I'm a <a href="{{ "/blog/post4/" | relURL }}">confused Singaporean</a> striving to learn widely and apply deeply. Theory is great but <strong>skin-in-the-game</strong> is better.
-      I stray away from viewing the world in <span class="whitetext">black or white</span>. <span class="graytext">Living in the gray</span> sits right with me. Given the ambiguity, I value having a set of broad principles to guide my thinking.</p>
-
-      <p>I consider myself a generalist with the ambition to be above average in a unique mix of domains.</p>
-      <p>I'm happiest when I discover a new “theory” that reframes the world — a small step-change in how I think.</p>
-      <p>These days I graze on current affairs, general knowledge, and the occasional meme.</p>
-
-      <h3 class="mt-4">The Site</h3>
-      <p>This project is a node of interconnecting thoughts and interests — part diary, part time capsule, part contemplation.</p>
+      {{ .Content }}
     </div>
   </div>
 
-  <!-- Quick facts (nice scannable block) -->
+  <!-- Quick facts -->
   <div class="row mb-5">
     <div class="col-md-10 col-lg-8 mx-auto">
       <div class="card border-0 shadow-sm">
         <div class="card-body">
           <div class="row">
-            <div class="col-sm-6 mb-2"><strong>Based in:</strong> Singapore</div>
-            <div class="col-sm-6 mb-2"><strong>Focus now:</strong> Friends, family, material science to product ideas, writing, leadership and management</div>
-            <div class="col-sm-6 mb-2"><strong>Email:</strong> <a href="mailto:mak.waijun@gmail.com">mak.waijun@gmail.com</a></div>
-            <div class="col-sm-6 mb-2"><strong>CV:</strong> <a href="{{ "/files/WaiJunMak-CV.pdf" | relURL }}">Download (PDF)</a></div>
+            {{ with .Params.based_in }}
+              <div class="col-sm-6 mb-2"><strong>Based in:</strong> {{ . }}</div>
+            {{ end }}
+            {{ with .Params.focus_now }}
+              <div class="col-sm-6 mb-2"><strong>Focus now:</strong> {{ . }}</div>
+            {{ end }}
+            {{ with .Site.Params.author_email }}
+              <div class="col-sm-6 mb-2"><strong>Email:</strong> <a href="mailto:{{ . }}">{{ . }}</a></div>
+            {{ end }}
+            {{ with .Params.cv_file }}
+              <div class="col-sm-6 mb-2"><strong>CV:</strong> <a href="{{ . | relURL }}">Download (PDF)</a></div>
+            {{ end }}
           </div>
         </div>
       </div>
     </div>
   </div>
+
+  <!-- Timeline -->
+  {{ with .Params.timeline }}
   <section class="container my-5">
     <h3 class="text-center mb-4">Timeline</h3>
     <div class="timeline">
+      {{ range . }}
       <div class="timeline-item">
         <div class="timeline-dot"></div>
         <div class="timeline-content">
-          <h5>2025 – Present</h5>
-          <p>Further leaning into hydrogen, manufacturing and the hard hardware industries; second Graduate studies in nanotechnology and materials science; trade association responsibilities, surfing and sun</p>
+          <h5>{{ .period }}</h5>
+          <p>{{ .text }}</p>
         </div>
       </div>
-  
-      <div class="timeline-item">
-        <div class="timeline-dot"></div>
-        <div class="timeline-content">
-          <h5>2021 – 2024</h5>
-          <p>An era marked by learning to be a Chief of Staff, stepping up in military responsibility, obsession with Napoleon's marshals, seeding interest into material science, an an intentionality of creation over consumption: this website, cooking, writing and poetry</p>
-        </div>
-      </div>
-  
-      <div class="timeline-item">
-        <div class="timeline-dot"></div>
-        <div class="timeline-content">
-          <h5>2017 – 2020</h5>
-          <p>Early career building. Developed a desire to framework everything, a macro stuff like development economics, complexity science, sustainability and geopolitics. Change in environment forced a confrontation with the self. </p>
-        </div>
-      </div>
-    </div>
-
-      <div class="timeline-item">
-        <div class="timeline-dot"></div>
-        <div class="timeline-content">
-          <h5>2012 – 2016</h5>
-          <p>Student years, marked by a realization that I am not an engineer. In another life, perhaps philosophy or economics would have been my favored field. Formative intellectual years and exposure in my masters in Cambridge. (Which I will summarise as an aspiring tribe of ratchet intellectuals). Cooking, travelling, </p>
-        </div>
-      </div>
+      {{ end }}
     </div>
   </section>
-  
+  {{ end }}
 
-  <!-- Updates / now -->
+  <!-- Now -->
+  {{ with .Params.media_now }}
   <div class="row">
     <div class="col-md-10 col-lg-8 mx-auto">
-      <p class="text-muted">
-        Latest Media Consumption Obsession: <a href="https://en.wikipedia.org/wiki/A_Sun_(film)">TBC</a>
-      </p>
+      <p class="text-muted">Latest Media Consumption Obsession: {{ . }}</p>
     </div>
   </div>
+  {{ end }}
 
 </section>
 

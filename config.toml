@@ -25,6 +25,7 @@ copyright = "© 2020-2024, Wai Jun Mak"
 
 [params]
   author = "Wai Jun Mak"
+  author_email = "mak.waijun@gmail.com"
 
   [[params.social]]
     name = "Steam"
@@ -56,3 +57,9 @@ instagram = "your-instagram-url"
 youtube = "your-youtube-url"
 
 paginate = 10                   # global fallback for other sections
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
