@@ -2,6 +2,7 @@
 title: "110: Views on Sustainability in 2023"
 date: 2023-12-26T18:50:00+08:00
 draft: false
+tags: ["sustainability"]
 ---
 
 I've been into this field for a while. studied in 2016. now worked and wokring for two climate hardware technology startups.

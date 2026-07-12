@@ -2,6 +2,7 @@
 title: "75: The Great Catch Up"
 date: 2022-08-22T22:00:00+08:00
 draft: false
+tags: ["personal"]
 ---
 
 There will soon be several weekends by which I would locked up in a room. Best play catch up for several posts I've been meaning to complete. 

@@ -2,6 +2,7 @@
 title: "141 On Leadership 3 - A Quarter as  new GM"
 date: 2026-04-05T13:00:00+08:00
 draft: false
+tags: ["career"]
 ---
 *Location: Dianshan lake, 5 April 2026*
 

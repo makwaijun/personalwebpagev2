@@ -2,6 +2,7 @@
 title: "74: On Illness and, Doing More and Doing less"
 date: 2022-08-21T20:30:00+08:00
 draft: false
+tags: ["personal"]
 ---
 A heavy title - Ah my friend Finitude, we meet again.
 

@@ -2,6 +2,7 @@
 title: "117: Meta: On Posts, Notetaking and Obsidian"
 date: 2024-05-01T08:30:00+08:00
 draft: false
+tags: ["meta"]
 ---
 
 *Currently in a hotel Lounge in LA, during a 3 day US trip for my Cousin's wedding*

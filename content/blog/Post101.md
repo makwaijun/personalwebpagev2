@@ -2,6 +2,7 @@
 title: "101: Philosophy 3 - On Intellectualism"
 date: 2023-05-14T19:30:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 This post and topic of choice sounds so so terribly pretentious, but I hope to absolve this with thoughtful content. 
 

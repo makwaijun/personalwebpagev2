@@ -2,6 +2,7 @@
 title: "128: Business 2 - Financial Planning and Budgeting"
 date: 2024-12-19T18:00:00+08:00
 draft: false
+tags: ["business"]
 ---
 
 Don't get me wrong, I'm neither a fan of Financial planning nor accounting, and there isn't really a reason to do this first aside from the fact that it is the end of the year, and I'd like to follow a similar thought process for my own personal "Budget" in 2025. 

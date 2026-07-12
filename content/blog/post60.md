@@ -2,7 +2,7 @@
 title: "60: On Love and War"
 date: 2022-02-26T11:30:00+08:00
 draft: false
-tags: ["personal", "current affairs"]
+tags: ["personal", "current-affairs"]
 ---
 
 Hectic and busy as of late, with both work and personal. 

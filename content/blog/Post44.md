@@ -2,6 +2,7 @@
 title: "Economics 7 - Sector Tier List - F***, Marry, Kill"
 date: 2021-04-15T23:00:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 TLDR;

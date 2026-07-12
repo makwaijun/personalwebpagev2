@@ -2,6 +2,7 @@
 title: "77: Human Nature 2: On Contexualising Brilliance "
 date: 2022-09-08T23:00:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 Across my life, and as much as I stray away from people and am happily writing this while under quarantine in Shanghai, I come across specific individuals, which for a lack of a better word, are __fascinating__. I'd be lying if this fascination didn't stir up an obsession akin to the "curiosities" in the 19th century. 

@@ -2,6 +2,7 @@
 title: "87: Sustainability 5 - On Greenwashing in an Age of Service (and compliance)"
 date: 2023-01-04T23:00:00+08:00
 draft: false
+tags: ["sustainability"]
 ---
 Happy new year!
 

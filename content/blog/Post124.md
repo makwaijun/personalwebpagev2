@@ -2,6 +2,7 @@
 title: "124: Travel 3 - UK, 2024"
 date: 2024-11-10T19:00:00+08:00
 draft: false
+tags: ["travel"]
 ---
 
 *A travel note from a work trip to London in September 2024*

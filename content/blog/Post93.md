@@ -2,6 +2,7 @@
 title: "93: Management 1 - On Leadership"
 date: 2023-02-17T23:00:00+08:00
 draft: false
+tags: ["career"]
 ---
 Or more broadly: a contemplation East vs West management Philosophy. This too, is a reflection of my personal heritage (third culture kid banana).
  

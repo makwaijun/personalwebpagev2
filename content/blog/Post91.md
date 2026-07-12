@@ -2,6 +2,7 @@
 title: "91: Geopolitics 1 - Pax Technologica"
 date: 2023-02-17T22:40:00+08:00
 draft: false
+tags: ["government", "current-affairs"]
 ---
 Peace has historically been dictated by the control of a power singular hegemon.
 

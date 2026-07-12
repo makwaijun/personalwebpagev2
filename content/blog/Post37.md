@@ -2,6 +2,7 @@
 title: "Economics 2 - Trends Across Chapters"
 date: 2021-03-15T23:00:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 TLDR;

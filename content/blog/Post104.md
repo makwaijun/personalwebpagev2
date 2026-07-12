@@ -2,6 +2,7 @@
 title: "104: Economics 11: On the Gig Economy and Commoditised work"
 date: 2023-07-08T20:30:00+08:00
 draft: false
+tags: ["economics", "career"]
 ---
 
 I initially drafted this from a conversation, loosely discussing how the gig economy works in this world (ahh typical casual sunday discussion). Its a new model for labour for sure - something worth looking at. 

@@ -2,7 +2,7 @@
 title: "The Intolerance of Intolerance"
 date: 2020-09-07T23:41:45+08:00
 draft: false
-tags: ["thoughts" ]
+tags: ["thoughts"]
 ---
 
 ### TLDR;

@@ -2,6 +2,7 @@
 title: "109: Labour 3 - On Missionaries vs Mercenaries"
 date: 2023-12-26T18:40:00+08:00
 draft: false
+tags: ["career"]
 ---
 
 #### The duality of men

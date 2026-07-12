@@ -2,6 +2,7 @@
 title: "121: On Command: Reflection on leading as a Captain"
 date: 2024-11-10T18:30:00+08:00
 draft: false
+tags: ["career"]
 ---
 The year 2024 was one intended to be slightly regressive. Emphasising other aspects beyond the romanticism and suffering of impassioned work. But, life tends to drop hints along the way, and I find myself a little overwhelmed with the ever accumulating "Extra Curricular Activites".
 

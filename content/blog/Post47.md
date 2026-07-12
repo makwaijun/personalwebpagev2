@@ -2,6 +2,7 @@
 title: "Economics 9 - The New Steady State"
 date: 2021-04-29T23:00:00+08:00
 draft: true
+tags: ["economics"]
 ---
 
 WIP - recompiling for flow

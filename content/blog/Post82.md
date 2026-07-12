@@ -2,6 +2,7 @@
 title: "82: Labour 1 - The Toils of my Time" 
 date: 2022-12-31T22:00:00+08:00
 draft: false
+tags: ["career"]
 ---
 
 Why do I work? 

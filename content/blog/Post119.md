@@ -2,6 +2,7 @@
 title: "119: Travel 1: Experience of COVID Quarantine in China"
 date: 2024-05-01T10:30:00+08:00
 draft: false
+tags: ["travel"]
 ---
 
 *Another ancient draft post dug up. Time to recall and dig up the memories....*

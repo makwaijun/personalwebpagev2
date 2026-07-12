@@ -2,6 +2,7 @@
 title: "Education 1 - Education Systems"
 date: 2021-05-19T23:00:00+08:00
 draft: false
+tags: ["education"]
 ---
 
 TLDR:

@@ -2,6 +2,7 @@
 title: "116: Artifical Intelligence 2: AI Assistants, and Cleaning up the Blog"
 date: 2024-05-01T07:30:00+08:00
 draft: false
+tags: ["ai", "meta"]
 ---
 
 My posts over the last year and a half are riddled with mistakes. 

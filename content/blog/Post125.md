@@ -2,6 +2,7 @@
 title: "125: On Fear and Death"
 date: 2024-11-11T11:30:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 # On Fear and Death

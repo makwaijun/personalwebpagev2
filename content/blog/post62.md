@@ -2,7 +2,7 @@
 title: "62: Career 2 - On Purpose"
 date: 2022-04-16T15:30:00+08:00
 draft: false
-tags: ["Career"]
+tags: ["career"]
 ---
 
 ### Preamble: Background homework - Individual beliefs and values

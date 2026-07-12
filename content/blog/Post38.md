@@ -2,6 +2,7 @@
 title: "Economics 3 - Dynamics within each Chapter "
 date: 2021-03-25T23:00:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 TLDR;

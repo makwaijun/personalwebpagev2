@@ -2,6 +2,7 @@
 title: "102: Universal Frameworks 3: On Tattoos, and Thinking in cycles and systems"
 date: 2023-07-03T19:30:00+08:00
 draft: false
+tags: ["thoughts"]
 ---
 As I draw closer towards permanance and consistency, a natural flow towards the rightful or wrongful ossification of my beliefs; 
 

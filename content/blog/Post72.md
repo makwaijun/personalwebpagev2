@@ -2,6 +2,7 @@
 title: "72: Education 3 - On Educating Character and Succession"
 date: 2022-07-12T12:30:00+08:00
 draft: false
+tags: ["education"]
 ---
 And off that last post on Children, I dug up yet another related post in the backlog. 
 

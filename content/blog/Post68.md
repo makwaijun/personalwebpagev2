@@ -2,6 +2,7 @@
 title: "68: Life 3 - On Complete Support Systems"
 date: 2022-07-11T17:30:00+08:00
 draft: false
+tags: ["personal"]
 ---
 
 I was in the sea today. And saw the buoys bobbing. I set a target; an unconcious marker to swim to before returning to shore. 

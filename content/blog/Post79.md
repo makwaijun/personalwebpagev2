@@ -2,6 +2,7 @@
 title: "79: Human Nature 4: On Privilege and its Pathways"
 date: 2022-09-10T23:00:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 Inequality is [real and everywhere](https://www.makwaijun.com/blog/post52/).  Inequality begets privilege. 

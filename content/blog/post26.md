@@ -2,7 +2,7 @@
 title: "On a 2020 Retrospection and what Makes Me, Me"
 date: 2020-12-27T23:00:00+08:00
 draft: false
-tags: ["Personal"]
+tags: ["personal"]
 ---
 
 #### TLDR;

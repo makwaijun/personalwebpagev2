@@ -2,6 +2,7 @@
 title: "71: On Children"
 date: 2022-07-12T11:30:00+08:00
 draft: false
+tags: ["personal", "relationships"]
 ---
 
 There is a increasing trend nowadays of people in my generation that don't want children. Climate change, and not being able to give them the best are often cited as reasons - but I struggle to completely wrap my head around it. I don't believe this choice is rational one at all, and points towards deeper emotional reasons. 

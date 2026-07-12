@@ -2,6 +2,7 @@
 title: "135: Energy without the Noise, future trends"
 date: 2025-06-03T18:00:00+08:00
 draft: false
+tags: ["energy"]
 ---
 
 Noting and recording what someone (corporate, non philosophical stuff really), said about energy at a talk I attended in Mid April 2025

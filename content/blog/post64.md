@@ -2,7 +2,7 @@
 title: "64: Economics 9 - Economic Development For Developed Economies"
 date: 2022-04-23T15:30:00+08:00
 draft: false
-tags: ["Economics"]
+tags: ["economics"]
 ---
 ### Preamble
 I am not economically trained and the thinking below could either come across as i) Bizarre, or ii) Obvious to those who read it. Welp, anyway:

@@ -2,6 +2,7 @@
 title: "The Intermission - From Sustainability to the Economy"
 date: 2021-02-02T23:00:00+08:00
 draft: false
+tags: ["sustainability", "economics"]
 ---
 
 TLDR: 

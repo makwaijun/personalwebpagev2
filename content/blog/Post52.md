@@ -2,6 +2,7 @@
 title: "The Pillars of Inequality - Framing the types of inequalities, and why it persists"
 date: 2021-09-03T23:00:00+08:00
 draft: false
+tags: ["economics", "government"]
 ---
 
 TLDR;

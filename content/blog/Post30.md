@@ -2,6 +2,7 @@
 title: "Sustainability Part 3 -Understanding Sustainability Holistically"
 date: 2021-01-31T23:00:00+08:00
 draft: false
+tags: ["sustainability"]
 ---
 
 - TLDR: 

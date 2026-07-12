@@ -2,6 +2,7 @@
 title: "A Preface on the Field of Economics"
 date: 2021-03-01T23:00:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 Over the course of the last couple of years, and in part due to my time working in Singapore’s Economic Development Agency, I have since developed a fond interest in the economy/ field of economics. 

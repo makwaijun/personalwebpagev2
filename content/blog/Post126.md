@@ -2,6 +2,7 @@
 title: "126: Meta 2 - (Finally) Building the Second Brain"
 date: 2024-12-19T16:30:00+08:00
 draft: false
+tags: ["meta"]
 ---
 
 

@@ -2,6 +2,7 @@
 title: "139 Economics - Rent Economies"
 date: 2025-10-05T13:00:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 *Sunday October 5th, flight on the way back from Vietnam to Singapore*

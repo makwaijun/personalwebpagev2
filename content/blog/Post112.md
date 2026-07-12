@@ -2,6 +2,7 @@
 title: "112: Career 5 - Career Principles after 5 years"
 date: 2023-12-26T19:10:00+08:00
 draft: false
+tags: ["career"]
 ---
 
 Docmenting down some core thoughts I've had in mind, based on my 6 year working experience so far. I could describe it as something slightly unconventional - most notably by taking early risks and still somehow throwing myself into places out of my comfort zone.

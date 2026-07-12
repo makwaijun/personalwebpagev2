@@ -2,6 +2,7 @@
 title: "123: Travel 2 - Colombo, Sri Lanka 2024"
 date: 2024-11-10T18:50:00+08:00
 draft: false
+tags: ["travel"]
 ---
 *Background: booked a surfing camp at Kimasurf, Sri Lanka had recently gotten out of a foreign currency crisis. Decided to document quick travel notes* 
 

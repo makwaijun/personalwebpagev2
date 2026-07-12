@@ -2,6 +2,7 @@
 title: "118: Politics 3: Politics, People and Power"
 date: 2024-05-01T09:30:00+08:00
 draft: false
+tags: ["government"]
 ---
 
 *On a flight back from the US to Singapore, dug out an old draft to see if it can be finished*

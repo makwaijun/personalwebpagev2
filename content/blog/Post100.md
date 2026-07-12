@@ -2,6 +2,7 @@
 title: "100: Lifetemplation - on the 14th of May 2023"
 date: 2023-05-14T18:30:00+08:00
 draft: false
+tags: ["personal", "thoughts"]
 ---
 Wouldja look at that... its the 100th* post milestone.
 

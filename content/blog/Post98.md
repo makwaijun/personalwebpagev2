@@ -2,6 +2,7 @@
 title: "98: Career 4: On Generalism and Specialism, and career principles"
 date: 2023-04-15T10:00:00+08:00
 draft: false
+tags: ["career"]
 ---
 
 As a self-identified generalist, I often think about the use and meaning of considering specialisation.

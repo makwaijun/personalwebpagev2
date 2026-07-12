@@ -2,6 +2,7 @@
 title: "134: Travel 5 - Italy 2025, part 2"
 date: 2025-06-03T17:00:00+08:00
 draft: false
+tags: ["travel"]
 ---
 
 

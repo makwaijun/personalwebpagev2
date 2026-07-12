@@ -2,6 +2,7 @@
 title: "Economics 1- Breaking it down into Chapters "
 date: 2021-03-08T23:00:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 TLDR;

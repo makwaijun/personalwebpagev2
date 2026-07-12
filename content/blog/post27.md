@@ -2,6 +2,7 @@
 title: "A Renewed Direction - A blog to understand the world"
 date: 2021-01-17T23:00:00+08:00
 draft: false
+tags: ["meta"]
 ---
 
 #### TLDR;

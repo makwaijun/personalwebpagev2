@@ -2,6 +2,7 @@
 title: "103: Life 5 - On Comfort zones, Coaching and Virtue"
 date: 2023-07-03T20:30:00+08:00
 draft: false
+tags: ["personal", "philosophy"]
 ---
 
 *Sometime, in April 2023*

@@ -2,6 +2,7 @@
 title: "86: Decision-Making 2 - On Control and Balance"
 date: 2022-12-31T23:00:00+08:00
 draft: false
+tags: ["decision-making"]
 ---
 ### Control
 As specks of mere stardust, i've come to readily embrace the idea that we cannot control many things, and recognising this is half the battle. Our decisions and actions, therefore must account for such uncertainities to the 'best available knowledge' on hand.

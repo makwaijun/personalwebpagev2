@@ -2,7 +2,7 @@
 title: "59: On Millenials and CryptoMania 2"
 date: 2022-01-18T13:30:00+08:00
 draft: false
-tags: ["Economics"]
+tags: ["economics"]
 ---
 #### Cryptomaniallenials and the loss of meaning
 

@@ -2,6 +2,7 @@
 title: "Survivalism and the path of Life"
 date: 2020-08-26T20:23:55+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 ### TLDR 

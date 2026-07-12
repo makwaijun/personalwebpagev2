@@ -2,6 +2,7 @@
 title: "106: On Chief of Staffs, the art and science"
 date: 2023-08-27T14:30:00+08:00
 draft: false
+tags: ["career"]
 ---
 
 It has been quite some time since I've been lingering somewhere between a reflective and inspired mood - the sort of mood where writing makes sense on a sunny sunday afternoon, with a cool beverage perched upon a white table in a white-walled cafe. I could wish for a quieter environment, but the ceiling height windows permit a natural light that suffuses the mind with clean thought. To linger and languish is not pleasant, and I feel tense but lucid in events transpired. 

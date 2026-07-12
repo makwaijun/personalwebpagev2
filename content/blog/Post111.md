@@ -2,6 +2,7 @@
 title: "111: Career 4 - On Identity "
 date: 2023-12-26T19:00:00+08:00
 draft: false
+tags: ["career"]
 ---
 
 Indeed, one target in 2023 was to deeply review my personal relationship with my career. Well its the end of 2023 now, and I wouldnt say things are necessary peachy or rosy. The path is still gray: a rollercoaster of opportunity, failures, wishes, effort, lack of outcomes, tangibility, intangibility. And with this it makes it harder to swallow, when one feels to connected to the outcomes and success at work. Even more so - when many of these are not within one's control.

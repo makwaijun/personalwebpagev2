@@ -2,7 +2,7 @@
 title: "Sustainability Part 1 - My Take and My Concerns "
 date: 2021-01-20T23:00:00+08:00
 draft: false
-
+tags: ["sustainability"]
 ---
 
 TLDR; 

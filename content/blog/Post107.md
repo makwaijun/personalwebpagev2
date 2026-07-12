@@ -2,6 +2,7 @@
 title: "107: Philosophy 4 - On Polymathism"
 date: 2023-10-01T19:30:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 

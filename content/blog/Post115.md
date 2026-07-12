@@ -2,6 +2,7 @@
 title: "115: Cheat Sheet: Buddhism"
 date: 2024-03-09T14:30:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 I finished the book [Old Path White Clouds](https://www.goodreads.com/en/book/show/241899). 

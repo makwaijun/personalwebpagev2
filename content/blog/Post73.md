@@ -2,6 +2,7 @@
 title: "73: Education 4 - Reinvigorating the Decline of Modern Youth"
 date: 2022-07-12T20:30:00+08:00
 draft: false
+tags: ["education"]
 ---
 As a (temporary) closure to the series of posts on education, I stumbled across [Kurt Hahn](https://en.wikipedia.org/wiki/Kurt_Hahn). Who coincindentally, was also a founder of the high school that I went to (UWC). 
 

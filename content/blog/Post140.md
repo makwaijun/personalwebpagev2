@@ -2,6 +2,7 @@
 title: "140 On the Belief of Human Unity"
 date: 2026-02-01T13:00:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 As I enter mid-life, and found a brief moment in the sea between Bintan and Singapore. 

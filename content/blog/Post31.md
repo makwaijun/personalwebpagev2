@@ -2,6 +2,7 @@
 title: "Sustainability Part 4 - How the Advertising Industry has DOOMED the planet"
 date: 2021-01-31T23:30:00+08:00
 draft: false
+tags: ["sustainability"]
 ---
 
 - Warning: this is more of an opinionated ramble. Do not expect an evidence based argument behind this. The title is clickbait - something I rue, but the intent is to make a point on this topic.

@@ -2,7 +2,7 @@
 title: "66: Life 1 - On Peace, Spirituality and Religion"
 date: 2022-05-16T22:30:00+08:00
 draft: false
-tags: ["thoughts"]
+tags: ["thoughts", "philosophy"]
 ---
 
 Its time for...yet another post on existence and being! A more reflective/philosophical post (ugh love these sort of things over drinks). 

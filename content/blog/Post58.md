@@ -2,7 +2,7 @@
 title: "58: On Millenials and CryptoMania 1"
 date: 2022-01-15T13:30:00+08:00
 draft: false
-tags: ["Economics"]
+tags: ["economics"]
 ---
 Ah Millenials. I mean _Millenials_ as I picture an old fellow spittling away with a brusque sneer: A pittance of morality; lazy, arrogant foolish.
 

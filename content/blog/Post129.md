@@ -2,6 +2,7 @@
 title: "129: Business 2B - Finance Accounting"
 date: 2024-12-19T18:30:00+08:00
 draft: false
+tags: ["business"]
 ---
 
 Generally, I've found that accounting is not biblical scriptures, but its principles needs to be aligned. Most accounting practices can be fairly standard, but some that perhaps require more thought (based on past experience) are:

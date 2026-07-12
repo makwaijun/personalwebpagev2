@@ -2,6 +2,7 @@
 title: "96: Energy 4 - On Engaging with Energy Narratives "
 date: 2023-04-15T09:00:00+08:00
 draft: false
+tags: ["energy"]
 ---
 In my previous posts, I had endeavoured to bring clarity to myself on the complex topic of Energy. Having written this amost a month apart - I hope there isn't too much repetition - though if there is: it serves to underscore the areas i feel terribly strongly about.
 

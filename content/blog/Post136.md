@@ -2,6 +2,7 @@
 title: "136: On Autonomy and Connection"
 date: 2025-06-03T19:00:00+08:00
 draft: false
+tags: ["philosophy", "personal"]
 ---
 
 Likely written around 3 June (while somewhere in Italy)

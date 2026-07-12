@@ -2,6 +2,7 @@
 title: "Universal Frameworks: Thinking In Cycles"
 date: 2021-03-29T23:00:00+08:00
 draft: false
+tags: ["thoughts"]
 ---
 
 Before I continue on, I wanted to touch on another helpful model to rationalise why we see so many changes, disruptions, etc during these times. Thinking in cycles is a good reminder that what is bad, has been bad before; and what has been good has been good before. History is a powerful teacher and Change is one of the few consistent truths in life.

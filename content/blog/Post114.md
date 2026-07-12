@@ -2,6 +2,7 @@
 title: "114: Economics 9: On the Productivity Paradox and Illusion"
 date: 2023-12-26T19:30:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 This has been a post long stuck in "draft" form, given is complexity and breadth. Due to both mulling over a very abstract topic, and procrastination. 

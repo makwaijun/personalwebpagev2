@@ -2,6 +2,7 @@
 title: "94: Energy 2 - The Three Lenses to Understand the Energy landscape"
 date: 2023-03-01T11:00:00+08:00
 draft: false
+tags: ["energy"]
 ---
 
 My last post lightly covered the general energy trilemma framework. I noticed that there are slightly different definitions around the same thing; though I've adapted Arup's one. First because theyre reputable as engineers, and second, because I really like the use of the word "security. 

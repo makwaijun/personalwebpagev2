@@ -2,6 +2,7 @@
 title: "142 A Quarter in china - Sophisticated Supply; Sophisticated Demand"
 date: 2026-04-05T15:00:00+08:00
 draft: false
+tags: ["career", "travel"]
 ---
 
 *Location: Qingpu Library, 5 April 2026*

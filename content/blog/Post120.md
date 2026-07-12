@@ -2,6 +2,7 @@
 title: "120: On Resilience: Institutions of Libraries and Companies"
 date: 2024-11-01T11:30:00+08:00
 draft: false
+tags: ["thoughts"]
 ---
 
 *Another antiquated set of notes (likey 2021) dug out to refine and complete, finished on 21 Oct, in the skies above Karamy, on the way to Hamburg from China*

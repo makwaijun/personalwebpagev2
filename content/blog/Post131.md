@@ -2,6 +2,7 @@
 title: "131: Singapore 2 - The Future of Singapore (2024 ed.)"
 date: 2024-12-22T19:00:00+08:00
 draft: false
+tags: ["government", "current-affairs"]
 ---
 
 *I pick up this smattering of notes, on the back of finishing of a macro view of the evolving world order. What next but to write about a place a bit closer to home?*

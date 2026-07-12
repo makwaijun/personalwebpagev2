@@ -2,6 +2,7 @@
 title: "92: Philosophy 1 - On a Sense of Self"
 date: 2023-02-17T22:50:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 *This was written on a return plane ride from a Hong Kong work trip to Singapore around 10 Feb 2023.*
 

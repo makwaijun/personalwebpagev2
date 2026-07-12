@@ -2,7 +2,7 @@
 title: "63: Career 3 - On Career"
 date: 2022-04-17T15:30:00+08:00
 draft: false
-tags: ["Career"]
+tags: ["career"]
 ---
 
 This is a predominantly personal post - naive perhaps in the public domain, but nonetheless important guiding points for future endeavours.

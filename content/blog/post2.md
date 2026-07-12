@@ -2,7 +2,7 @@
 title: "A Template of my Own"
 date: 2020-05-10T16:25:18+08:00
 draft: false
-tags: ["website" ]
+tags: ["website"]
 ---
 #### TLDR; 
 

@@ -2,6 +2,7 @@
 title: "97: Philosophy 2: On Intuition and wine"
 date: 2023-04-15T09:30:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 I recently revisited sthe concept of intuition. I've been holding on to a strong belief that intuition comes with a certain wisdom. I'm not saying that intuition is better than logic per se. But I believe there's a natural progression where people transition from idealistic logic to a matured form of quality "intuition".

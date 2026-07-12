@@ -2,6 +2,7 @@
 title: "Economics 8 - Critical Uncertainties and Battlegrounds of the Future"
 date: 2021-04-22T23:00:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 TLDR;

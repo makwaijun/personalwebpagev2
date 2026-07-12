@@ -2,6 +2,7 @@
 title: "90: Life 4 - On...Retirement"
 date: 2023-02-17T22:30:00+08:00
 draft: false
+tags: ["personal"]
 ---
 Retirement has been a topic recently. Cropping up in some conversations.
 

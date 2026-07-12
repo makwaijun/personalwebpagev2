@@ -2,6 +2,7 @@
 title: "99: Politics 2 - On Extremism, moderation  and intuition"
 date: 2023-04-22T11:30:00+08:00
 draft: false
+tags: ["government"]
 ---
 In my previous post on political structures (it's been quite some time now), I described a basic framework/spectrum that helped me understand the general overview of such a complex topic.
 

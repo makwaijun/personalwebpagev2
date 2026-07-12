@@ -2,6 +2,7 @@
 title: "Education 2 - On Defining Education and the End of Tuition"
 date: 2021-08-01T23:00:00+08:00
 draft: false
+tags: ["education"]
 ---
 
 TLDR:

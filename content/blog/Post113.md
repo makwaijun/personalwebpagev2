@@ -2,6 +2,7 @@
 title: "113: Career 6 - Some reflections on my career so far in 2023"
 date: 2023-12-26T19:20:00+08:00
 draft: false
+tags: ["career"]
 ---
 
 Based on my mindset in 2023, I note down some quick reflections and reviews on what I've reflected on a slightly less than straightforward career so far.

@@ -2,6 +2,7 @@
 title: "Sustainability Part 2 - The Individual's Perspective: A Journey of Self-Discovery"
 date: 2021-01-21T23:00:00+08:00
 draft: false
+tags: ["sustainability"]
 ---
 
 - TLDR: 

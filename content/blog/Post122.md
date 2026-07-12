@@ -2,6 +2,7 @@
 title: "122: On the Porsche Museum"
 date: 2024-11-10T18:40:00+08:00
 draft: false
+tags: ["travel"]
 ---
 
 *Background - travelled down from Frankfurt to Stuttgart (and then to Munich and Augsburg) on the 25/26th October 2024 as part of a work trip* 

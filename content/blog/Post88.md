@@ -2,6 +2,7 @@
 title: "88: Decision-making 3: Trade-Off Mentality"
 date: 2023-02-17T22:00:00+08:00
 draft: false
+tags: ["decision-making"]
 ---
 This is a continuation of decision-making, but the thought process originated when I was working in the government. Hence, many of these examples might have flavours of macro-level themes of policy and governance - perhaps some of the tougher environments to make decisions.
 

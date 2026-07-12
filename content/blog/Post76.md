@@ -2,6 +2,7 @@
 title: "76: Human Nature 1 - On Akrasia"
 date: 2022-09-08T22:00:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 
 Like many topics in this blog, I enjoy contemplating the big unifying theories. Pervasive topics with elusive truths - the sort that if I could merely glimpse a semblance of an answer for it - would help me to rationalise the world on a meaningful scale. I find solace in thinking and intepreting what this means to me, my world view and eventually thinking "yea that makes sense" when aliens invade one day. No surprises.

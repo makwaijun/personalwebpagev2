@@ -2,6 +2,7 @@
 title: "70: Hobbies 2 - A Love Letter to Cooking"
 date: 2022-07-11T20:30:00+08:00
 draft: false
+tags: ["personal"]
 ---
 I started cooking while in university. It started with the simple things. 
 

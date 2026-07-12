@@ -2,6 +2,7 @@
 title: "85: Decision Making 1 - On Truth, Fact and Binarity of Action"
 date: 2022-12-31T22:30:00+08:00
 draft: false
+tags: ["decision-making"]
 ---
 
 (this was drafted likely in 2019... ive forgotten my core line of thinking on this one)

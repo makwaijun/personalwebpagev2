@@ -2,6 +2,7 @@
 title: "78: Human Nature 3 - On Accidental Heroism and Vanity"
 date: 2022-09-10T22:00:00+08:00
 draft: false
+tags: ["philosophy"]
 ---
 This post will be a story; and a story of a young man's internal conflict. On Accidental heroism, and the vanity of it all. 
 

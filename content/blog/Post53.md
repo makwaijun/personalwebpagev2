@@ -2,6 +2,7 @@
 title: "Sustainability as the next economic chapter - A note of validation on my earlier posts"
 date: 2021-11-02T21:00:00+08:00
 draft: false
+tags: ["sustainability", "economics"]
 ---
 
 TLDR;

@@ -2,6 +2,7 @@
 title: "Addendum to Economics 3 - Firm and Industry Examples"
 date: 2021-03-25T23:30:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 ### Consolidation and Monopolistic Tendencies - Examples

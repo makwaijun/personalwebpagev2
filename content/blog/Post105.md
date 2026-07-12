@@ -2,6 +2,7 @@
 title: "105: Artificial Intelligence 1: That Oh, AI's-gonna -takeover-the-world post"
 date: 2023-07-09T20:30:00+08:00
 draft: false
+tags: ["ai"]
 ---
 
 Seems every blog needs to comment on AI. Well here it goes.

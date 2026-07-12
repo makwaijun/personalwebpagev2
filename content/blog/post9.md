@@ -2,7 +2,7 @@
 title: "On a Mercantile Heritage and its shortcomings"
 date: 2020-10-03T21:00:14+08:00
 draft: false
-
+tags: ["economics", "current-affairs"]
 ---
 
 #### TLDR;

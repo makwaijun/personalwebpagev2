@@ -2,6 +2,7 @@
 title: "95: Energy 3 - The Broad Pathways to Decarbonisation"
 date: 2023-03-01T11:30:00+08:00
 draft: false
+tags: ["energy"]
 ---
 
 This post mirrors one that I had loosely outlined about sustainability (which I now can't find). 

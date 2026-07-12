@@ -2,6 +2,7 @@
 title: "Addendum to Economics 1: Chapters Explained"
 date: 2021-03-08T23:30:00+08:00
 draft: false
+tags: ["economics"]
 ---
 
 TLDR;

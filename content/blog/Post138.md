@@ -2,6 +2,7 @@
 title: "138 On Command 2 - Achieving, Motivating"
 date: 2025-08-11T13:00:00+08:00
 draft: false
+tags: ["career"]
 ---
 
 Another year, another In Camp Training (Singapore reservist shenanigans).  My 9th year of ICT (how time flies), and the 7th cycle in the "syllabus"

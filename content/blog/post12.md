@@ -2,6 +2,7 @@
 title: "How will you measure your life?"
 date: 2020-07-02T00:24:08+08:00
 draft: false
+tags: ["philosophy", "personal"]
 ---
 
 ### TDLR:

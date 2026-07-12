@@ -2,6 +2,7 @@
 title: "81: Energy 1 - Personal Perspectives on the energy industry"
 date: 2022-10-03T23:00:00+08:00
 draft: false
+tags: ["energy"]
 ---
 
 The energy industry is incredibly fascinating to me. 

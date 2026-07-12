@@ -2,6 +2,7 @@
 title: "137: On High Agency"
 date: 2025-08-09T13:00:00+08:00
 draft: false
+tags: ["philosophy", "personal"]
 ---
 
 I was introduced to Agency as an idea. This was well explained in the [article](http://highagency.com). A fun read, accompanied by memes and graphic accompaniments.

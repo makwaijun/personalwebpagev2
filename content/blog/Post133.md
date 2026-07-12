@@ -2,6 +2,7 @@
 title: "133: Raison detre revisited"
 date: 2025-06-03T16:00:00+08:00
 draft: false
+tags: ["meta", "personal"]
 ---
 
 At the Botanic Wachtler.

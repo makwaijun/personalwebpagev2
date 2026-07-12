@@ -2,7 +2,7 @@
 title: "61: Career 1 - On a Purposeful Career and Meaningful work"
 date: 2022-04-15T15:30:00+08:00
 draft: false
-tags: ["Career"]
+tags: ["career"]
 ---
 ### Preamble
 First of all, I am in a blessed position where I do not have to obsess about finances (the most relevant goal of work). Instead, I explore the more indulgent aspects of work, assuming we are able to put enough food on the table and live well. This is made possible with limited liabilities and a stable background, which I must remind myself not to take for granted. 
